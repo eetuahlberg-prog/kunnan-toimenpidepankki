@@ -1,0 +1,2247 @@
+[
+  {
+    "id": "building-energy",
+    "title": "Säädetään kunnan kiinteistöjen ilmanvaihto ja lämmitys käyttöaikojen mukaan",
+    "keywords": [
+      "energiatehok",
+      "energiansäästö",
+      "energiankulutu",
+      "kiinteistöautom",
+      "ilmanvaih",
+      "energiakatsel",
+      "kulutusseuran",
+      "talotekni",
+      "kiinteistötekni",
+      "lämmitys &",
+      "iv optimointi",
+      "lämmön talteen",
+      "hukkalämm",
+      "lämpöenergian talteen",
+      "etävalvonta",
+      "hukkalämp",
+      "energiankäytön tehost",
+      "energia tehok",
+      "iv-kone",
+      "automaatiojärjest",
+      "astetta alemmaksi",
+      "energiaselvitys",
+      "energiavirtojen"
+    ],
+    "theme": "Energia",
+    "steps": [
+      {
+        "action": "Kootaan valittujen kiinteistöjen sähkön ja lämmön kulutus sekä käyttöajat. Tarkistetaan ilmanvaihdon, lämmityksen ja automaation säädöt yhdessä kiinteistönhoidon kanssa.",
+        "result": "Kohdelista ja ehdotus korjattavista säädöistä sekä tarvittavista investoinneista.",
+        "metric": "Tarkistetut kohteet; lähtökulutus MWh/v.",
+        "resources": "Kulutustiedot, kiinteistönhoidon työaika ja tarvittaessa katselmus.",
+        "yearOffset": 0,
+        "quarter": "1–2"
+      },
+      {
+        "action": "Toteutetaan hyväksytyt säädöt ja parannukset. Verrataan kulutusta lähtötilanteeseen huomioiden sää ja rakennuksen käytön muutokset.",
+        "result": "Dokumentoidut parannukset ja kulutuksen vertailu.",
+        "metric": "Toteutetut parannukset; sääkorjattu lämmönkulutus ja sähkönkulutus.",
+        "resources": "Päätös investoinneista tarvittaessa; sisäilman ja käyttötarpeiden huomiointi.",
+        "yearOffset": 1,
+        "quarter": "1–4"
+      }
+    ],
+    "alternativeSteps": [
+      {
+        "action": "Aloitetaan yhdestä paljon energiaa käyttävästä rakennuksesta ja tarkistetaan ensin aikaohjelmat.",
+        "result": "Yhden kohteen säätölista.",
+        "metric": "Tarkistus tehty; sovitut korjaukset.",
+        "resources": "Kiinteistönhoitajan ja tilojen käyttäjien työaika.",
+        "yearOffset": 0,
+        "quarter": "1–2"
+      },
+      {
+        "action": "Seurataan kohteen kulutusta kuukausittain ja päätetään havaintojen perusteella, laajennetaanko tarkistus muihin rakennuksiin.",
+        "result": "Päätös jatkosta todellisen kulutustiedon perusteella.",
+        "metric": "Kulutus ja havaitut poikkeamat kuukausittain.",
+        "resources": "Kulutusseuranta ja nimetty vastuuhenkilö.",
+        "yearOffset": 1,
+        "quarter": "1–4"
+      }
+    ],
+    "effects": {
+      "emissions": "Energiankulutuksen väheneminen voi vähentää päästöjä; suuruus riippuu säästöstä ja käytetystä energiasta.",
+      "sinks": "Ei tunnistettua suoraa hiilinieluvaikutusta.",
+      "adaptation": "Sopeutumishyöty ei ole tämän toimen pääasiallinen tavoite.",
+      "costs": "Työaika ja mahdollinen hankinta on arvioitava ennen päätöstä.",
+      "savings": "Energia- ja käyttökuluissa voi syntyä säästöjä. Investoinnin kannattavuus arvioidaan erikseen.",
+      "other": "Muut hyödyt tarkennetaan kohteen mukaan.",
+      "control": "Kunta voi päättää omasta toiminnastaan; kumppanien osuus sovitaan erikseen.",
+      "feasibility": "Rajattu valmistelu ja kokeilu voidaan käynnistää kahdessa vuodessa, jos vastuu ja resurssi sovitaan."
+    },
+    "sources": [
+      "hinku-energy",
+      "ph-effects"
+    ],
+    "basis": "Sodankylä ilmoitti talotekniikan aikaohjelmien optimoinnista ja Rääkkylä automaation päivityksestä. Työvaiheet ovat näistä ja energia-arvioista johdettu ehdotus.",
+    "question": "Onko kulutustiedot tai energiakatselmus jo käytettävissä?",
+    "kind": "Työkalun ehdotus",
+    "topic": "Kunnan kiinteistöjen energiansäästö",
+    "focus": [
+      "emissions"
+    ]
+  },
+  {
+    "id": "lighting",
+    "title": "Uusitaan valitun alueen valaisimet ja säädetään niiden ohjaus",
+    "keywords": [
+      "valaist",
+      "valaisin",
+      "katuvalo",
+      "led-val",
+      "led-tek",
+      "led-pol",
+      "katuvalais",
+      "led-put",
+      "led-muutos",
+      "ledejä",
+      "ledeihin"
+    ],
+    "theme": "Energia",
+    "steps": [
+      {
+        "action": "Luetteloidaan uusimatta olevat valaisimet ja käyttöajat. Valitaan seuraava uusittava alue sekä turvallinen valaistuksen ohjaustapa.",
+        "result": "Kohdennettu uusimissuunnitelma ja kustannusarvio.",
+        "metric": "Uusittavat valaisimet; lähtöteho ja käyttöaika.",
+        "resources": "Valaisinluettelo, sähkösuunnittelu ja kustannusarvio.",
+        "yearOffset": 0,
+        "quarter": "1–2"
+      },
+      {
+        "action": "Uusitaan päätetty alue ja säädetään ohjaus. Tarkistetaan valaistuksen toimivuus ja energiankulutus käyttöönoton jälkeen.",
+        "result": "Toimiva, tarpeeseen sovitettu valaistus.",
+        "metric": "Uusitut valaisimet; kulutus kWh/v; käyttäjäpalaute.",
+        "resources": "Hankintapäätös, asennus ja ylläpidon vastuu.",
+        "yearOffset": 1,
+        "quarter": "1–4"
+      }
+    ],
+    "alternativeSteps": [
+      {
+        "action": "Tarkistetaan nykyisten valojen paloajat ja himmennysmahdollisuus yhdellä alueella.",
+        "result": "Turvallisuustarpeisiin sovitettu ohjauskokeilu.",
+        "metric": "Ohjelmoidut valaisimet ja käyttöajat.",
+        "resources": "Teknisen toimen tarkistus; turvallisuuden arviointi.",
+        "yearOffset": 0,
+        "quarter": "1–2"
+      },
+      {
+        "action": "Verrataan kokeilun kulutusta ja palautetta ennen laajempaa uusimista.",
+        "result": "Päätös ohjauksen laajentamisesta tai uusimisesta.",
+        "metric": "Energiankulutus ja korjaustarpeet.",
+        "resources": "Seuranta ja mahdollinen seuraavan vuoden määräraha.",
+        "yearOffset": 1,
+        "quarter": "1–4"
+      }
+    ],
+    "effects": {
+      "emissions": "Sähkönkulutus voi pienentyä. Päästövaikutuksen suuruus riippuu lähtövalaistuksesta ja käyttöajasta.",
+      "sinks": "Ei tunnistettua suoraa hiilinieluvaikutusta.",
+      "adaptation": "Sopeutumishyöty ei ole tämän toimen pääasiallinen tavoite.",
+      "costs": "Työaika ja mahdollinen hankinta on arvioitava ennen päätöstä.",
+      "savings": "Sähkö- ja huoltokuluissa voi syntyä säästöä; investointikustannus selvitettävä.",
+      "other": "Muut hyödyt tarkennetaan kohteen mukaan.",
+      "control": "Kunta voi päättää omasta toiminnastaan; kumppanien osuus sovitaan erikseen.",
+      "feasibility": "Rajattu valmistelu ja kokeilu voidaan käynnistää kahdessa vuodessa, jos vastuu ja resurssi sovitaan."
+    },
+    "sources": [
+      "hinku-energy",
+      "ph-effects"
+    ],
+    "basis": "Hinku-koosteessa esimerkiksi Kiteen latujen ja Lieksan jääkiekkokaukalon LED-muutokset ovat kuntien ilmoittamia toteutuneita toimia.",
+    "question": "Mitkä valaisimet on jo uusittu?",
+    "kind": "Työkalun ehdotus",
+    "topic": "Valaistuksen uusiminen ja ohjaus",
+    "focus": [
+      "emissions"
+    ]
+  },
+  {
+    "id": "heating",
+    "title": "Korvataan valitun kiinteistön öljylämmitys",
+    "keywords": [
+      "öljylämm",
+      "lämmitystapa",
+      "lämmitysmuoto",
+      "maalämp",
+      "lämpöpum",
+      "kaukolämp",
+      "öljyn käytön vähent"
+    ],
+    "theme": "Energia",
+    "steps": [
+      {
+        "action": "Tarkistetaan jäljellä olevat öljylämmitteiset kohteet ja niiden tuleva käyttö. Verrataan soveltuvien lämmitysratkaisujen investointi-, käyttö- ja huoltokustannuksia.",
+        "result": "Kohdekohtainen vaihtoehtovertailu ja päätösesitys.",
+        "metric": "Vertailut kohteet; öljynkulutus l/v.",
+        "resources": "Kulutustiedot, tekninen selvitys ja verkkojen saatavuus.",
+        "yearOffset": 0,
+        "quarter": "1–2"
+      },
+      {
+        "action": "Toteutetaan valittu lämmitystapamuutos hyväksytyn rahoituksen puitteissa. Seurataan korvaavan energian kulutusta ja käyttökuluja.",
+        "result": "Käyttöönotettu järjestelmä ja vertailu lähtötilanteeseen.",
+        "metric": "Korvattu öljynkulutus; uusi energiankulutus; käyttökulut.",
+        "resources": "Investointipäätös, suunnittelu, hankinta ja käyttäjäopastus.",
+        "yearOffset": 1,
+        "quarter": "1–4"
+      }
+    ],
+    "alternativeSteps": [
+      {
+        "action": "Tilataan yhden pitkäaikaiseen käyttöön jäävän kiinteistön lämmitystapavertailu.",
+        "result": "Yhden kohteen toteutusvalmis vaihtoehtoarvio.",
+        "metric": "Vertailu valmis; toteutuksen edellytykset tunnistettu.",
+        "resources": "Asiantuntija-arvio ja kiinteistön käyttötarve.",
+        "yearOffset": 0,
+        "quarter": "1–2"
+      },
+      {
+        "action": "Viedään kustannusarvio talousarvioon ja valmistellaan hankinta korjausohjelman yhteydessä.",
+        "result": "Rahoitus- ja toteutuspäätös tai perusteltu siirto myöhemmäksi.",
+        "metric": "Päätös ja sovittu toteutusvuosi.",
+        "resources": "Talousarviokäsittely ja hankinnan valmistelu.",
+        "yearOffset": 1,
+        "quarter": "1–4"
+      }
+    ],
+    "effects": {
+      "emissions": "Öljyn korvaaminen voi vähentää käytön päästöjä merkittävästi kohteessa. Korvaavan lämmön päästöt on arvioitava.",
+      "sinks": "Ei tunnistettua suoraa hiilinieluvaikutusta.",
+      "adaptation": "Sopeutumishyöty ei ole tämän toimen pääasiallinen tavoite.",
+      "costs": "Edellyttää tavallisesti investointia; koko käyttöajan kustannukset ratkaisevat.",
+      "savings": "Käyttökulut voivat pienentyä, mutta energian hinta ja kiinteistön käyttö vaikuttavat.",
+      "other": "Muut hyödyt tarkennetaan kohteen mukaan.",
+      "control": "Kunta voi päättää omasta toiminnastaan; kumppanien osuus sovitaan erikseen.",
+      "feasibility": "Rajattu valmistelu ja kokeilu voidaan käynnistää kahdessa vuodessa, jos vastuu ja resurssi sovitaan."
+    },
+    "sources": [
+      "hinku-energy",
+      "savon-energy"
+    ],
+    "basis": "Kontiolahti ilmoitti Hinku-koosteessa kyläkoulun lämmityksen muuttamisesta pois öljystä. Ehdotus ei oleta muiden kohteiden nykyistä lämmitystapaa.",
+    "question": "Onko kohde käytössä pitkään ja onko lämmitystapavertailu jo tehty?",
+    "kind": "Työkalun ehdotus",
+    "topic": "Öljylämmityksen korvaaminen",
+    "focus": [
+      "emissions"
+    ]
+  },
+  {
+    "id": "solar",
+    "title": "Asennetaan aurinkosähköjärjestelmä soveltuvaan kunnan kiinteistöön",
+    "keywords": [
+      "aurinko"
+    ],
+    "theme": "Energia",
+    "steps": [
+      {
+        "action": "Valitaan kiinteistö, jossa on päiväaikaista sähkönkulutusta. Tarkistetaan katon kunto, soveltuvuus ja omaan käyttöön jäävä tuotanto sekä pyydetään kannattavuusvertailu.",
+        "result": "Kohteen soveltuvuus- ja kustannusarvio.",
+        "metric": "Omakäyttöarvio; suunniteltu teho kWp.",
+        "resources": "Kulutusprofiili, rakennearvio, sähkösuunnittelu ja kustannustiedot.",
+        "yearOffset": 0,
+        "quarter": "1–2"
+      },
+      {
+        "action": "Toteutetaan järjestelmä vain hyväksytyn vertailun ja investointipäätöksen perusteella. Seurataan tuotantoa ja omaa käyttöä.",
+        "result": "Toimiva järjestelmä ja tuotannon seuranta.",
+        "metric": "Tuotanto ja omakäyttö kWh/v; ostosähkön muutos.",
+        "resources": "Investointi, hankinta, liittäminen verkkoon ja huollon vastuu.",
+        "yearOffset": 1,
+        "quarter": "1–4"
+      }
+    ],
+    "alternativeSteps": [
+      {
+        "action": "Arvioidaan aurinkosähkö tulevan kattoremontin yhteydessä ja verrataan omaa hankintaa palveluratkaisuun.",
+        "result": "Vaihtoehtojen kustannukset ja vastuut kuvattu.",
+        "metric": "Vertailu ja sopimusehdot tarkistettu.",
+        "resources": "Kiinteistö- ja talousasiantuntijan työaika.",
+        "yearOffset": 0,
+        "quarter": "1–2"
+      },
+      {
+        "action": "Päätetään toteutustapa tai siirto ja kirjataan perusteet kiinteistön korjausohjelmaan.",
+        "result": "Perusteltu investointiratkaisu.",
+        "metric": "Päätös tehty; seuranta sovittu.",
+        "resources": "Mahdollinen määräraha tai palvelusopimus.",
+        "yearOffset": 1,
+        "quarter": "1–4"
+      }
+    ],
+    "effects": {
+      "emissions": "Voi vähentää ostosähkön tarvetta. Ilmastovaikutus arvioidaan tuotannon, korvautuvan sähkön ja järjestelmän elinkaaren perusteella.",
+      "sinks": "Ei tunnistettua suoraa hiilinieluvaikutusta.",
+      "adaptation": "Sopeutumishyöty ei ole tämän toimen pääasiallinen tavoite.",
+      "costs": "Työaika ja mahdollinen hankinta on arvioitava ennen päätöstä.",
+      "savings": "Säästö riippuu omakäytöstä, sähkön hinnasta ja hankintamallista.",
+      "other": "Muut hyödyt tarkennetaan kohteen mukaan.",
+      "control": "Kunta voi päättää omasta toiminnastaan; kumppanien osuus sovitaan erikseen.",
+      "feasibility": "Rajattu valmistelu ja kokeilu voidaan käynnistää kahdessa vuodessa, jos vastuu ja resurssi sovitaan."
+    },
+    "sources": [
+      "hinku-energy",
+      "savon-energy"
+    ],
+    "basis": "Siuntio ilmoitti aurinkosähköjärjestelmän asentamisesta vedenottamoon. Työkalun ehdotus edellyttää oman kohteen selvitystä.",
+    "question": "Onko kohteen tuntikulutus ja katon jäljellä oleva käyttöikä tiedossa?",
+    "kind": "Työkalun ehdotus",
+    "topic": "Aurinkosähkö kunnan kiinteistöön",
+    "focus": [
+      "emissions"
+    ]
+  },
+  {
+    "id": "space-use",
+    "title": "Yhdistetään toimintoja yhteisiin tiloihin ja vähennetään vajaakäyttöä",
+    "keywords": [
+      "käyttöaste",
+      "tilatehok",
+      "tilojen käy",
+      "tyhjien",
+      "tyhjät",
+      "tarpeettom",
+      "kiinteistöstrateg",
+      "kiinteistöistä luopu",
+      "kiinteistökannan sopeutt",
+      "tilankäytön",
+      "kiinteistöjen tehokas käyttö",
+      "toimitilojen",
+      "tilankäyttöä",
+      "käyttöä olevia kiinteistöjä",
+      "toimitilaohjel"
+    ],
+    "theme": "Rakennukset",
+    "steps": [
+      {
+        "action": "Kootaan kunnan tilojen käyttöajat, ylläpitokulut ja palvelutarpeet. Tunnistetaan vajaakäyttöiset tilat ja mahdollisuudet yhteiskäyttöön.",
+        "result": "Tilakohtainen käyttö- ja kustannusvertailu.",
+        "metric": "Käyttötunnit; ylläpitokulut; lämmitetty pinta-ala.",
+        "resources": "Tilapalvelujen ja käyttäjien tiedot sekä palvelujen saavutettavuuden arviointi.",
+        "yearOffset": 0,
+        "quarter": "1–2"
+      },
+      {
+        "action": "Päätetään yhden rajatun tilakokonaisuuden yhteiskäytöstä tai käytöstä poistamisesta. Toteutetaan muutos ja seurataan kokonaiskuluja.",
+        "result": "Palvelutarpeisiin sopiva tilaratkaisu.",
+        "metric": "Käyttöasteen, kulujen ja energiankulutuksen muutos.",
+        "resources": "Päätös tiloista, mahdolliset muutostyöt ja käyttäjien järjestelyt.",
+        "yearOffset": 1,
+        "quarter": "1–4"
+      }
+    ],
+    "alternativeSteps": [
+      {
+        "action": "Kokeillaan nykyisten tilojen yhteistä varauskalenteria ja sovitaan iltakäytön vastuut.",
+        "result": "Yhteiskäytön kokeilu.",
+        "metric": "Varausten ja käyttötuntien määrä.",
+        "resources": "Varauskäytäntö ja vastuuhenkilö.",
+        "yearOffset": 0,
+        "quarter": "1–2"
+      },
+      {
+        "action": "Arvioidaan kokeilun vaikutus lisätilojen tarpeeseen ennen seuraavaa tilapäätöstä.",
+        "result": "Tieto siitä, voidaanko uutta tilatarvetta välttää.",
+        "metric": "Käyttöaste ja käyttäjäpalaute.",
+        "resources": "Tilapalvelujen arvio ja päätöksenteko.",
+        "yearOffset": 1,
+        "quarter": "1–4"
+      }
+    ],
+    "effects": {
+      "emissions": "Hyöty syntyy, jos lämmitettävä tai rakennettava tila vähenee. Pelkkä käyttöasteen kasvu ei takaa energiansäästöä.",
+      "sinks": "Ei tunnistettua suoraa hiilinieluvaikutusta.",
+      "adaptation": "Sopeutumishyöty ei ole tämän toimen pääasiallinen tavoite.",
+      "costs": "Työaika ja mahdollinen hankinta on arvioitava ennen päätöstä.",
+      "savings": "Ylläpitokuluja voi säästyä; muutto-, muutos- ja mahdolliset purkukulut huomioitava.",
+      "other": "Muut hyödyt tarkennetaan kohteen mukaan.",
+      "control": "Kunta voi päättää omasta toiminnastaan; kumppanien osuus sovitaan erikseen.",
+      "feasibility": "Rajattu valmistelu ja kokeilu voidaan käynnistää kahdessa vuodessa, jos vastuu ja resurssi sovitaan."
+    },
+    "sources": [
+      "pielavesi",
+      "asikkala",
+      "ph-effects"
+    ],
+    "basis": "Pielavesi ja Asikkala käsittelevät tilojen käytön tehostamista suunnitelmissaan; Hinku-koosteessa Juuka ilmoitti tarpeettomista kiinteistöistä luopumisesta.",
+    "question": "Onko ajantasainen tilaselvitys jo tehty?",
+    "kind": "Työkalun ehdotus",
+    "topic": "Kunnan tilojen käytön tehostaminen",
+    "focus": [
+      "emissions"
+    ]
+  },
+  {
+    "id": "procurement",
+    "title": "Lisätään mitattavat ilmastokriteerit valittuun hankintaan",
+    "keywords": [
+      "hankinta",
+      "kilpailutu",
+      "elinkaari",
+      "hankinnoi",
+      "markkinointituotte"
+    ],
+    "theme": "Hankinnat",
+    "steps": [
+      {
+        "action": "Valitaan seuraavan vuoden hankinnoista yksi, jossa ilmasto- ja kustannusvaikutus on olennainen. Selvitetään markkinavuoropuhelussa toteuttamiskelpoiset vaatimukset ja niiden seuranta.",
+        "result": "Hankintaan sopivat, todennettavat ympäristökriteerit.",
+        "metric": "Valittu hankinta; määritellyt kriteerit ja todentamistapa.",
+        "resources": "Hankinnan omistaja, hankinta-asiantuntija ja toimittajien tiedot.",
+        "yearOffset": 0,
+        "quarter": "1–2"
+      },
+      {
+        "action": "Sisällytetään hyväksytyt kriteerit hankintaan ja sovitaan sopimusaikaisesta seurannasta. Kootaan kokemukset seuraavaa hankintaa varten.",
+        "result": "Sopimus, jonka ympäristövaatimuksia voidaan seurata.",
+        "metric": "Kriteerien toteutuminen; käyttöajan kustannukset.",
+        "resources": "Hankintapäätös ja nimetty sopimusseuranta.",
+        "yearOffset": 1,
+        "quarter": "1–4"
+      }
+    ],
+    "alternativeSteps": [
+      {
+        "action": "Päivitetään yhden hankintaryhmän ohjeeseen käyttöikä, korjattavuus ja kokonaiskustannusten tarkistus.",
+        "result": "Lyhyt hankintaohje ja valmis esimerkkilomake.",
+        "metric": "Ohje valmistunut ja vastuuhenkilöt perehdytetty.",
+        "resources": "Hankintojen valmistelijoiden yhteinen työaika.",
+        "yearOffset": 0,
+        "quarter": "1–2"
+      },
+      {
+        "action": "Testataan ohjetta seuraavassa hankinnassa ja korjataan käytännössä vaikeat kohdat.",
+        "result": "Testattu ohje.",
+        "metric": "Ohjetta käyttäneet hankinnat ja korjaukset.",
+        "resources": "Sopimusseuranta ja lyhyt palautekierros.",
+        "yearOffset": 1,
+        "quarter": "1–4"
+      }
+    ],
+    "effects": {
+      "emissions": "Mahdollinen välillinen päästövähennys riippuu hankinnan kohteesta ja siitä, muuttuuko hankittu ratkaisu.",
+      "sinks": "Ei tunnistettua suoraa hiilinieluvaikutusta.",
+      "adaptation": "Sopeutumishyöty ei ole tämän toimen pääasiallinen tavoite.",
+      "costs": "Työaika ja mahdollinen hankinta on arvioitava ennen päätöstä.",
+      "savings": "Käyttöajan kustannukset voivat alentua, vaikka hankintahinta nousisi.",
+      "other": "Muut hyödyt tarkennetaan kohteen mukaan.",
+      "control": "Kunta voi päättää omasta toiminnastaan; kumppanien osuus sovitaan erikseen.",
+      "feasibility": "Rajattu valmistelu ja kokeilu voidaan käynnistää kahdessa vuodessa, jos vastuu ja resurssi sovitaan."
+    },
+    "sources": [
+      "hinku-material",
+      "ym-method"
+    ],
+    "basis": "Rauma ilmoitti ilmastokriteerien lisäämisestä hankintaohjeeseen. Kriteerit on sovitettava kyseiseen hankintaan; malli ei anna valmista oikeudellista tarjouspyyntöä.",
+    "question": "Mikä merkittävä hankinta on seuraavaksi valmistelussa?",
+    "kind": "Työkalun ehdotus",
+    "topic": "Ilmastokriteerit tulevaan hankintaan",
+    "focus": [
+      "emissions"
+    ]
+  },
+  {
+    "id": "reuse",
+    "title": "Otetaan käyttöön kalusteluettelo ja siirretään tavarat uusiin käyttökohteisiin",
+    "keywords": [
+      "uudelleenkäyt",
+      "kaluste",
+      "kierrätysmateria",
+      "lainaus",
+      "tavaroiden",
+      "korjauspalvel",
+      "uusiokäyt",
+      "lainaamo"
+    ],
+    "theme": "Kiertotalous",
+    "steps": [
+      {
+        "action": "Kootaan käyttökelpoiset ylimääräiset kalusteet ja tavarat sekä tulevat tarpeet yhteiseen luetteloon. Sovitaan kunnon tarkistus ja luovutuksen vastuu.",
+        "result": "Kunnan sisäinen kierrätysluettelo ja toimintatapa.",
+        "metric": "Luetteloidut käyttökelpoiset tavarat; tunnistetut tarpeet.",
+        "resources": "Varasto- ja käyttäjätiedot, kunnon tarkistus ja säilytystila.",
+        "yearOffset": 0,
+        "quarter": "1–2"
+      },
+      {
+        "action": "Tarkistetaan luettelo ennen uusia hankintoja ja siirretään sopivat tavarat käyttöön. Seurataan korvautuneita uusia hankintoja.",
+        "result": "Uudessa käytössä olevat kalusteet ja toimiva luovutuskäytäntö.",
+        "metric": "Uudelleenkäytetyt tavarat; vältetyt hankinnat.",
+        "resources": "Kuljetus, mahdollinen kunnostus ja nimetty yhteyshenkilö.",
+        "yearOffset": 1,
+        "quarter": "1–4"
+      }
+    ],
+    "alternativeSteps": [
+      {
+        "action": "Rajataan kokeilu yhden muuttavan tai suljettavan kiinteistön kalusteisiin ja tarjotaan niitä ensin kunnan yksiköille.",
+        "result": "Kalusteille sovitut uudet käyttäjät.",
+        "metric": "Käyttöön siirtyvät kalusteet.",
+        "resources": "Kunnon ja turvallisuuden tarkistus.",
+        "yearOffset": 0,
+        "quarter": "1–2"
+      },
+      {
+        "action": "Kirjataan toimiva menettely hankintaohjeeseen ja arvioidaan tarve yhteiselle varastolle.",
+        "result": "Toistettava käytäntö.",
+        "metric": "Uudelleenkäyttö ennen uusia hankintoja toteutuu.",
+        "resources": "Hankintojen ja tilapalvelujen yhteistyö.",
+        "yearOffset": 1,
+        "quarter": "1–4"
+      }
+    ],
+    "effects": {
+      "emissions": "Voi vähentää uuden valmistuksen päästöjä, jos uudelleenkäyttö korvaa uuden hankinnan.",
+      "sinks": "Ei tunnistettua suoraa hiilinieluvaikutusta.",
+      "adaptation": "Sopeutumishyöty ei ole tämän toimen pääasiallinen tavoite.",
+      "costs": "Työaika ja mahdollinen hankinta on arvioitava ennen päätöstä.",
+      "savings": "Uusia hankintoja voi jäädä tekemättä. Kuljetus-, kunnostus- ja varastointikulut huomioitava.",
+      "other": "Muut hyödyt tarkennetaan kohteen mukaan.",
+      "control": "Kunta voi päättää omasta toiminnastaan; kumppanien osuus sovitaan erikseen.",
+      "feasibility": "Rajattu valmistelu ja kokeilu voidaan käynnistää kahdessa vuodessa, jos vastuu ja resurssi sovitaan."
+    },
+    "sources": [
+      "hinku-material",
+      "asikkala"
+    ],
+    "basis": "Joensuu ilmoitti kalusteiden kierrätyksestä ja Lohja kalustekierron toimintamallista Hinku-koosteessa.",
+    "question": "Onko kunnalla jo yhteinen kalusteluettelo tai kierrätysvarasto?",
+    "kind": "Työkalun ehdotus",
+    "topic": "Kalusteiden ja materiaalien uudelleenkäyttö",
+    "focus": [
+      "emissions"
+    ]
+  },
+  {
+    "id": "waste-sorting",
+    "title": "Korjataan lajittelupisteet ja opasteet valitussa kunnan kiinteistössä",
+    "keywords": [
+      "lajittel",
+      "biojät",
+      "jätehuol",
+      "kierrätyspis",
+      "kompost",
+      "kierrätysaste",
+      "kierrätystä",
+      "jätteenkerä",
+      "jätteen määrän",
+      "kierrätyksen lisää",
+      "kierrätysohje"
+    ],
+    "theme": "Kiertotalous",
+    "steps": [
+      {
+        "action": "Tarkistetaan yhden koulun tai muun kunnan kiinteistön jäteastiat, tyhjennykset ja opasteet yhdessä siivouksen ja jätehuollon kanssa.",
+        "result": "Puuttuvat keräysastiat ja epäselvät ohjeet tunnistettu.",
+        "metric": "Tarkistetut tilat; sekajätteen lähtömäärä, jos saatavissa.",
+        "resources": "Jätehuoltosopimus, kiinteistön käyttäjien havainnot ja työaika.",
+        "yearOffset": 0,
+        "quarter": "1–2"
+      },
+      {
+        "action": "Korjataan lajittelupisteet ja ohjeet, opastetaan käyttäjät ja tarkistetaan toimivuus seurantakäynnillä.",
+        "result": "Yhtenäinen lajittelukäytäntö.",
+        "metric": "Lajittelun virheet; sekajätteen määrä tai tyhjennykset.",
+        "resources": "Astiat, opasteet ja tarvittaessa sopimuksen muutos.",
+        "yearOffset": 1,
+        "quarter": "1–4"
+      }
+    ],
+    "alternativeSteps": [
+      {
+        "action": "Valitaan yksi selvä lajitteluongelma ja kokeillaan siihen opastetta tai astioiden sijoittelun muutosta.",
+        "result": "Rajattu lajittelukokeilu.",
+        "metric": "Ongelman esiintyminen ennen ja jälkeen.",
+        "resources": "Siivouksen ja käyttäjien palaute.",
+        "yearOffset": 0,
+        "quarter": "1–2"
+      },
+      {
+        "action": "Laajennetaan toimiva ratkaisu vastaaviin tiloihin.",
+        "result": "Yhteinen ohje samanlaisille kiinteistöille.",
+        "metric": "Mukaan otetut kiinteistöt.",
+        "resources": "Vastuuhenkilö ja pienhankinnat tarpeen mukaan.",
+        "yearOffset": 1,
+        "quarter": "1–4"
+      }
+    ],
+    "effects": {
+      "emissions": "Vaikutus riippuu jätteestä ja sen käsittelystä. Ensisijainen tavoite on jätteen synnyn ehkäisy.",
+      "sinks": "Ei tunnistettua suoraa hiilinieluvaikutusta.",
+      "adaptation": "Sopeutumishyöty ei ole tämän toimen pääasiallinen tavoite.",
+      "costs": "Työaika ja mahdollinen hankinta on arvioitava ennen päätöstä.",
+      "savings": "Tyhjennyskuluja voi vähentyä; lajitteluastiat ja keräys voivat myös lisätä kuluja.",
+      "other": "Muut hyödyt tarkennetaan kohteen mukaan.",
+      "control": "Kunta voi päättää omasta toiminnastaan; kumppanien osuus sovitaan erikseen.",
+      "feasibility": "Rajattu valmistelu ja kokeilu voidaan käynnistää kahdessa vuodessa, jos vastuu ja resurssi sovitaan."
+    },
+    "sources": [
+      "hinku-material",
+      "pielavesi"
+    ],
+    "basis": "Hollola ilmoitti materiaalitehokkaasta keräyksestä kunnan tiloissa. Pielavesi käyttää lajitteluneuvontaa suunnitelmassaan.",
+    "question": "Missä tiloissa lajittelu ei tällä hetkellä toimi?",
+    "kind": "Työkalun ehdotus",
+    "topic": "Lajittelu toimivaksi kunnan tiloissa",
+    "focus": [
+      "emissions"
+    ]
+  },
+  {
+    "id": "food-waste",
+    "title": "Mitataan keittiön ruokahävikki ja muutetaan valmistusmääriä",
+    "keywords": [
+      "ruokahävik",
+      "hävikkiruo",
+      "hävikkiva",
+      "hävikin",
+      "ylijäämäruo",
+      "hävikkiruu"
+    ],
+    "theme": "Ruoka",
+    "steps": [
+      {
+        "action": "Mitataan valmistus-, tarjoilu- ja lautashävikki erikseen valitussa keittiössä. Kirjataan samalla valmistetut ja syödyt ateriat.",
+        "result": "Vertailukelpoinen lähtötilanne ja suurimmat hävikin syyt.",
+        "metric": "Hävikki g/ruokailija ja kg; ateriamäärät.",
+        "resources": "Keittiön työaika, vaaka ja yhteinen kirjaustapa.",
+        "yearOffset": 0,
+        "quarter": "1–2"
+      },
+      {
+        "action": "Muutetaan valmistusmääriä tai tarjoilutapaa mittauksen perusteella. Toistetaan seuranta ja kerätään ruokailijoiden palaute.",
+        "result": "Hävikkiä ehkäisevä toimintatapa.",
+        "metric": "Hävikki g/ruokailija; raaka-ainekustannus/ateria.",
+        "resources": "Ruokapalvelujen ja ruokailijoiden yhteistyö.",
+        "yearOffset": 1,
+        "quarter": "1–4"
+      }
+    ],
+    "alternativeSteps": [
+      {
+        "action": "Kokeillaan hävikin mittausta yhdessä koulussa rajatun jakson ajan.",
+        "result": "Yksinkertainen lähtötieto.",
+        "metric": "Hävikki ja ruokailijamäärä.",
+        "resources": "Vaaka ja vastuuhenkilö.",
+        "yearOffset": 0,
+        "quarter": "1–2"
+      },
+      {
+        "action": "Sovitaan yksi hävikin syytä korjaava muutos ja tarkistetaan tulos vastaavalla mittausjaksolla.",
+        "result": "Näyttö muutoksen toimivuudesta.",
+        "metric": "Hävikin muutos samalla mittaustavalla.",
+        "resources": "Keittiön työaika ja vertailukelpoinen seuranta.",
+        "yearOffset": 1,
+        "quarter": "1–4"
+      }
+    ],
+    "effects": {
+      "emissions": "Vähentää turhaan tuotetun ruoan päästöjä. Hyöty riippuu hävikin määrästä ja ruokalajista.",
+      "sinks": "Ei tunnistettua suoraa hiilinieluvaikutusta.",
+      "adaptation": "Sopeutumishyöty ei ole tämän toimen pääasiallinen tavoite.",
+      "costs": "Työaika ja mahdollinen hankinta on arvioitava ennen päätöstä.",
+      "savings": "Raaka-aineissa voi säästyä, jos valmistus- tai hankintamäärä vähenee.",
+      "other": "Muut hyödyt tarkennetaan kohteen mukaan.",
+      "control": "Kunta voi päättää omasta toiminnastaan; kumppanien osuus sovitaan erikseen.",
+      "feasibility": "Rajattu valmistelu ja kokeilu voidaan käynnistää kahdessa vuodessa, jos vastuu ja resurssi sovitaan."
+    },
+    "sources": [
+      "savon-food",
+      "kannon-food",
+      "hinku-material"
+    ],
+    "basis": "Juuan biojätevaa’at ovat toteutunut esimerkki Hinku-koosteessa. Ramboll suosittelee mittausta ja ruokailijoiden osallistamista.",
+    "question": "Onko hävikkiä jo mitattu ja missä vaiheessa sitä syntyy eniten?",
+    "kind": "Työkalun ehdotus",
+    "topic": "Ruokahävikin vähentäminen",
+    "focus": [
+      "emissions"
+    ]
+  },
+  {
+    "id": "meals",
+    "title": "Kokeillaan kasvispainotteisia reseptejä ja otetaan toimivat ateriat ruokalistalle",
+    "keywords": [
+      "kasvisruo",
+      "ruokalista",
+      "resepti",
+      "ruokapalvel",
+      "elintarvike",
+      "kouluruo",
+      "lähiruoka",
+      "kasvisruu",
+      "kouluruu",
+      "lähiruu",
+      "järvikalan",
+      "ilmastoruokaviik"
+    ],
+    "theme": "Ruoka",
+    "steps": [
+      {
+        "action": "Valitaan nykyisestä ruokalistasta muokattavat ateriat. Kehitetään ravitsemuksellisesti sopivia kasvispainotteisia vaihtoehtoja ja järjestetään maistatus ruokailijoille.",
+        "result": "Testatut reseptit ja palaute.",
+        "metric": "Hyväksytyt reseptit; maistatuspalaute.",
+        "resources": "Ruokapalvelujen osaaminen, ravitsemuskriteerit ja raaka-ainekustannukset.",
+        "yearOffset": 0,
+        "quarter": "1–2"
+      },
+      {
+        "action": "Otetaan toimivat reseptit ruokalistalle ja seurataan menekkiä, hävikkiä ja kustannuksia. Korjataan huonosti toimivat vaihtoehdot.",
+        "result": "Käytössä oleva päivitetty ruokalista.",
+        "metric": "Ruokailijamäärä; hävikki; kustannus/ateria.",
+        "resources": "Keittiöhenkilöstön perehdytys ja hankintojen sovittaminen.",
+        "yearOffset": 1,
+        "quarter": "1–4"
+      }
+    ],
+    "alternativeSteps": [
+      {
+        "action": "Kokeillaan yhtä tuttua ruokalajia kasvispainotteisena versiona ja verrataan maistuvuutta sekä kustannusta.",
+        "result": "Yhden reseptin testitulos.",
+        "metric": "Palaute ja raaka-ainekustannus/annos.",
+        "resources": "Reseptikehitys ja maistatus.",
+        "yearOffset": 0,
+        "quarter": "1–2"
+      },
+      {
+        "action": "Vakiinnutetaan hyväksytty resepti ja toistetaan kokeilu seuraavalle ruokalajille.",
+        "result": "Asteittain päivittyvä ruokalista.",
+        "metric": "Käyttöön otetut reseptit ja hävikki.",
+        "resources": "Ruokapalvelujen normaali suunnittelutyö.",
+        "yearOffset": 1,
+        "quarter": "1–4"
+      }
+    ],
+    "effects": {
+      "emissions": "Kasvispainotteisuus voi vähentää aterioiden päästöjä; vaikutus riippuu korvatuista raaka-aineista. Lähiruoka ei automaattisesti tarkoita vähäpäästöistä ruokaa.",
+      "sinks": "Ei tunnistettua suoraa hiilinieluvaikutusta.",
+      "adaptation": "Sopeutumishyöty ei ole tämän toimen pääasiallinen tavoite.",
+      "costs": "Työaika ja mahdollinen hankinta on arvioitava ennen päätöstä.",
+      "savings": "Kustannus voi alentua tai nousta; todelliset ostohinnat ja hävikki ratkaisevat.",
+      "other": "Ruokailijoiden osallistuminen ja ravitsemuksellinen laatu ovat keskeisiä.",
+      "control": "Kunta voi päättää omasta toiminnastaan; kumppanien osuus sovitaan erikseen.",
+      "feasibility": "Rajattu valmistelu ja kokeilu voidaan käynnistää kahdessa vuodessa, jos vastuu ja resurssi sovitaan."
+    },
+    "sources": [
+      "savon-food",
+      "kannon-food",
+      "asikkala"
+    ],
+    "basis": "Kannonkosken suunnitelma painottaa reseptiikkaa ja palautetta. Rambollin arvioissa oletukset vaihtelevat kunnittain.",
+    "question": "Mitkä ruoat maistuvat ja onko kasvisruokia jo säännöllisesti tarjolla?",
+    "kind": "Työkalun ehdotus",
+    "topic": "Maittava ja vähäpäästöisempi ruokalista",
+    "focus": [
+      "emissions"
+    ]
+  },
+  {
+    "id": "active-travel",
+    "title": "Korjataan valitun kävely- tai pyöräilyreitin turvallisuuspuutteet",
+    "keywords": [
+      "pyörä",
+      "kävel",
+      "kevyen liikente",
+      "jalankul",
+      "polkupyör",
+      "kevyenliikente"
+    ],
+    "theme": "Liikkuminen",
+    "steps": [
+      {
+        "action": "Valitaan tärkeä koulu- tai asiointireitti ja kootaan käyttäjien havaitsemat esteet, kunnossapidon puutteet ja pyöräpysäköinnin tarpeet.",
+        "result": "Korjauskohteet järjestetty kiireellisyyden mukaan.",
+        "metric": "Tunnistetut esteet ja niiden vastuullinen tienpitäjä.",
+        "resources": "Maastokäynti, käyttäjäpalaute ja kunnossapidon tiedot.",
+        "yearOffset": 0,
+        "quarter": "1–2"
+      },
+      {
+        "action": "Toteutetaan kunnan vastuulla olevat rajatut parannukset ja sovitaan muiden tienpitäjien kanssa jatkosta. Tarkistetaan reitin toimivuus talvella.",
+        "result": "Parannettu reitti tai pyöräpysäköinti ja sovittu ylläpito.",
+        "metric": "Korjatut kohteet; käyttäjämäärä tai palaute.",
+        "resources": "Kunnossapidon resurssi, mahdolliset investoinnit ja tienpitäjien yhteistyö.",
+        "yearOffset": 1,
+        "quarter": "1–4"
+      }
+    ],
+    "alternativeSteps": [
+      {
+        "action": "Tarkistetaan pyöräpysäköinti ja talvikunnossapidon järjestelyt yhden koulun tai työpaikan kohdalla.",
+        "result": "Pieni toteutettava parannuslista.",
+        "metric": "Paikat ja kunnossapitovastuut tarkistettu.",
+        "resources": "Teknisen toimen työaika.",
+        "yearOffset": 0,
+        "quarter": "1–2"
+      },
+      {
+        "action": "Korjataan sovittu puute ja kerätään käyttäjiltä palaute.",
+        "result": "Nopeasti toteutettu parannus.",
+        "metric": "Käytettävyys ja pyöräpysäköinnin käyttö.",
+        "resources": "Pienhankinta tai ylläpidon työjärjestely.",
+        "yearOffset": 1,
+        "quarter": "1–4"
+      }
+    ],
+    "effects": {
+      "emissions": "Päästöt vähenevät siltä osin kuin kävely tai pyöräily korvaa automatkoja.",
+      "sinks": "Ei tunnistettua suoraa hiilinieluvaikutusta.",
+      "adaptation": "Sopeutumishyöty ei ole tämän toimen pääasiallinen tavoite.",
+      "costs": "Työaika ja mahdollinen hankinta on arvioitava ennen päätöstä.",
+      "savings": "Säästöä ei voida luvata ilman lähtötietoja.",
+      "other": "Turvallisuus, saavutettavuus ja arkiliikunnan terveyshyödyt.",
+      "control": "Kunta vastaa omista väylistään; muiden tienpitäjien kohteet edellyttävät yhteistyötä.",
+      "feasibility": "Rajattu valmistelu ja kokeilu voidaan käynnistää kahdessa vuodessa, jos vastuu ja resurssi sovitaan."
+    },
+    "sources": [
+      "hinku-mobility",
+      "savon-transport",
+      "ph-effects"
+    ],
+    "basis": "Raaseporin pyöräpysäköinti ja Viitasaaren kiinteistönhoidon tavarapyörä ovat kuntien ilmoittamia toteutuneita esimerkkejä.",
+    "question": "Mikä reitti tai pysäköintipaikka kaipaa ensimmäisenä parannusta?",
+    "kind": "Työkalun ehdotus",
+    "topic": "Turvalliset kävely- ja pyöräilyreitit",
+    "focus": [
+      "emissions"
+    ]
+  },
+  {
+    "id": "fleet",
+    "title": "Korvataan uusittava ajoneuvo tai työkone vähäpäästöisellä vaihtoehdolla",
+    "keywords": [
+      "ajoneuvo",
+      "työkone",
+      "autokalusto",
+      "huoltoauto",
+      "käyttövoim",
+      "biokaasuauto",
+      "sähköauton hank",
+      "sähköautojen hank",
+      "sähköautojen käyt",
+      "työauto",
+      "yhteiskäyttöauto"
+    ],
+    "theme": "Liikkuminen",
+    "steps": [
+      {
+        "action": "Valitaan seuraavaksi uusittava ajoneuvo tai työkone. Kootaan ajot, kuormat, käyttöolosuhteet ja polttoainekulutus sekä vertaillaan soveltuvien vaihtoehtojen kokonaiskustannukset.",
+        "result": "Käyttötarpeeseen sopiva vaihtoehtovertailu.",
+        "metric": "Ajokilometrit tai käyttötunnit; energiankulutus.",
+        "resources": "Käyttötiedot, tarjoustiedot ja latauksen tai tankkauksen järjestelyt.",
+        "yearOffset": 0,
+        "quarter": "1–2"
+      },
+      {
+        "action": "Hankitaan päätetty vaihtoehto normaalin uusimisen yhteydessä ja seurataan toimivuutta sekä energiakuluja.",
+        "result": "Käyttötarpeen täyttävä vähäpäästöisempi kalusto.",
+        "metric": "Kulutus/km tai käyttötunti; käyttökatkot; kokonaiskulut.",
+        "resources": "Hankintapäätös, mahdollinen latausinfra ja kuljettajien perehdytys.",
+        "yearOffset": 1,
+        "quarter": "1–4"
+      }
+    ],
+    "alternativeSteps": [
+      {
+        "action": "Kokeillaan soveltuvaa vaihtoehtoa lyhyellä vuokrauksella todellisissa työtehtävissä.",
+        "result": "Käyttökokemus ennen hankintaa.",
+        "metric": "Toimintasäde, käyttökatkot ja soveltuvuus tehtäviin.",
+        "resources": "Vuokraus tai toimittajan koeajo.",
+        "yearOffset": 0,
+        "quarter": "1–2"
+      },
+      {
+        "action": "Päätetään kokeilun pohjalta uusimisen aikataulu ja kustannusvaraus.",
+        "result": "Perusteltu uusimissuunnitelma.",
+        "metric": "Päätös ja kustannusvertailu.",
+        "resources": "Talousarviovalmistelu.",
+        "yearOffset": 1,
+        "quarter": "1–4"
+      }
+    ],
+    "effects": {
+      "emissions": "Riippuu käyttömäärästä, korvautuvasta käyttövoimasta ja koko elinkaaresta.",
+      "sinks": "Ei tunnistettua suoraa hiilinieluvaikutusta.",
+      "adaptation": "Sopeutumishyöty ei ole tämän toimen pääasiallinen tavoite.",
+      "costs": "Työaika ja mahdollinen hankinta on arvioitava ennen päätöstä.",
+      "savings": "Energia- ja huoltokuluissa voi säästyä; hankintahinta ja käyttömäärä vaikuttavat.",
+      "other": "Muut hyödyt tarkennetaan kohteen mukaan.",
+      "control": "Kunta voi päättää omasta toiminnastaan; kumppanien osuus sovitaan erikseen.",
+      "feasibility": "Rajattu valmistelu ja kokeilu voidaan käynnistää kahdessa vuodessa, jos vastuu ja resurssi sovitaan."
+    },
+    "sources": [
+      "hinku-mobility",
+      "savon-transport"
+    ],
+    "basis": "Kontiolahti ilmoitti dieselhuoltoautojen vaihtamisesta sähköisiin ja Siuntio työauton vaihtamisesta sähköön.",
+    "question": "Mikä kalusto on tulossa uusittavaksi ja mitä tehtäviä sillä tehdään?",
+    "kind": "Työkalun ehdotus",
+    "topic": "Vähäpäästöinen ajoneuvo tai työkone",
+    "focus": [
+      "emissions"
+    ]
+  },
+  {
+    "id": "transport-services",
+    "title": "Yhdistetään soveltuvat kuljetusreitit seuraavassa kuljetushankinnassa",
+    "keywords": [
+      "koulukulje",
+      "koulukyy",
+      "joukkoliik",
+      "asiointiliik",
+      "yhteiskulje",
+      "kimppakyy",
+      "kutsupohj",
+      "yhteistaksi",
+      "liikkumispalvel"
+    ],
+    "theme": "Liikkuminen",
+    "steps": [
+      {
+        "action": "Kootaan tulevan kuljetushankinnan reitit, käyttömäärät ja palvelutarpeet. Selvitetään reittien yhdistämisen sekä vähäpäästöisten käyttövoimien soveltuvuus palvelutaso säilyttäen.",
+        "result": "Kuljetusvaihtoehtojen ja hankintakriteerien vertailu.",
+        "metric": "Ajokilometrit; käyttöaste; matka-aika.",
+        "resources": "Kuljetusten tilaajien yhteistyö ja markkinavuoropuhelu.",
+        "yearOffset": 0,
+        "quarter": "1–2"
+      },
+      {
+        "action": "Sisällytetään toteuttamiskelpoiset muutokset seuraavaan sopimukseen tai kokeiluun. Seurataan palvelutasoa, ajomääriä ja energiankäyttöä.",
+        "result": "Toimiva kuljetusratkaisu ja seuranta.",
+        "metric": "Ajokilometrit, täyttöaste ja asiakaspalaute.",
+        "resources": "Hankintapäätös ja sopimusseuranta.",
+        "yearOffset": 1,
+        "quarter": "1–4"
+      }
+    ],
+    "alternativeSteps": [
+      {
+        "action": "Rajataan tarkastelu yhteen vähäkäyttöiseen vuoroon ja selvitetään käyttäjiltä todelliset asiointitarpeet.",
+        "result": "Rajattu kokeiluesitys.",
+        "metric": "Käyttäjämäärä ja tunnistetut tarpeet.",
+        "resources": "Kuljetusvastaavan työaika.",
+        "yearOffset": 0,
+        "quarter": "1–2"
+      },
+      {
+        "action": "Kokeillaan sovittua aikataulu- tai reittimuutosta ja päätetään jatkosta käytön perusteella.",
+        "result": "Tieto toimivasta palvelumallista.",
+        "metric": "Käyttäjät/vuoro, kustannus/matka ja palaute.",
+        "resources": "Kokeilun rahoitus ja sopimus liikennöitsijän kanssa.",
+        "yearOffset": 1,
+        "quarter": "1–4"
+      }
+    ],
+    "effects": {
+      "emissions": "Voi vähentää päästöjä, jos ajosuorite tai polttoaineen päästöt vähenevät. Palvelun käyttö ratkaisee.",
+      "sinks": "Ei tunnistettua suoraa hiilinieluvaikutusta.",
+      "adaptation": "Sopeutumishyöty ei ole tämän toimen pääasiallinen tavoite.",
+      "costs": "Työaika ja mahdollinen hankinta on arvioitava ennen päätöstä.",
+      "savings": "Säästöä ei voida luvata ilman lähtötietoja.",
+      "other": "Palvelujen saavutettavuus ja autottomien liikkumismahdollisuudet.",
+      "control": "Kunta voi päättää omasta toiminnastaan; kumppanien osuus sovitaan erikseen.",
+      "feasibility": "Rajattu valmistelu ja kokeilu voidaan käynnistää kahdessa vuodessa, jos vastuu ja resurssi sovitaan."
+    },
+    "sources": [
+      "hinku-mobility",
+      "savon-transport"
+    ],
+    "basis": "Hollola ilmoitti joukkoliikenteen ja koulukuljetusten päästökriteereistä. Maaseudulla palvelutaso ja reittien soveltuvuus tarkistetaan ennen muutoksia.",
+    "question": "Milloin nykyinen kuljetussopimus päättyy?",
+    "kind": "Työkalun ehdotus",
+    "topic": "Koulukuljetusten ja asiointiliikenteen kehittäminen",
+    "focus": [
+      "emissions"
+    ]
+  },
+  {
+    "id": "charging",
+    "title": "Toteutetaan latauspiste kohteeseen, jossa on osoitettu käyttötarve",
+    "keywords": [
+      "lataus",
+      "tankkauspiste",
+      "tankkausverk"
+    ],
+    "theme": "Liikkuminen",
+    "steps": [
+      {
+        "action": "Kartoitetaan latauksen käyttäjät, nykyiset pisteet ja mahdolliset puutteet. Tarkistetaan valitun kohteen sähköliittymä ja mahdollisuus toteuttaa palvelu operaattorin kanssa.",
+        "result": "Tarveperusteinen kohde- ja toteutustapavertailu.",
+        "metric": "Nykyiset pisteet; arvioitu käyttö; liittymän kapasiteetti.",
+        "resources": "Sähkötekninen selvitys ja yhteydenotto palveluntarjoajiin.",
+        "yearOffset": 0,
+        "quarter": "1–2"
+      },
+      {
+        "action": "Toteutetaan perusteltu kohde hyväksytyllä sopimuksella ja sovitaan ylläpidosta sekä käytön seurannasta.",
+        "result": "Toimiva latauspalvelu.",
+        "metric": "Lataustapahtumat; käyttöaste; toimintakatkot.",
+        "resources": "Investointi tai palvelusopimus, mahdollinen liittymämuutos.",
+        "yearOffset": 1,
+        "quarter": "1–4"
+      }
+    ],
+    "alternativeSteps": [
+      {
+        "action": "Tarjotaan soveltuva kunnan alue operaattorien tarkasteltavaksi ja pyydetään ehdotukset vastuista sekä kustannuksista.",
+        "result": "Palveluntarjoajien vaihtoehdot.",
+        "metric": "Saadut ehdotukset ja vertailu.",
+        "resources": "Alueen ja sähkön saatavuustiedot.",
+        "yearOffset": 0,
+        "quarter": "1–2"
+      },
+      {
+        "action": "Valitaan toteutustapa tai todetaan, ettei oma investointi ole vielä perusteltu.",
+        "result": "Perusteltu päätös ja vastuut.",
+        "metric": "Päätös sekä mahdollinen seuranta-ajankohta.",
+        "resources": "Sopimusvalmistelu ja kunnan päätös.",
+        "yearOffset": 1,
+        "quarter": "1–4"
+      }
+    ],
+    "effects": {
+      "emissions": "Mahdollistaa liikenteen sähköistymistä; latauspiste itsessään ei osoita päästövähennystä.",
+      "sinks": "Ei tunnistettua suoraa hiilinieluvaikutusta.",
+      "adaptation": "Sopeutumishyöty ei ole tämän toimen pääasiallinen tavoite.",
+      "costs": "Työaika ja mahdollinen hankinta on arvioitava ennen päätöstä.",
+      "savings": "Kunnan taloudellinen hyöty riippuu toteutusmallista ja käytöstä.",
+      "other": "Muut hyödyt tarkennetaan kohteen mukaan.",
+      "control": "Kunta voi päättää omasta toiminnastaan; kumppanien osuus sovitaan erikseen.",
+      "feasibility": "Rajattu valmistelu ja kokeilu voidaan käynnistää kahdessa vuodessa, jos vastuu ja resurssi sovitaan."
+    },
+    "sources": [
+      "hinku-mobility",
+      "pielavesi"
+    ],
+    "basis": "Vesilahti ilmoitti latausasemista kunnan kiinteistöihin. Ehdotus alkaa tarpeen ja nykyisen tarjonnan tarkistamisesta.",
+    "question": "Palveleeko lataus kunnan kalustoa, henkilöstöä vai yleisöä?",
+    "kind": "Työkalun ehdotus",
+    "topic": "Latauksen tarve ja toteutus",
+    "focus": [
+      "emissions"
+    ]
+  },
+  {
+    "id": "planning",
+    "title": "Verrataan kaavavaihtoehtojen ilmastovaikutukset ja kirjataan valitut ratkaisut",
+    "keywords": [
+      "kaavo",
+      "maankäyt",
+      "yhdyskuntaraken",
+      "täydennysrak",
+      "kaavamäär",
+      "maapoliitt",
+      "metsäkadon",
+      "asemakaava",
+      "yleiskaava",
+      "puuston säästäminen"
+    ],
+    "theme": "Maankäyttö",
+    "steps": [
+      {
+        "action": "Valitaan valmistelussa oleva kaava ja verrataan vaihtoehtoja liikkumisen, olemassa olevan infran, metsäkadon ja hulevesien kannalta. Kirjataan olennaiset erot.",
+        "result": "Lyhyt vaihtoehtojen ilmasto- ja luontovaikutusten vertailu.",
+        "metric": "Uusi infratarve; muuttuva metsäala; palvelujen saavutettavuus.",
+        "resources": "Kaavan lähtöselvitykset sekä kaavoituksen ja ympäristötoimen työaika.",
+        "yearOffset": 0,
+        "quarter": "1–2"
+      },
+      {
+        "action": "Viedään vertailun johtopäätökset kaavan valmisteluun ja kirjataan, miten keskeisiä haittoja vältetään tai vähennetään.",
+        "result": "Perustellut ratkaisut ja seurattavat tavoitteet.",
+        "metric": "Vertailu käsitelty; ratkaisuun tehdyt muutokset.",
+        "resources": "Kaavaprosessi ja tarvittaessa täydentävät selvitykset.",
+        "yearOffset": 1,
+        "quarter": "1–4"
+      }
+    ],
+    "alternativeSteps": [
+      {
+        "action": "Laaditaan tulevan kaavan valmistelijalle lyhyt ilmastotarkistuslista ja testataan se yhdessä kohteessa.",
+        "result": "Käytännössä testattu tarkistuslista.",
+        "metric": "Tarkistetut vaikutukset ja puuttuvat selvitykset.",
+        "resources": "Kaavoituksen ja ympäristötoimen yhteinen työaika.",
+        "yearOffset": 0,
+        "quarter": "1–2"
+      },
+      {
+        "action": "Otetaan korjattu lista osaksi kaavojen valmistelua ja kuvataan arvioinnin tulokset päätösaineistossa.",
+        "result": "Pysyvä valmistelukäytäntö.",
+        "metric": "Listaa käyttäneet kaavat.",
+        "resources": "Vastuuhenkilö ja yhteinen ohje.",
+        "yearOffset": 1,
+        "quarter": "1–4"
+      }
+    ],
+    "effects": {
+      "emissions": "Voi vähentää pitkän aikavälin liikenteen ja rakentamisen päästöjä. Vaikutus ei toteudu pelkällä tarkistuslistalla.",
+      "sinks": "Metsäkadon välttäminen voi säilyttää hiilivarastoja ja nieluja.",
+      "adaptation": "Hulevesitilan ja viheryhteyksien säilyttäminen voi pienentää sään aiheuttamia riskejä.",
+      "costs": "Työaika ja mahdollinen hankinta on arvioitava ennen päätöstä.",
+      "savings": "Säästöä ei voida luvata ilman lähtötietoja.",
+      "other": "Muut hyödyt tarkennetaan kohteen mukaan.",
+      "control": "Kunta voi päättää omasta toiminnastaan; kumppanien osuus sovitaan erikseen.",
+      "feasibility": "Rajattu valmistelu ja kokeilu voidaan käynnistää kahdessa vuodessa, jos vastuu ja resurssi sovitaan."
+    },
+    "sources": [
+      "syke-land",
+      "pielavesi",
+      "asikkala"
+    ],
+    "basis": "Pielavesi esittää kaavoituksen tarkistuslistaa. SYKEn opas korostaa metsäkadon välttämistä ja paikallisten vaihtoehtojen arviointia.",
+    "question": "Mikä kaava on seuraavaksi valmistelussa?",
+    "kind": "Työkalun ehdotus",
+    "topic": "Ilmastovaikutukset kaavavaihtoehtojen vertailuun",
+    "focus": [
+      "emissions",
+      "sinks",
+      "adaptation"
+    ]
+  },
+  {
+    "id": "forests",
+    "title": "Muutetaan kunnan metsäsuunnitelmaa hiili-, luonto- ja riskivertailun perusteella",
+    "keywords": [
+      "metsänho",
+      "metsien",
+      "kuntamets",
+      "metsäomais",
+      "hakku",
+      "hiiliniel",
+      "hiilivaras",
+      "metsitys",
+      "metsätalous",
+      "lahopuu",
+      "lahopuun",
+      "kiertoa",
+      "harvenn",
+      "puulaj",
+      "metsittä",
+      "kunnostusojit",
+      "metsäpalojen",
+      "metsiä",
+      "metsissä",
+      "metsityksi"
+    ],
+    "theme": "Metsät",
+    "steps": [
+      {
+        "action": "Tarkistetaan kunnan metsävaratiedot ja metsien käytön tavoitteet. Verrataan nykyistä suunnitelmaa vaihtoehtoon, jossa tarkastellaan hakkuutasoa, luontoarvoja ja ilmastoriskejä.",
+        "result": "Vaihtoehtojen vaikutukset talouteen, hiilitaseeseen ja luontoon kuvattu.",
+        "metric": "Käsitelty pinta-ala; hakkuusuunnite; tunnistetut luontokohteet.",
+        "resources": "Ajantasainen metsävaratieto ja metsäasiantuntijan arvio.",
+        "yearOffset": 0,
+        "quarter": "1–2"
+      },
+      {
+        "action": "Päätetään kohdekohtaisista muutoksista metsäsuunnitelmaan ja seurataan toteutusta. Sovitetaan tulotavoitteet hyväksyttyihin periaatteisiin.",
+        "result": "Päivitetty metsäsuunnitelma ja seurantavastuu.",
+        "metric": "Päätetyt muutokset, toteutuneet hakkuut ja säästetyt kohteet.",
+        "resources": "Kunnan päätös, mahdollinen suunnitelmapäivitys ja pitkäjänteinen seuranta.",
+        "yearOffset": 1,
+        "quarter": "1–4"
+      }
+    ],
+    "alternativeSteps": [
+      {
+        "action": "Valitaan yksi seuraavaksi käsiteltävä metsäkuvio ja pyydetään vaihtoehtoinen hoitoesitys luonto- ja ilmastovaikutuksineen.",
+        "result": "Kuvion vaihtoehtovertailu.",
+        "metric": "Vaihtoehdot ja niiden talousvaikutukset arvioitu.",
+        "resources": "Metsäasiantuntijan työ ja maastotiedot.",
+        "yearOffset": 0,
+        "quarter": "1–2"
+      },
+      {
+        "action": "Toteutetaan päätetty käsittely ja kirjataan kokemukset seuraavaa metsäsuunnitelmaa varten.",
+        "result": "Dokumentoitu kohdekokemus.",
+        "metric": "Toteutus, kustannus ja sovitut seurattavat piirteet.",
+        "resources": "Urakka ja seuranta.",
+        "yearOffset": 1,
+        "quarter": "1–4"
+      }
+    ],
+    "effects": {
+      "emissions": "Maaperän ja puuston vaikutukset tarkastellaan yhdessä; yleistä päästövähennyslukua ei voida antaa.",
+      "sinks": "Hakkuutaso ja hoitovalinnat voivat muuttaa nielua ja hiilivarastoja. Vaikutus riippuu kohteesta ja aikajänteestä.",
+      "adaptation": "Puulajiston, rakenteen ja kohteen riskien huomiointi voi tukea metsien sopeutumista.",
+      "costs": "Työaika ja mahdollinen hankinta on arvioitava ennen päätöstä.",
+      "savings": "Muutokset voivat pienentää tai siirtää puunmyyntituloja; vaikutus arvioitava.",
+      "other": "Luonnon monimuotoisuus ja virkistysarvot.",
+      "control": "Kunta voi päättää omasta toiminnastaan; kumppanien osuus sovitaan erikseen.",
+      "feasibility": "Rajattu valmistelu ja kokeilu voidaan käynnistää kahdessa vuodessa, jos vastuu ja resurssi sovitaan."
+    },
+    "sources": [
+      "syke-land",
+      "kannon-nature",
+      "ilmoniemi"
+    ],
+    "basis": "SYKEn opas erottaa eri metsänhoitotoimet ja niiden aikajänteet. Kannonkoski esittää metsäsuunnitelman päivitystä 2027–2028; ehdotus sovitetaan omaan kuntaan.",
+    "question": "Onko metsäsuunnitelma ajantasainen ja milloin se päivitetään?",
+    "kind": "Työkalun ehdotus",
+    "topic": "Kunnan metsien hoidon ja käytön vaihtoehdot",
+    "focus": [
+      "sinks",
+      "adaptation"
+    ]
+  },
+  {
+    "id": "peat-restoration",
+    "title": "Laaditaan valitulle suokohteelle ennallistamis- ja rahoitussuunnitelma",
+    "keywords": [
+      "turvem",
+      "suoalue",
+      "suon",
+      "soiden",
+      "ennallista",
+      "ojitet",
+      "kosteikko",
+      "ojien patoaminen"
+    ],
+    "theme": "Suot ja turvemaat",
+    "steps": [
+      {
+        "action": "Tunnistetaan mahdollinen kohde ja varmistetaan omistus sekä maanomistajan kiinnostus. Teetetään arvio vesitaloudesta, luontoarvoista ja vaikutuksista naapureihin sekä päästöihin.",
+        "result": "Kohdekohtainen soveltuvuusarvio ja valmistelupäätös.",
+        "metric": "Kohde arvioitu; tarvittavat suostumukset ja selvitykset tunnistettu.",
+        "resources": "Maanomistajien yhteistyö ja ennallistamisen asiantuntija.",
+        "yearOffset": 0,
+        "quarter": "1–2"
+      },
+      {
+        "action": "Laaditaan valitulle kohteelle toteutus- ja seurantasuunnitelma sekä rahoitusratkaisu. Toteutetaan vain päätetyt ja tarvittavat luvat saaneet työt.",
+        "result": "Hyväksytty suunnitelma tai toteutettu rajattu kohde.",
+        "metric": "Suunnitelma, toteutettu pinta-ala ja vedenpinnan seuranta.",
+        "resources": "Luvat ja suostumukset, suunnittelu, urakka ja ylläpitovastuu.",
+        "yearOffset": 1,
+        "quarter": "1–4"
+      }
+    ],
+    "alternativeSteps": [
+      {
+        "action": "Aloitetaan maanomistajan ja asiantuntijan yhteisestä maastokäynnistä yhdellä kohteella.",
+        "result": "Lista tarvittavista selvityksistä ja päätös jatkovalmistelusta.",
+        "metric": "Maastokäynti ja kirjattu soveltuvuusarvio.",
+        "resources": "Asiantuntijan työpanos ja maanomistajan suostumus.",
+        "yearOffset": 0,
+        "quarter": "1–2"
+      },
+      {
+        "action": "Kootaan valmistelun rahoitus ja yhteistyökumppanit, tai hylätään soveltumaton kohde perustellusti.",
+        "result": "Toteuttamiskelpoinen jatkopolku.",
+        "metric": "Rahoitus- ja vastuuratkaisu kirjattu.",
+        "resources": "Suunnitteluresurssi; ei lupausta investoinnista.",
+        "yearOffset": 1,
+        "quarter": "1–4"
+      }
+    ],
+    "effects": {
+      "emissions": "Turpeen hajoamisen päästöt voivat vähentyä, mutta kokonaisvaikutus riippuu kohteesta ja eri kasvihuonekaasuista.",
+      "sinks": "Ennallistaminen ei takaa välitöntä hiilinielua. Vaikutus voi kehittyä pitkällä aikavälillä.",
+      "adaptation": "Vesitalouden palautuminen voi tuottaa sopeutumishyötyjä, jotka arvioidaan valuma-alueella.",
+      "costs": "Työaika ja mahdollinen hankinta on arvioitava ennen päätöstä.",
+      "savings": "Säästöä ei voida luvata ilman lähtötietoja.",
+      "other": "Mahdolliset luonto- ja vesistöhyödyt arvioidaan erikseen.",
+      "control": "Omilla mailla kunnan päätösvalta on suurempi; yksityisillä mailla tarvitaan omistajan suostumus.",
+      "feasibility": "Rajattu valmistelu ja kokeilu voidaan käynnistää kahdessa vuodessa, jos vastuu ja resurssi sovitaan."
+    },
+    "sources": [
+      "syke-land",
+      "ilmoniemi"
+    ],
+    "basis": "SYKEn taulukot 4–6 korostavat turvemaiden kohdekohtaisuutta ja ennallistamisen pitkää aikajännettä. Malli ei lupaa luonnonarvojen myyntituloja.",
+    "question": "Onko kohde ja maanomistaja jo tiedossa?",
+    "kind": "Työkalun ehdotus",
+    "topic": "Suon tai turvemaan ennallistamisen valmistelu",
+    "focus": [
+      "emissions",
+      "adaptation"
+    ]
+  },
+  {
+    "id": "water-storm",
+    "title": "Toteutetaan hulevesiratkaisu valittuun tulvahaittakohteeseen",
+    "keywords": [
+      "huleve",
+      "tulva",
+      "vesiensuoj",
+      "pienves",
+      "vesistö",
+      "puro",
+      "valuma",
+      "pohjaves",
+      "pintaves",
+      "hule-",
+      "sadepuutarh",
+      "pohjaveden",
+      "tulvien"
+    ],
+    "theme": "Vesi ja sopeutuminen",
+    "steps": [
+      {
+        "action": "Kootaan rankkasateiden ongelmapaikat ja tarkastetaan veden kulkureitit sekä vastaanottava vesistö. Valitaan yksi kohde, jossa viivytystä, imeytystä tai kunnossapitoa voidaan parantaa.",
+        "result": "Kohteen ongelma ja toteutusvaihtoehdot kuvattu.",
+        "metric": "Kartoitettu kohde; havaittu tulva- tai kuormitusongelma.",
+        "resources": "Teknisen toimen ja ympäristöasiantuntijan tiedot; maanomistus.",
+        "yearOffset": 0,
+        "quarter": "1–2"
+      },
+      {
+        "action": "Suunnitellaan ja toteutetaan hyväksytty ratkaisu. Sovitaan kunnossapidosta ja tarkistetaan toimivuus rankkasateen jälkeen.",
+        "result": "Kunnossapidetty hulevesi- tai vesiensuojeluratkaisu.",
+        "metric": "Toteutus; veden kulku ja ongelmahavainnot.",
+        "resources": "Suunnittelu, mahdolliset luvat ja suostumukset sekä toteutusmääräraha.",
+        "yearOffset": 1,
+        "quarter": "1–4"
+      }
+    ],
+    "alternativeSteps": [
+      {
+        "action": "Tarkistetaan sadevesikaivot, ojat ja poistumisreitit yhdessä toistuvassa ongelmakohteessa.",
+        "result": "Huolto- ja korjauslista.",
+        "metric": "Tukokset ja kunnossapitopuutteet.",
+        "resources": "Kunnossapidon työaika.",
+        "yearOffset": 0,
+        "quarter": "1–2"
+      },
+      {
+        "action": "Korjataan huoltopuutteet ja arvioidaan uuden rakenteen tarve seuraavien sateiden havaintojen perusteella.",
+        "result": "Huollettu kohde ja perusteltu jatkopäätös.",
+        "metric": "Ongelmat ennen ja jälkeen huollon.",
+        "resources": "Huoltotyö ja havaintojen kirjaaminen.",
+        "yearOffset": 1,
+        "quarter": "1–4"
+      }
+    ],
+    "effects": {
+      "emissions": "Ensisijainen tavoite ei ole päästöjen vähentäminen.",
+      "sinks": "Ei tunnistettua suoraa hiilinieluvaikutusta.",
+      "adaptation": "Voi vähentää tulvahaittoja ja tukea vedenhallintaa. Vaikutus riippuu mitoituksesta ja valuma-alueesta.",
+      "costs": "Työaika ja mahdollinen hankinta on arvioitava ennen päätöstä.",
+      "savings": "Voi ehkäistä vahinkoja; säästön määrää ei voi arvioida ilman riski- ja kustannustietoja.",
+      "other": "Mahdolliset vedenlaatu-, luonto- ja virkistyshyödyt.",
+      "control": "Kunta voi päättää omasta toiminnastaan; kumppanien osuus sovitaan erikseen.",
+      "feasibility": "Rajattu valmistelu ja kokeilu voidaan käynnistää kahdessa vuodessa, jos vastuu ja resurssi sovitaan."
+    },
+    "sources": [
+      "iisalmi-adapt",
+      "ph-effects",
+      "asikkala"
+    ],
+    "basis": "Iisalmen suunnitelmassa käsitellään hulevesien käsittelyä syntypaikalla ja pohjavesien suojelua.",
+    "question": "Onko ongelmakohteista havaintoja tai valmis hulevesisuunnitelma?",
+    "kind": "Työkalun ehdotus",
+    "topic": "Hulevesien hallinta ja vesiensuojelu",
+    "focus": [
+      "adaptation"
+    ]
+  },
+  {
+    "id": "adaptation",
+    "title": "Päivitetään kriittisen palvelun varautumisohje ja harjoitellaan häiriötilanne",
+    "keywords": [
+      "sopeutu",
+      "varautu",
+      "ilmastorisk",
+      "helte",
+      "helle",
+      "myrsky",
+      "huoltovarm",
+      "sään ääri",
+      "varavoima",
+      "vesikatko",
+      "riskienhallinta",
+      "tuholaisten"
+    ],
+    "theme": "Sopeutuminen",
+    "steps": [
+      {
+        "action": "Valitaan kunnan kriittinen palvelu tai rakennus ja käydään läpi helteen, rankkasateen ja sähkökatkon vaikutukset. Tarkistetaan nykyiset varautumisjärjestelyt.",
+        "result": "Kohteen keskeiset riskit ja puuttuvat järjestelyt.",
+        "metric": "Tarkistetut riskit ja sovitut korjaustarpeet.",
+        "resources": "Palvelusta vastaavien ja kiinteistönhoidon työaika.",
+        "yearOffset": 0,
+        "quarter": "1–2"
+      },
+      {
+        "action": "Päivitetään toimintaohje, vastuut ja yhteystiedot. Toteutetaan valittu käytännön parannus ja harjoitellaan toimintaa häiriötilanteessa.",
+        "result": "Testattu toimintatapa ja korjatut puutteet.",
+        "metric": "Harjoitus tehty; korjatut riskikohdat.",
+        "resources": "Varautumisen vastuuhenkilöt; mahdollinen suojaus- tai varavoimainvestointi.",
+        "yearOffset": 1,
+        "quarter": "1–4"
+      }
+    ],
+    "alternativeSteps": [
+      {
+        "action": "Aloitetaan yhden kunnan rakennuksen helletilanteesta: seurataan sisälämpötiloja ja tarkistetaan varjostus sekä tilojen käyttö.",
+        "result": "Kohteen helletoimintaohje.",
+        "metric": "Lämpötilahavainnot ja sovitut toimet.",
+        "resources": "Tilojen käyttäjät ja kiinteistönhoito.",
+        "yearOffset": 0,
+        "quarter": "1–2"
+      },
+      {
+        "action": "Testataan ohje lämpimänä jaksona ja kirjataan tarvittavat pysyvät parannukset.",
+        "result": "Käytännössä testattu ohje ja korjausesitys.",
+        "metric": "Havainnot, palaute ja päätetyt parannukset.",
+        "resources": "Seuranta ja tarvittaessa määräraha.",
+        "yearOffset": 1,
+        "quarter": "1–4"
+      }
+    ],
+    "effects": {
+      "emissions": "Sopeutumisen hyötyä ei tulkita päästövähennykseksi.",
+      "sinks": "Ei tunnistettua suoraa hiilinieluvaikutusta.",
+      "adaptation": "Voi vähentää palvelukatkoja ja ihmisille sekä omaisuudelle aiheutuvia haittoja.",
+      "costs": "Työaika ja mahdollinen hankinta on arvioitava ennen päätöstä.",
+      "savings": "Ennaltaehkäisy voi vähentää vahinkokuluja; hyötyä ei voi luvata euromääräisesti.",
+      "other": "Toimintavarmuus ja turvallisuus.",
+      "control": "Kunta voi päättää omasta toiminnastaan; kumppanien osuus sovitaan erikseen.",
+      "feasibility": "Rajattu valmistelu ja kokeilu voidaan käynnistää kahdessa vuodessa, jos vastuu ja resurssi sovitaan."
+    },
+    "sources": [
+      "iisalmi-adapt",
+      "ph-effects"
+    ],
+    "basis": "Iisalmen suunnitelma kytkee ilmastoriskit varautumiseen ja toimialakohtaisiin riskikortteihin. Kohteeksi valitaan kunnan omaan vastuuseen kuuluva palvelu.",
+    "question": "Mikä kunnan palvelu häiriintyy helpoimmin helteellä tai sähkökatkossa?",
+    "kind": "Työkalun ehdotus",
+    "topic": "Kunnan palvelujen varautuminen sään muutoksiin",
+    "focus": [
+      "adaptation"
+    ]
+  },
+  {
+    "id": "meadow",
+    "title": "Muutetaan soveltuvan viheralueen hoito niittyhoidoksi",
+    "keywords": [
+      "niitty",
+      "nurmialue",
+      "viheralue",
+      "monimuoto",
+      "vieraslaj",
+      "luonnonho"
+    ],
+    "theme": "Luonto",
+    "steps": [
+      {
+        "action": "Valitaan kunnan viheralueelta kohde, jonka hoitoa voidaan muuttaa. Tarkistetaan lajisto, käyttö, vieraslajit ja hoidon tavoite asiantuntijan kanssa.",
+        "result": "Kohdekohtainen hoitosuunnitelma ja kustannusarvio.",
+        "metric": "Rajattu pinta-ala; tunnistetut luontoarvot ja vieraslajit.",
+        "resources": "Maastokäynti ja viheralueiden hoidon osaaminen.",
+        "yearOffset": 0,
+        "quarter": "1–2"
+      },
+      {
+        "action": "Toteutetaan sovittu hoitomuutos ja kerrotaan siitä alueen käyttäjille. Seurataan kasvillisuutta ja hoitotarvetta.",
+        "result": "Hoidettu niitty- tai muu luontokohde.",
+        "metric": "Hoidettu pinta-ala; hoitokerrat; lajiston havainnot.",
+        "resources": "Hoitoresurssi, niittojätteen käsittely ja seuranta.",
+        "yearOffset": 1,
+        "quarter": "1–4"
+      }
+    ],
+    "alternativeSteps": [
+      {
+        "action": "Kokeillaan vähennettyä nurmikonleikkuuta yhdellä soveltuvalla alueella ja pidetään kulkureitit hoidettuina.",
+        "result": "Rajattu hoitokokeilu ja opaste.",
+        "metric": "Kokeiluala ja hoitokerrat.",
+        "resources": "Viherhoidon työjärjestely ja asukasviestintä.",
+        "yearOffset": 0,
+        "quarter": "1–2"
+      },
+      {
+        "action": "Arvioidaan kasvillisuus, käyttäjäpalaute ja työmäärä ennen kokeilun jatkamista.",
+        "result": "Päätös toimivasta hoitotavasta.",
+        "metric": "Hoitotyöaika ja luontohavainnot.",
+        "resources": "Seurantakäynti ja mahdollinen asiantuntijatuki.",
+        "yearOffset": 1,
+        "quarter": "1–4"
+      }
+    ],
+    "effects": {
+      "emissions": "Päästövaikutusta ei voi päätellä niittyalasta yksin. Hoidon energiankäyttö voi vähentyä.",
+      "sinks": "Hiilinieluvaikutus on epävarma eikä sitä arvioida ilman kohdetietoja.",
+      "adaptation": "Sopeutumishyöty ei ole tämän toimen pääasiallinen tavoite.",
+      "costs": "Työaika ja mahdollinen hankinta on arvioitava ennen päätöstä.",
+      "savings": "Leikkuukertoja voi vähentyä; perustaminen ja niittojätteen keruu voivat lisätä työtä.",
+      "other": "Ensisijainen hyöty on soveltuvissa kohteissa luonnon monimuotoisuus.",
+      "control": "Kunta voi päättää omasta toiminnastaan; kumppanien osuus sovitaan erikseen.",
+      "feasibility": "Rajattu valmistelu ja kokeilu voidaan käynnistää kahdessa vuodessa, jos vastuu ja resurssi sovitaan."
+    },
+    "sources": [
+      "kannon-nature",
+      "savon-nature",
+      "ph-effects"
+    ],
+    "basis": "Kannonkosken suunnitelmassa kartoitetaan niityiksi sopivia nurmialueita. Hiilivaikutus pidetään erillään luontohyödystä.",
+    "question": "Onko kohteessa niittylajistoa tai torjuttavia vieraslajeja?",
+    "kind": "Työkalun ehdotus",
+    "topic": "Niityt ja luonnon monimuotoisuus viheralueilla",
+    "focus": [
+      "nature"
+    ]
+  },
+  {
+    "id": "agriculture",
+    "title": "Järjestetään maatiloille vesitalouden neuvontakäynnit ja sovitaan jatkotoimet",
+    "keywords": [
+      "maatal",
+      "viljel",
+      "maatila",
+      "hiilivil",
+      "pellot",
+      "peltojen",
+      "tilakohtais"
+    ],
+    "theme": "Maatalous",
+    "steps": [
+      {
+        "action": "Kootaan viljelijöiden ja neuvontaorganisaation kanssa paikalliset tarpeet, kuten maan kasvukunto, turvepellot tai vesitalous. Valitaan yksi teema ja kiinnostuneet tilat jatkoneuvontaan.",
+        "result": "Rajattu neuvontakokonaisuus ja sovittu vastuu.",
+        "metric": "Osallistuvat tilat; tilakohtaisen neuvonnan tarve.",
+        "resources": "Maaseutupalvelujen ja riippumattoman neuvonnan työpanos.",
+        "yearOffset": 0,
+        "quarter": "1–2"
+      },
+      {
+        "action": "Järjestetään kohdennettu neuvontakäynti tai pienryhmä, jonka lopuksi kukin halukas tila valitsee toteutettavan muutoksen. Seurataan vapaaehtoisesti käynnistyneitä toimia.",
+        "result": "Tilojen omiin päätöksiin perustuvat kokeilut.",
+        "metric": "Neuvontaa saaneet tilat; käynnistyneet kokeilut.",
+        "resources": "Tilojen suostumus, neuvoja ja mahdollinen kokeilurahoitus.",
+        "yearOffset": 1,
+        "quarter": "1–4"
+      }
+    ],
+    "alternativeSteps": [
+      {
+        "action": "Järjestetään yksi maastotilaisuus valitusta vesitalouden tai kasvukunnon ongelmasta neuvojan ja tilan kanssa.",
+        "result": "Käytännön esimerkki ja jatkoneuvonnan yhteystiedot.",
+        "metric": "Osallistujat ja neuvontaan ohjautuneet tilat.",
+        "resources": "Isäntätila, neuvoja ja tilaisuuden järjestelyt.",
+        "yearOffset": 0,
+        "quarter": "1–2"
+      },
+      {
+        "action": "Selvitetään osallistuneilta, mitä toimia käynnistyi ja mitä tukea vielä tarvitaan.",
+        "result": "Tieto neuvonnan käytännön tuloksista.",
+        "metric": "Toteutukseen edenneet tilat.",
+        "resources": "Lyhyt vapaaehtoinen seuranta.",
+        "yearOffset": 1,
+        "quarter": "1–4"
+      }
+    ],
+    "effects": {
+      "emissions": "Turvemaiden ja viljelykäytäntöjen vaikutus voi olla merkittävä, mutta neuvontatapahtuma ei vielä osoita päästövähennystä.",
+      "sinks": "Riippuu tilan valitsemista toimista, maalajista ja toteutuksesta.",
+      "adaptation": "Maan kasvukunnon ja vesitalouden parantaminen voi tukea varautumista sään vaihteluun.",
+      "costs": "Työaika ja mahdollinen hankinta on arvioitava ennen päätöstä.",
+      "savings": "Säästöä ei voida luvata ilman lähtötietoja.",
+      "other": "Muut hyödyt tarkennetaan kohteen mukaan.",
+      "control": "Kunnan rooli on pääosin mahdollistava; viljelijä päättää omista toimistaan.",
+      "feasibility": "Rajattu valmistelu ja kokeilu voidaan käynnistää kahdessa vuodessa, jos vastuu ja resurssi sovitaan."
+    },
+    "sources": [
+      "syke-land",
+      "ilmoniemi"
+    ],
+    "basis": "SYKEn opas erottaa turve- ja kivennäismaapeltojen toimet ja korostaa kunnan rajallista suoraa vaikutusvaltaa.",
+    "question": "Mitä viljelijöiden tarpeita on jo tunnistettu ja mikä neuvontataho on mukana?",
+    "kind": "Työkalun ehdotus",
+    "topic": "Maatilojen ilmasto- ja vesitaloustyön tukeminen",
+    "focus": [
+      "emissions",
+      "adaptation"
+    ]
+  },
+  {
+    "id": "governance",
+    "title": "Kirjataan valittujen ilmastotoimien vastuut ja resurssit talousarvioon",
+    "keywords": [
+      "ilmastojoht",
+      "ilmastobud",
+      "seurant",
+      "raporto",
+      "koordina",
+      "toimintakert",
+      "talousarvio",
+      "ilmastosuunnitel",
+      "kuntastrateg",
+      "ilmastoverkosto",
+      "ilmastotavoit",
+      "green deal",
+      "ilmasto-ohjel",
+      "ilmastovahti",
+      "ilmastopolku"
+    ],
+    "theme": "Ilmastojohtaminen",
+    "steps": [
+      {
+        "action": "Valitaan seuraavan kahden vuoden tärkeimmät toimet yhdessä toimialojen kanssa. Nimetään jokaiselle vastuu, valmisteluvuosi, toteutuksen edellytykset ja yksi seurattava mittari.",
+        "result": "Rajattu toimeenpanoluonnos ja talousarvioon vietävät tarpeet.",
+        "metric": "Vastuutetut toimet; puuttuvat kustannus- ja päätöstiedot.",
+        "resources": "Toimialojen yhteinen työaika ja taloushallinnon osallistuminen.",
+        "yearOffset": 0,
+        "quarter": "1–2"
+      },
+      {
+        "action": "Käsitellään resurssitarpeet talousarvion valmistelussa. Päivitetään eteneminen sovitusti ja kootaan tulokset kunnan normaaliin vuosiraportointiin.",
+        "result": "Rahoitukseen kytketty seuranta ja päätökset jatkotoimista.",
+        "metric": "Toteutuneet, viivästyneet ja päätöstä odottavat toimet.",
+        "resources": "Nimetty koordinaatio ja toimialojen raportointivastuu.",
+        "yearOffset": 1,
+        "quarter": "1–4"
+      }
+    ],
+    "alternativeSteps": [
+      {
+        "action": "Otetaan kolme tärkeää tointa yhteiseen taulukkoon ja sovitaan vastuuhenkilöt sekä seuraava tarkistus.",
+        "result": "Kevyt seurantalista.",
+        "metric": "Vastuut ja tarkistuspäivä sovittu.",
+        "resources": "Lyhyt toimialojen yhteinen tapaaminen.",
+        "yearOffset": 0,
+        "quarter": "1–2"
+      },
+      {
+        "action": "Käydään lista läpi talousarviovalmistelun yhteydessä ja ratkaistaan tunnistetut esteet.",
+        "result": "Päätökset toteutuksesta tai siirtämisestä.",
+        "metric": "Ratkaistut esteet ja rahoituspäätökset.",
+        "resources": "Johto ja taloushallinto.",
+        "yearOffset": 1,
+        "quarter": "1–4"
+      }
+    ],
+    "effects": {
+      "emissions": "Mahdollistava toimi: vaikutus syntyy toteutukseen etenevistä päästövähennystoimista.",
+      "sinks": "Ei tunnistettua suoraa hiilinieluvaikutusta.",
+      "adaptation": "Sopeutumishyöty ei ole tämän toimen pääasiallinen tavoite.",
+      "costs": "Työaika ja mahdollinen hankinta on arvioitava ennen päätöstä.",
+      "savings": "Voi auttaa kohdentamaan rajalliset resurssit; erillistä säästöä ei voi päätellä koordinoinnista.",
+      "other": "Muut hyödyt tarkennetaan kohteen mukaan.",
+      "control": "Kunta voi päättää omasta toiminnastaan; kumppanien osuus sovitaan erikseen.",
+      "feasibility": "Rajattu valmistelu ja kokeilu voidaan käynnistää kahdessa vuodessa, jos vastuu ja resurssi sovitaan."
+    },
+    "sources": [
+      "ym-method",
+      "iisalmi-monitor",
+      "ph-effects",
+      "ilmoniemi"
+    ],
+    "basis": "YM:n opas suosittelee vastuutusta, aikataulua ja kevyitä mittareita. Iisalmen suunnitelma kytkee seurannan strategiaan ja talousarvioon.",
+    "question": "Kuka kokoaa toimialojen tiedot ja milloin talousarvioesitykset valmistellaan?",
+    "kind": "Työkalun ehdotus",
+    "topic": "Ilmastotoimien vastuut, talousarvio ja seuranta",
+    "focus": [
+      "enabling"
+    ]
+  },
+  {
+    "id": "communication",
+    "title": "Julkaistaan kohdennettu toimintaohje ja järjestetään siihen liittyvä neuvonta",
+    "keywords": [
+      "viestint",
+      "tiedot",
+      "neuvon",
+      "kampanja",
+      "asukka",
+      "yritysyhte",
+      "yhteistyö",
+      "ilmastoteko -kilpailu",
+      "viestit",
+      "ilmastokysely",
+      "ilmastokumppan",
+      "kuntalaisten osallist"
+    ],
+    "theme": "Viestintä ja yhteistyö",
+    "steps": [
+      {
+        "action": "Valitaan kohderyhmä ja käytännön muutos, johon viestinnällä pyritään. Kootaan paikallinen esimerkki, toimintaohje ja yhteyshenkilö sekä sovitaan julkaisuajankohta.",
+        "result": "Yksi kohdennettu viestintä- tai neuvontakokonaisuus.",
+        "metric": "Kohderyhmä, tavoiteltu toiminta ja vastuuhenkilö sovittu.",
+        "resources": "Viestinnän ja aiheasiantuntijan työaika.",
+        "yearOffset": 0,
+        "quarter": "1–2"
+      },
+      {
+        "action": "Toteutetaan viestintä kunnan nykyisissä kanavissa ja kysytään, johtiko se toimintaan tai lisäneuvonnan tarpeeseen. Päivitetään sisältö palautteen perusteella.",
+        "result": "Julkaistu ohje ja tieto sen käytännön hyödyllisyydestä.",
+        "metric": "Yhteydenotot, osallistujat ja raportoidut jatkotoimet.",
+        "resources": "Julkaisukanavat ja palautteen käsittely.",
+        "yearOffset": 1,
+        "quarter": "1–4"
+      }
+    ],
+    "alternativeSteps": [
+      {
+        "action": "Tehdään yhdestä kunnan toteutuneesta ilmastoteosta lyhyt juttu, jossa näkyy mitä tehtiin, kuka teki ja mitä mitattiin.",
+        "result": "Tarkistettu paikallinen esimerkki.",
+        "metric": "Juttu julkaistu ja lähdetiedot tarkistettu.",
+        "resources": "Toimenpiteen vastuuhenkilön haastattelu.",
+        "yearOffset": 0,
+        "quarter": "1–2"
+      },
+      {
+        "action": "Liitetään juttuun lukijalle sopiva toimintaohje ja seurataan sen herättämiä kysymyksiä.",
+        "result": "Neuvonnan jatkotarpeet tunnistettu.",
+        "metric": "Yhteydenotot ja jatkotoimet.",
+        "resources": "Viestintä ja nimetty neuvoja.",
+        "yearOffset": 1,
+        "quarter": "1–4"
+      }
+    ],
+    "effects": {
+      "emissions": "Välillinen ja vaikeasti erotettava vaikutus. Näkyvyys tai osallistujamäärä ei ole päästövähennys.",
+      "sinks": "Ei tunnistettua suoraa hiilinieluvaikutusta.",
+      "adaptation": "Sopeutumishyöty ei ole tämän toimen pääasiallinen tavoite.",
+      "costs": "Työaika ja mahdollinen hankinta on arvioitava ennen päätöstä.",
+      "savings": "Säästöä ei voida luvata ilman lähtötietoja.",
+      "other": "Voi vahvistaa osallistumista ja helpottaa käytännön toimien löytämistä.",
+      "control": "Kunta voi päättää omasta toiminnastaan; kumppanien osuus sovitaan erikseen.",
+      "feasibility": "Rajattu valmistelu ja kokeilu voidaan käynnistää kahdessa vuodessa, jos vastuu ja resurssi sovitaan."
+    },
+    "sources": [
+      "kannon-comms",
+      "iisalmi-monitor",
+      "ph-effects"
+    ],
+    "basis": "Kannonkosken vuosikello ja Iisalmen toimialakohtainen viestintä tarjoavat suunnitelmaesimerkkejä. Työvaiheet ovat rajattu ehdotus.",
+    "question": "Kenelle viestitään ja mitä heidän toivotaan tekevän viestin jälkeen?",
+    "kind": "Työkalun ehdotus",
+    "topic": "Konkreettinen ilmastoviestintä ja neuvonta",
+    "focus": [
+      "enabling"
+    ]
+  },
+  {
+    "id": "education",
+    "title": "Toteutetaan koulussa ruokahävikin, energiansäästön tai lähiympäristön kokeilu",
+    "keywords": [
+      "ympäristökasv",
+      "ilmastokasv",
+      "oppilai",
+      "opetus",
+      "varhaiskas",
+      "luontosuh",
+      "nuoret",
+      "koulutu",
+      "nuorten ilmasto",
+      "kestävyyskasva",
+      "kouluryhmi",
+      "teemapäivien"
+    ],
+    "theme": "Kasvatus ja osaaminen",
+    "steps": [
+      {
+        "action": "Valitaan koulun tai päiväkodin kanssa yksi arjen aihe, kuten ruokahävikki, energiansäästö tai lähiympäristön hoito. Sovitaan oppimistehtävä ja konkreettinen muutos yhdessä lasten tai nuorten kanssa.",
+        "result": "Oppimiskokonaisuus ja toteutettava arjen kokeilu.",
+        "metric": "Ryhmät mukana; valittu kokeilu.",
+        "resources": "Kasvattajien työaika ja aiheeseen sopiva yhteistyökumppani.",
+        "yearOffset": 0,
+        "quarter": "1–2"
+      },
+      {
+        "action": "Toteutetaan kokeilu, tarkastellaan havaintoja yhdessä ja päätetään, mikä tapa jää arkeen.",
+        "result": "Pysyvä toimintatapa tai perusteltu jatkokokeilu.",
+        "metric": "Toteutuneet kokeilut ja oppilaiden havainnot.",
+        "resources": "Ohjaus, turvallisuusjärjestelyt ja kevyt seuranta.",
+        "yearOffset": 1,
+        "quarter": "1–4"
+      }
+    ],
+    "alternativeSteps": [
+      {
+        "action": "Liitetään olemassa olevaan oppituntiin tai luontopäivään yksi koulun omaa ympäristöä koskeva tehtävä.",
+        "result": "Toteutus ilman erillistä laajaa ohjelmaa.",
+        "metric": "Tehtävä ja osallistujaryhmä.",
+        "resources": "Opettajan suunnittelu ja saatavilla oleva materiaali.",
+        "yearOffset": 0,
+        "quarter": "1–2"
+      },
+      {
+        "action": "Kootaan oppilaiden ehdotuksista yksi toteuttamiskelpoinen muutos koulun tai kunnan vastuuhenkilön kanssa.",
+        "result": "Oppilaiden ehdotuksesta käytäntöön viety teko.",
+        "metric": "Toteutettu muutos ja palaute.",
+        "resources": "Koulun ja kunnan vastuuhenkilön yhteistyö.",
+        "yearOffset": 1,
+        "quarter": "1–4"
+      }
+    ],
+    "effects": {
+      "emissions": "Välillinen ja usein pitkäaikainen vaikutus; oppimistapahtumasta ei lasketa päästövähennystä.",
+      "sinks": "Ei tunnistettua suoraa hiilinieluvaikutusta.",
+      "adaptation": "Sopeutumishyöty ei ole tämän toimen pääasiallinen tavoite.",
+      "costs": "Työaika ja mahdollinen hankinta on arvioitava ennen päätöstä.",
+      "savings": "Säästöä ei voida luvata ilman lähtötietoja.",
+      "other": "Ympäristöosaaminen, osallisuus ja luontosuhde.",
+      "control": "Kunta voi päättää omasta toiminnastaan; kumppanien osuus sovitaan erikseen.",
+      "feasibility": "Rajattu valmistelu ja kokeilu voidaan käynnistää kahdessa vuodessa, jos vastuu ja resurssi sovitaan."
+    },
+    "sources": [
+      "kannon-nature",
+      "kannon-food",
+      "ph-effects"
+    ],
+    "basis": "Kannonkosken suunnitelmassa yhdistyvät lasten luontosuhde, luonnonhoitoon osallistuminen ja ruokahävikkiviestintä.",
+    "question": "Mikä koulu, päiväkoti tai nuorten ryhmä voisi toteuttaa rajatun kokeilun?",
+    "kind": "Työkalun ehdotus",
+    "topic": "Ilmasto- ja luontotyö osaksi koulun arkea",
+    "focus": [
+      "enabling"
+    ]
+  },
+  {
+    "id": "building-envelope",
+    "title": "Korjataan valitun rakennuksen lämpövuodot muun remontin yhteydessä",
+    "keywords": [
+      "lisäerist",
+      "ikkuno",
+      "ikkunat",
+      "ovet",
+      "tiivistys",
+      "rakenneliitty",
+      "läpivien",
+      "rakenteiden parant",
+      "kuntoarvio",
+      "eristeiden"
+    ],
+    "theme": "Rakennukset",
+    "steps": [
+      {
+        "action": "Valitaan pitkäaikaiseen käyttöön jäävä rakennus. Kartoitetaan kuntoarvion ja kulutustiedon avulla ikkunoiden, ovien ja rakenteiden korjaustarpeet sekä energiaremontin vaihtoehdot.",
+        "result": "Kohteen korjaus- ja energiavaihtoehtojen vertailu.",
+        "metric": "Kuntoarvio tai selvitys valmis; vertailtavat korjaukset.",
+        "resources": "Rakennusalan asiantuntija, käyttösuunnitelma ja kulutustiedot.",
+        "yearOffset": 0,
+        "quarter": "1–2"
+      },
+      {
+        "action": "Yhdistetään hyväksytyt energiaparannukset kohteen korjaussuunnitelmaan. Tarkistetaan toteutuksessa kosteustekninen toimivuus ja ilmanvaihdon tarve sekä seurataan kulutusta.",
+        "result": "Toteutettu ja tarkastettu korjaus.",
+        "metric": "Korjatut rakenteet; lämmönkulutus sää ja käyttö huomioiden.",
+        "resources": "Korjaussuunnittelu, investointipäätös, urakka ja vastaanottotarkastus.",
+        "yearOffset": 1,
+        "quarter": "1–4"
+      }
+    ],
+    "alternativeSteps": [
+      {
+        "action": "Tarkistutetaan yhden rakennuksen ikkunoiden ja ovien kunto sekä tiivistystarve.",
+        "result": "Rajattu korjauslista.",
+        "metric": "Tarkistetut ikkunat ja ovet.",
+        "resources": "Kiinteistönhoito ja tarvittaessa rakennusasiantuntija.",
+        "yearOffset": 0,
+        "quarter": "1–2"
+      },
+      {
+        "action": "Toteutetaan soveltuvat pienkorjaukset ja varmistetaan ilmanvaihdon toiminta. Viedään suuremmat muutokset korjausohjelmaan.",
+        "result": "Pienkorjaukset tehty ja jatkotarpeet kirjattu.",
+        "metric": "Korjatut kohdat; käyttäjäpalaute.",
+        "resources": "Huoltomääräraha ja tarvittaessa suunnittelu.",
+        "yearOffset": 1,
+        "quarter": "1–4"
+      }
+    ],
+    "effects": {
+      "emissions": "Lämmönkulutuksen väheneminen voi vähentää päästöjä. Korjausmateriaalit ja rakennuksen jäljellä oleva käyttöikä huomioidaan.",
+      "sinks": "Ei tunnistettua suoraa hiilinieluvaikutusta.",
+      "adaptation": "Sopeutumishyöty ei ole tämän toimen pääasiallinen tavoite.",
+      "costs": "Työaika ja mahdollinen hankinta on arvioitava ennen päätöstä.",
+      "savings": "Voi pienentää lämmityskuluja. Kannattavuus riippuu korjaustarpeesta ja siitä, tehdäänkö työ muun remontin yhteydessä.",
+      "other": "Hyvin suunniteltu korjaus voi parantaa tilojen olosuhteita.",
+      "control": "Kunta voi päättää omasta toiminnastaan; kumppanien osuus sovitaan erikseen.",
+      "feasibility": "Rajattu valmistelu ja kokeilu voidaan käynnistää kahdessa vuodessa, jos vastuu ja resurssi sovitaan."
+    },
+    "sources": [
+      "kannon-energy",
+      "ph-effects",
+      "ym-method"
+    ],
+    "basis": "Kannonkosken suunnitelmassa energiaremonttien tarve, lisäeristys ja tiivistys kytketään kunto- ja kiinteistösuunnitteluun. Ehdotus ei korvaa rakennusteknistä suunnittelua.",
+    "question": "Onko rakennuksen kuntoarvio tehty ja jääkö se kunnan käyttöön?",
+    "kind": "Työkalun ehdotus",
+    "topic": "Rakennuksen lämpöhäviöiden vähentäminen",
+    "focus": [
+      "emissions"
+    ]
+  },
+  {
+    "id": "water-saving",
+    "title": "Korjataan kiinteistön vesivuodot ja vaihdetaan soveltuvat vesikalusteet",
+    "keywords": [
+      "vettä säästä",
+      "vedenkulut",
+      "vesikalust",
+      "wc-istu",
+      "hanat",
+      "käyttöveden lämpö"
+    ],
+    "theme": "Vesi ja energia",
+    "steps": [
+      {
+        "action": "Kootaan valitun kiinteistön vedenkulutus ja tarkistetaan vuotavat kalusteet sekä hanojen ja suihkujen virtaamat. Erotetaan kylmän ja lämpimän veden käyttökohteet.",
+        "result": "Korjattavat vuodot ja soveltuvat säästökohteet.",
+        "metric": "Vedenkulutus m³; tarkistetut kalusteet ja vuodot.",
+        "resources": "Kulutustiedot ja LVI-ammattilaisen tarkistus.",
+        "yearOffset": 0,
+        "quarter": "1–2"
+      },
+      {
+        "action": "Korjataan vuodot ja toteutetaan käyttötarkoitukseen sopivat kalustemuutokset. Seurataan kulutusta ja varmistetaan veden laatu sekä toimiva käyttö.",
+        "result": "Toimivat ja vettä säästävät kalusteet.",
+        "metric": "Vedenkulutus m³ käyttäjämäärä huomioiden.",
+        "resources": "Huolto- tai hankintapäätös ja LVI-työ. Lämpimän käyttöveden lämpötilaa ei alenneta ilman ammattilaisen turvallisuusarviota.",
+        "yearOffset": 1,
+        "quarter": "1–4"
+      }
+    ],
+    "alternativeSteps": [
+      {
+        "action": "Aloitetaan poikkeavan kulutuksen kohteesta ja selvitetään, johtuuko kulutus vuodosta tai käyttötavan muutoksesta.",
+        "result": "Kulutuspoikkeaman syy tunnistettu.",
+        "metric": "Poikkeama ja tarkistetut kohdat.",
+        "resources": "Mittaritiedot ja huoltokäynti.",
+        "yearOffset": 0,
+        "quarter": "1–2"
+      },
+      {
+        "action": "Korjataan tunnistettu vika ja verrataan kulutusta vastaavaan käyttöjaksoon.",
+        "result": "Korjaus ja todennettu kulutusseuranta.",
+        "metric": "Vedenkulutuksen muutos.",
+        "resources": "Huoltokustannus ja seuranta.",
+        "yearOffset": 1,
+        "quarter": "1–4"
+      }
+    ],
+    "effects": {
+      "emissions": "Lämpimän veden säästö voi vähentää lämmitysenergian tarvetta. Vesihuollon päästövaikutus on kohdekohtainen.",
+      "sinks": "Ei tunnistettua suoraa hiilinieluvaikutusta.",
+      "adaptation": "Sopeutumishyöty ei ole tämän toimen pääasiallinen tavoite.",
+      "costs": "Työaika ja mahdollinen hankinta on arvioitava ennen päätöstä.",
+      "savings": "Vesi-, jätevesi- ja lämmityskuluissa voi syntyä säästöä.",
+      "other": "Vuotojen havaitseminen voi ehkäistä vahinkoja.",
+      "control": "Kunta voi päättää omasta toiminnastaan; kumppanien osuus sovitaan erikseen.",
+      "feasibility": "Rajattu valmistelu ja kokeilu voidaan käynnistää kahdessa vuodessa, jos vastuu ja resurssi sovitaan."
+    },
+    "sources": [
+      "kannon-energy",
+      "ph-effects"
+    ],
+    "basis": "Kannonkosken suunnitelma sisältää vedenkulutusta vähentäviä toimia. Työkalun ehdotus kohdistuu vuotoihin ja kalusteisiin, ei automaattiseen lämpötilan alentamiseen.",
+    "question": "Onko kulutuksessa poikkeamia tai tiedossa vuotavia kalusteita?",
+    "kind": "Työkalun ehdotus",
+    "topic": "Vedenkulutuksen vähentäminen kiinteistössä",
+    "focus": [
+      "emissions"
+    ]
+  },
+  {
+    "id": "material-masses",
+    "title": "Käytetään soveltuvat maa- ja purkumateriaalit nimetyssä rakennushankkeessa",
+    "keywords": [
+      "maamassa",
+      "purkumass",
+      "purkumateria",
+      "maanläj",
+      "uusiomateria",
+      "massakoord",
+      "tuhkan hyöty",
+      "betonia hyödynnet",
+      "katurakennekerroks",
+      "purkukohte"
+    ],
+    "theme": "Kiertotalous",
+    "steps": [
+      {
+        "action": "Kootaan tulevan rakennus- tai purkuhankkeen materiaalimäärät ja mahdolliset käyttökohteet. Tarkistetaan materiaalien laatu, soveltuvuus, tarvittavat selvitykset sekä kuljetusmatkat.",
+        "result": "Materiaalien käyttö- ja kuljetusvaihtoehdot.",
+        "metric": "Materiaalimäärät; käyttökelpoisuus; kuljetusetäisyydet.",
+        "resources": "Suunnittelijan ja ympäristöasiantuntijan arvio sekä hankkeiden aikataulut.",
+        "yearOffset": 0,
+        "quarter": "1–2"
+      },
+      {
+        "action": "Sovitaan hyväksyttyjen materiaalien hyödyntämisestä hankkeen suunnitelmissa ja urakkaehdoissa. Seurataan toteutuneita määriä sekä kuljetuksia.",
+        "result": "Dokumentoitu materiaalien hyötykäyttö.",
+        "metric": "Hyödynnetyt tonnit tai m³; korvattu neitseellinen materiaali.",
+        "resources": "Laatu- ja ympäristövaatimusten tarkistus, luvat tarvittaessa sekä sopimukset.",
+        "yearOffset": 1,
+        "quarter": "1–4"
+      }
+    ],
+    "alternativeSteps": [
+      {
+        "action": "Valitaan yksi lähiajan maarakennushanke ja selvitetään, löytyykö sille soveltuvaa materiaalia toisesta kunnan hankkeesta.",
+        "result": "Kahden hankkeen yhteensovitettu materiaalitarve.",
+        "metric": "Soveltuva määrä ja aikataulu.",
+        "resources": "Hankkeiden vastaavien yhteistyö ja materiaalin laadun tarkistus.",
+        "yearOffset": 0,
+        "quarter": "1–2"
+      },
+      {
+        "action": "Toteutetaan hyväksytty siirto ja kirjataan kustannus sekä kuljetukset seuraavia hankkeita varten.",
+        "result": "Yksi dokumentoitu hyötykäyttökohde.",
+        "metric": "Määrä, kuljetusmatka ja toteutuneet kulut.",
+        "resources": "Urakoitsijan työ ja seuranta.",
+        "yearOffset": 1,
+        "quarter": "1–4"
+      }
+    ],
+    "effects": {
+      "emissions": "Voi vähentää kuljetusten ja uuden materiaalin tuotannon päästöjä. Käsittely, kuljetukset ja maankäyttö voivat pienentää hyötyä.",
+      "sinks": "Välivarastointi tai läjitys ei saa huomaamatta poistaa arvokasta puuston tai maaperän hiilivarastoa.",
+      "adaptation": "Sopeutumishyöty ei ole tämän toimen pääasiallinen tavoite.",
+      "costs": "Työaika ja mahdollinen hankinta on arvioitava ennen päätöstä.",
+      "savings": "Materiaali- ja vastaanottokuluissa voi säästyä; laadun tutkiminen ja käsittely maksavat.",
+      "other": "Muut hyödyt tarkennetaan kohteen mukaan.",
+      "control": "Kunta voi päättää omasta toiminnastaan; kumppanien osuus sovitaan erikseen.",
+      "feasibility": "Rajattu valmistelu ja kokeilu voidaan käynnistää kahdessa vuodessa, jos vastuu ja resurssi sovitaan."
+    },
+    "sources": [
+      "savon-material"
+    ],
+    "basis": "Rambollin arvio korostaa kuljetusmatkoja, puuston säilyttämistä ja hankkeiden ennakointia. Työkalun malli ei oleta materiaalin käyttökelpoisuutta tai lupavapautta.",
+    "question": "Mikä hanke tuottaa materiaalia ja mikä tarvitsee sitä samaan aikaan?",
+    "kind": "Työkalun ehdotus",
+    "topic": "Maa- ja purkumateriaalit hyötykäyttöön",
+    "focus": [
+      "emissions"
+    ]
+  },
+  {
+    "id": "electricity-purchase",
+    "title": "Kilpailutetaan sähkösopimus todennetuilla alkuperävaatimuksilla",
+    "keywords": [
+      "uusiutuvan sähk",
+      "uusiutuvaan sähkö",
+      "päästöttömän sähk",
+      "vihreää sähkö",
+      "sähkön ost",
+      "sähkön hank",
+      "sähkösopimu",
+      "sähkön osuuden",
+      "uusiutuvan ja vähäpäästöisen sähk",
+      "uusiutuvan ja päästöttömän sähk",
+      "sähköenergia päästöttö"
+    ],
+    "theme": "Energia",
+    "steps": [
+      {
+        "action": "Tarkistetaan kunnan nykyisen sähkösopimuksen alkuperätiedot, kulutus ja päättymisaika. Verrataan seuraavan sopimuskauden alkuperältään todennettuja vaihtoehtoja ja niiden kokonaiskustannuksia.",
+        "result": "Sähkön hankinnan vaihtoehdot ja todentamistapa.",
+        "metric": "Kulutus MWh; alkuperältään todennettu osuus; vertailuhinnat.",
+        "resources": "Sopimustiedot, hankintavalmistelu ja toimittajien tarjoukset.",
+        "yearOffset": 0,
+        "quarter": "1–2"
+      },
+      {
+        "action": "Valitaan hyväksytty hankintatapa ja tarkistetaan toimituksen alkuperätiedot vuosittain. Raportoidaan valittu laskentatapa avoimesti.",
+        "result": "Todennettu sähkönhankinta ja seuranta.",
+        "metric": "Sopimuksen kattama sähkön määrä ja alkuperätodennus.",
+        "resources": "Hankintapäätös ja sopimusseuranta.",
+        "yearOffset": 1,
+        "quarter": "1–4"
+      }
+    ],
+    "alternativeSteps": [
+      {
+        "action": "Pyydetään nykyiseltä sähkön toimittajalta alkuperä- ja kustannustiedot sekä tarkistetaan yhteishankinnan mahdollisuus.",
+        "result": "Vertailukelpoinen hankintatieto.",
+        "metric": "Tiedot saatu ja sopimuskausi tiedossa.",
+        "resources": "Taloushallinnon tai hankintavastaavan työaika.",
+        "yearOffset": 0,
+        "quarter": "1–2"
+      },
+      {
+        "action": "Viedään hankinnan alkuperävaatimus ja kustannusvaikutus seuraavan sopimuksen valmisteluun.",
+        "result": "Päätettävä hankintaesitys.",
+        "metric": "Ehdotus valmisteltu ja kustannus arvioitu.",
+        "resources": "Sopimuskauden mukainen päätöksenteko.",
+        "yearOffset": 1,
+        "quarter": "1–4"
+      }
+    ],
+    "effects": {
+      "emissions": "Alkuperältään todennettu hankinta voi muuttaa ostosähkön laskennallisia päästöjä. Tämä ei yksin osoita vastaavaa lisäpäästövähennystä sähköjärjestelmässä.",
+      "sinks": "Ei tunnistettua suoraa hiilinieluvaikutusta.",
+      "adaptation": "Sopeutumishyöty ei ole tämän toimen pääasiallinen tavoite.",
+      "costs": "Työaika ja mahdollinen hankinta on arvioitava ennen päätöstä.",
+      "savings": "Sopimuksen hinta ja ehdot ratkaisevat. Uusiutuva alkuperä ei takaa halvempaa sähköä.",
+      "other": "Muut hyödyt tarkennetaan kohteen mukaan.",
+      "control": "Kunta voi päättää omasta toiminnastaan; kumppanien osuus sovitaan erikseen.",
+      "feasibility": "Rajattu valmistelu ja kokeilu voidaan käynnistää kahdessa vuodessa, jos vastuu ja resurssi sovitaan."
+    },
+    "sources": [
+      "savon-electricity",
+      "hinku-material",
+      "pielavesi"
+    ],
+    "basis": "Asikkala ja Ylöjärvi ilmoittivat uusiutuvan tai vihreän sähkön hankinnasta Hinku-koosteessa. Ehdotus erottaa alkuperävalinnan sähkönkulutuksen vähentämisestä.",
+    "question": "Mikä on nykyisen sähkösopimuksen alkuperä ja milloin sopimus uusitaan?",
+    "kind": "Työkalun ehdotus",
+    "topic": "Sähkön alkuperä osaksi hankintaa",
+    "focus": [
+      "emissions"
+    ]
+  },
+  {
+    "id": "remote-services",
+    "title": "Avataan etäasiointi- tai etätyöpiste olemassa oleviin tiloihin",
+    "keywords": [
+      "etätyö",
+      "etäpalvel",
+      "etäasio",
+      "lähipalvel",
+      "digipalvel",
+      "sähköistä asiointia",
+      "sähköinen asiointi"
+    ],
+    "theme": "Palvelut ja liikkuminen",
+    "steps": [
+      {
+        "action": "Selvitetään valitun palvelun tai etätyöpisteen käyttäjätarve ja nykyiset tilat. Sovitaan saavutettavuus, tietosuoja, opastus sekä varaus- ja ylläpitovastuut.",
+        "result": "Tarpeeseen perustuva rajattu palvelukokeilu.",
+        "metric": "Käyttäjätarve; käytettävä tila; vastuut.",
+        "resources": "Nykyiset tilat ja yhteydet sekä palveluvastaavan työaika.",
+        "yearOffset": 0,
+        "quarter": "1–2"
+      },
+      {
+        "action": "Käynnistetään kokeilu nykyisissä tiloissa ja seurataan käyttöä. Kysytään käyttäjiltä, korvasiko palvelu automatkan vai synnyttikö se uuden matkan.",
+        "result": "Käyttökokemus ja päätös jatkosta.",
+        "metric": "Käyttökerrat; vältetyt matkat käyttäjäarvion mukaan; palaute.",
+        "resources": "Opastus, tilan ylläpito ja seuranta.",
+        "yearOffset": 1,
+        "quarter": "1–4"
+      }
+    ],
+    "alternativeSteps": [
+      {
+        "action": "Avataan olemassa oleva kokous- tai kirjastotila etätyöhön sovittuina aikoina ilman erillistä uutta tilahankintaa.",
+        "result": "Rajattu etätyöpistekokeilu.",
+        "metric": "Aukioloajat ja varaukset.",
+        "resources": "Toimiva yhteys, työrauha ja nimetty yhteyshenkilö.",
+        "yearOffset": 0,
+        "quarter": "1–2"
+      },
+      {
+        "action": "Arvioidaan käyttöä ja saavutettavuutta ennen lisähankintoja.",
+        "result": "Päätös palvelun jatkamisesta tai muuttamisesta.",
+        "metric": "Käyttöaste ja käyttäjäpalaute.",
+        "resources": "Palautteen koonti ja ylläpitoresurssi.",
+        "yearOffset": 1,
+        "quarter": "1–4"
+      }
+    ],
+    "effects": {
+      "emissions": "Voi vähentää liikkumisen päästöjä, jos palvelu korvaa matkoja. Etätyöpisteen olemassaolo ei yksin osoita vaikutusta.",
+      "sinks": "Ei tunnistettua suoraa hiilinieluvaikutusta.",
+      "adaptation": "Sopeutumishyöty ei ole tämän toimen pääasiallinen tavoite.",
+      "costs": "Työaika ja mahdollinen hankinta on arvioitava ennen päätöstä.",
+      "savings": "Mahdollinen hyöty riippuu käytöstä ja olemassa olevien tilojen hyödyntämisestä.",
+      "other": "Voi parantaa palvelujen saavutettavuutta ja työskentelymahdollisuuksia.",
+      "control": "Kunta voi päättää omasta toiminnastaan; kumppanien osuus sovitaan erikseen.",
+      "feasibility": "Rajattu valmistelu ja kokeilu voidaan käynnistää kahdessa vuodessa, jos vastuu ja resurssi sovitaan."
+    },
+    "sources": [
+      "pielavesi",
+      "ph-effects"
+    ],
+    "basis": "Pielaveden suunnitelmassa on etätyötiloja kuntalaisille ja vierailijoille; kirjasto on mainittu olemassa olevana etätyötilana. Ehdotus sovitetaan paikalliseen tarpeeseen.",
+    "question": "Mitä matkoja tai palvelutarpeita kokeilu voisi korvata?",
+    "kind": "Työkalun ehdotus",
+    "topic": "Etätyö ja lähellä käytettävät palvelut",
+    "focus": [
+      "emissions"
+    ]
+  },
+  {
+    "id": "energy-production",
+    "title": "Teetetään energiantuotanto- tai hukkalämpöhankkeen toteutettavuusvertailu",
+    "keywords": [
+      "uusiutuvan energian tuot",
+      "uusiutuvan energian edis",
+      "uusiutuvaa energia",
+      "biokaasun tuot",
+      "savukaasu",
+      "lauhdeved",
+      "sivuvirto",
+      "kaukolämmön tuot",
+      "turpeen käyttö",
+      "hakkeen käyttö",
+      "lämpölait",
+      "energiantuotanno",
+      "kauko- ja aluelämm",
+      "hukkalämpöjen",
+      "uusiutuvien energialähteiden",
+      "lämpökeskuk",
+      "sähkökattil",
+      "uusiutuvan energian lisä",
+      "uusiutuvan energian invest",
+      "uusiutuvan energian potent"
+    ],
+    "theme": "Energia",
+    "steps": [
+      {
+        "action": "Täsmennetään hankkeen kohde ja kunnan rooli: oma tuotanto, energiayhtiön investointi tai maankäytön valmistelu. Kootaan energian tarve, nykyinen ratkaisu ja mahdolliset vaihtoehdot asiantuntijavertailuun.",
+        "result": "Vaihtoehtojen ja kunnan vaikutusmahdollisuuksien kuvaus.",
+        "metric": "Tarve ja vaihtoehdot tunnistettu; vastuullinen toimija sovittu.",
+        "resources": "Energia-asiantuntija, yhtiö tai hanketoimija sekä kulutus- ja aluetiedot.",
+        "yearOffset": 0,
+        "quarter": "1–2"
+      },
+      {
+        "action": "Teetetään valitusta vaihtoehdosta toteutettavuus- ja kustannusarvio, jossa huomioidaan verkot, ympäristövaikutukset ja tarvittavat päätökset. Päätetään jatkovalmistelusta.",
+        "result": "Perusteltu päätös investoinnin tai kaavoituksen valmistelusta.",
+        "metric": "Arvio valmis; päätös ja jatkovastuut.",
+        "resources": "Asiantuntijaselvitys ja erillinen investointi- tai valmistelupäätös.",
+        "yearOffset": 1,
+        "quarter": "1–4"
+      }
+    ],
+    "alternativeSteps": [
+      {
+        "action": "Selvitetään yhden kohteen hukkalämmön tai muun paikallisen energialähteen käytettävyys yhdessä energiayhtiön kanssa.",
+        "result": "Rajattu tekninen esiselvitys.",
+        "metric": "Energiamäärä, lämpötilataso ja lämmön vastaanottaja selvitetty.",
+        "resources": "Lähtötiedot ja energia-asiantuntijan työ.",
+        "yearOffset": 0,
+        "quarter": "1–2"
+      },
+      {
+        "action": "Verrataan tulosta nykyiseen ratkaisuun ja ratkaistaan, onko laajempi valmistelu perusteltu.",
+        "result": "Jatkovalmistelupäätös tai perusteltu luopuminen.",
+        "metric": "Kustannus-, ympäristö- ja käyttövertailu.",
+        "resources": "Kunnan ja energiatoimijan päätös.",
+        "yearOffset": 1,
+        "quarter": "1–4"
+      }
+    ],
+    "effects": {
+      "emissions": "Vaikutus riippuu korvautuvasta tuotannosta ja koko toteutusketjusta. Uusiutuva polttoaine ei automaattisesti tarkoita päästötöntä kokonaisuutta.",
+      "sinks": "Biomassan hankinnan ja maankäytön mahdolliset hiilivarasto- ja nieluvaikutukset arvioidaan erikseen.",
+      "adaptation": "Sopeutumishyöty ei ole tämän toimen pääasiallinen tavoite.",
+      "costs": "Selvitykset ja mahdollinen investointi voivat vaatia huomattavia resursseja.",
+      "savings": "Säästöä ei voida luvata ilman lähtötietoja.",
+      "other": "Muut hyödyt tarkennetaan kohteen mukaan.",
+      "control": "Kunnan rooli voi olla omistaja, tilaaja tai maankäytön valmistelija; energiayhtiön päätöksiä ei oleteta kunnan päätöksiksi.",
+      "feasibility": "Kahdessa vuodessa voi valmistella hankkeen; suuri investointi voi vaatia pidemmän ajan."
+    },
+    "sources": [
+      "ym-method",
+      "kannon-energy"
+    ],
+    "basis": "YM:n oppaan toimenpide-esimerkit kattavat hukkalämmön ja uusiutuvan tuotannon; Kannonkosken suunnitelmassa tarkastellaan kaukolämmön vaihtoehtoja. Malli ei oleta kaikkien hankkeiden olevan aurinkovoimaa.",
+    "question": "Mikä on kunnan rooli ja onko hankkeesta jo esiselvitys?",
+    "kind": "Työkalun ehdotus",
+    "topic": "Uusiutuvan energian ja hukkalämmön hankkeen valmistelu",
+    "focus": [
+      "emissions"
+    ]
+  }
+]

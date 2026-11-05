@@ -1,0 +1,170 @@
+[
+  {
+    "id": "hinku-energy",
+    "title": "Hinku-kuntien ilmastoteot 2024: energia",
+    "file": "Hinku-kuntien-ilmastotoimet-2024(1).pdf",
+    "pages": "4–9",
+    "notes": "Kuntien itse ilmoittamia toteutuneita toimia vuodelta 2024. Esimerkiksi Sodankylän talotekniikan aikaohjelmat, Rääkkylän automaatio ja LED-valaistus, Kontiolahden kyläkoulun lämmitystavan vaihto sekä Siuntion vedenottamon aurinkosähkö. Ei vaikutusten riippumatonta todentamista.",
+    "pageNumbering": "PDF-tiedoston sivunumero"
+  },
+  {
+    "id": "hinku-mobility",
+    "title": "Hinku-kuntien ilmastoteot 2024: liikkuminen",
+    "file": "Hinku-kuntien-ilmastotoimet-2024(1).pdf",
+    "pages": "10, 12–15",
+    "notes": "Kuntien ilmoittamia toteutuneita toimia: Raaseporin pyöräpysäköinti, Vesilahden latauspisteet, Hollolan kuljetusten päästökriteerit, Kontiolahden sähköiset huoltoautot.",
+    "pageNumbering": "PDF-tiedoston sivunumero"
+  },
+  {
+    "id": "hinku-material",
+    "title": "Hinku-kuntien ilmastoteot 2024: hankinnat, ruoka ja kierto",
+    "file": "Hinku-kuntien-ilmastotoimet-2024(1).pdf",
+    "pages": "13–15, 19",
+    "notes": "Kuntien ilmoittamia toteutuneita toimia: Rauman hankintaohjeen ilmastokriteerit, Joensuun kalusteiden kierrätys, Juuan kouluruokalan biojätevaa’at, Nokian ylijäämäruoan myynti, Lohjan kalustekierron toimintamalli.",
+    "pageNumbering": "PDF-tiedoston sivunumero"
+  },
+  {
+    "id": "savon-energy",
+    "title": "Pohjois-Savon kuntien ilmastotoimenpiteiden vaikuttavuusarviointi (Ramboll 2025): energia",
+    "file": "kuntien_ilmastotoimenpiteiden_vaikuttavuusarviointi(1).pdf",
+    "pages": "4, 17–27",
+    "notes": "Aurinkosähkön ja lämmitystapamuutosten vaikutukset riippuvat kiinteistöstä, käytöstä, energian hinnasta ja korvattavasta energiasta. Raportin kuntakohtaisia lukuja ei siirretä toisiin kuntiin.",
+    "pageNumbering": "PDF-tiedoston sivunumero"
+  },
+  {
+    "id": "savon-transport",
+    "title": "Pohjois-Savon vaikuttavuusarviointi (2025): liikenne ja kalusto",
+    "file": "kuntien_ilmastotoimenpiteiden_vaikuttavuusarviointi(1).pdf",
+    "pages": "28–40",
+    "notes": "Kävelyn ja pyöräilyn edellytykset, työkoneet ja liikenteen käyttövoimat. Ilmastohyöty riippuu korvautuvista matkoista, kalustosta ja käyttömääristä.",
+    "pageNumbering": "PDF-tiedoston sivunumero"
+  },
+  {
+    "id": "savon-food",
+    "title": "Pohjois-Savon vaikuttavuusarviointi (2025): ruoka ja hävikki",
+    "file": "kuntien_ilmastotoimenpiteiden_vaikuttavuusarviointi(1).pdf",
+    "pages": "44–52",
+    "notes": "Ruokalistan kehittäminen ja ruokahävikin vähentäminen; kustannus- ja ilmastovaikutukset riippuvat lähtötilanteesta. Suositellaan maistatuksia, ruokailijoiden osallistamista ja todellisten hankintakustannusten käyttöä.",
+    "pageNumbering": "PDF-tiedoston sivunumero"
+  },
+  {
+    "id": "savon-nature",
+    "title": "Pohjois-Savon vaikuttavuusarviointi (2025): metsitys ja niityt",
+    "file": "kuntien_ilmastotoimenpiteiden_vaikuttavuusarviointi(1).pdf",
+    "pages": "52–59",
+    "notes": "Kohdekohtaiset metsitys- ja niittyratkaisut. Soveltuvuus, hoito ja toteutuksen aikajänne rajoittavat yleistämistä. Näiden mallien niittytoimille ei luvata määrällistä hiilinieluhyötyä.",
+    "pageNumbering": "PDF-tiedoston sivunumero"
+  },
+  {
+    "id": "ph-effects",
+    "title": "Päijät-Hämeen ilmastosuunnitelmien vaikutustenarviointi (Sitowise 2024)",
+    "file": "2024285-8-11071(1).pdf",
+    "pages": "7–13",
+    "notes": "Laadullinen teematason arvio kustannuksista ja hyödyistä: ilmastojohtaminen, energia, liikkuminen, ruoka, maankäyttö, sopeutuminen ja viestintä. Mallit eivät käytä raportin yleisiä takaisinmaksuväittämiä kuntakohtaisina lupauksina.",
+    "pageNumbering": "PDF-tiedoston sivunumero"
+  },
+  {
+    "id": "syke-land",
+    "title": "Opas maankäyttösektorin ilmastotoimien hyödyntämiseen kuntien ilmasto- ja luontotyössä (Syke 33/2024)",
+    "file": "SykeRa_2024_33_Kuntanielu_Hilden-1(1).pdf",
+    "pages": "9–11, 34–38",
+    "notes": "Taulukot 4–6 (painetut sivut 33–35) erottavat metsien, viljelysmaiden ja kosteikkojen toimet, aikajänteet ja rajoitukset. Metsäkadon välttäminen, hakkuutaso ja turvemaiden päästöt keskeisiä. Ennallistaminen ei tarkoita välitöntä hiilinielua.",
+    "pageNumbering": "PDF-tiedoston sivunumero"
+  },
+  {
+    "id": "ym-method",
+    "title": "Opas kunnan ilmastosuunnitelman valmisteluun (YM 2023:17): suunnittelu ja seuranta",
+    "file": "YM_2023_17(1).pdf",
+    "pages": "45–54",
+    "notes": "Työkalussa käytetään vastuutuksen, priorisoinnin, budjetoinnin ja kohtuullisen seurannan periaatteita. Oppaan vuoden 2023 lakivelvoitteita tai rahoitustietoja ei esitetä nykyisin voimassa olevina.",
+    "pageNumbering": "PDF-tiedoston sivunumero"
+  },
+  {
+    "id": "kannon-food",
+    "title": "Kannonkosken ja Nuorisokeskus Piispalan ilmastosuunnitelma 2025–2035: ruokapalvelut",
+    "file": "Kannonkosken-kunnan-ilmastosuunnitelma_17.4.2025_saavutettava(1).pdf",
+    "pages": "26–27",
+    "notes": "Suunnitelmaesimerkkejä: hävikin järjestelmällinen seuranta, hävikkivaa’an kokeilu, ruokailijoiden palaute ja reseptiikan kehittäminen. Suunnitelmakirjaus ei yksin todista toteutusta.",
+    "pageNumbering": "PDF-tiedoston sivunumero"
+  },
+  {
+    "id": "kannon-nature",
+    "title": "Kannonkosken ilmastosuunnitelma: metsä- ja luontotyö",
+    "file": "Kannonkosken-kunnan-ilmastosuunnitelma_17.4.2025_saavutettava(1).pdf",
+    "pages": "40–42",
+    "notes": "Suunnitelmaesimerkkejä: metsänhoitosuunnitelman ilmasto- ja luontonäkökulmat, niityt, pienvesien kunnostuskohteet ja lasten osallistuminen luonnonhoitoon.",
+    "pageNumbering": "PDF-tiedoston sivunumero"
+  },
+  {
+    "id": "kannon-comms",
+    "title": "Kannonkosken ilmastosuunnitelma: viestintä ja yhteistyö",
+    "file": "Kannonkosken-kunnan-ilmastosuunnitelma_17.4.2025_saavutettava(1).pdf",
+    "pages": "45–46, 61",
+    "notes": "Viestinnän vuosikello, toimialojen osallistaminen ja yhteistyö yritysten ja yhdistysten kanssa. Käytetään suunnitteluideana, ei näyttönä päästövähennyksistä.",
+    "pageNumbering": "PDF-tiedoston sivunumero"
+  },
+  {
+    "id": "pielavesi",
+    "title": "Pielaveden ilmastosuunnitelma 2025–2035",
+    "file": "Pielaveden-ilmastosuunnitelma-2025(1).pdf",
+    "pages": "11–14, 17–18",
+    "notes": "Kuntasuunnitelman esimerkkejä tilojen käytöstä, kaavoituksen tarkistuslistasta, lajitteluneuvonnasta ja seurannan vastuista. Nykytila on kyseisen asiakirjan ajankohdalta.",
+    "pageNumbering": "PDF-tiedoston sivunumero"
+  },
+  {
+    "id": "iisalmi-adapt",
+    "title": "Iisalmen ilmastosuunnitelma vuoteen 2035, 1. päivitys 2026: sopeutuminen",
+    "file": "Iisalmen-ilmastosuunnitelman-vuoteen-2035_1.-paivitys(1).pdf",
+    "pages": "25–27",
+    "notes": "Riskien tunnistaminen, hulevesien käsittely syntypaikalla, rakennusten lämpöolosuhteet ja varautuminen. Mukautetaan kuntakohtaiseksi valmisteluksi.",
+    "pageNumbering": "PDF-tiedoston sivunumero"
+  },
+  {
+    "id": "iisalmi-monitor",
+    "title": "Iisalmen ilmastosuunnitelma: viestintä ja seuranta",
+    "file": "Iisalmen-ilmastosuunnitelman-vuoteen-2035_1.-paivitys(1).pdf",
+    "pages": "28–29",
+    "notes": "Toimialoja yhdistävä seuranta, yhteys talousarvioon ja ilmastotyöstä viestiminen. Käytetään mallina; ei oletusta muiden kuntien organisaatiosta.",
+    "pageNumbering": "PDF-tiedoston sivunumero"
+  },
+  {
+    "id": "asikkala",
+    "title": "Asikkalan ilmastosuunnitelma 2025–2029",
+    "file": "Ilmastosuunnitelma(1).pdf",
+    "pages": "21, 27–31",
+    "notes": "Suunnitelmakirjauksia tilatehokkuudesta, materiaalien uudelleenkäytöstä, ruokahävikistä, vesiensuojelusta, vieraslajeista ja ilmastoriskeistä. Toteutus on tarkistettava erikseen.",
+    "pageNumbering": "PDF-tiedoston sivunumero"
+  },
+  {
+    "id": "ilmoniemi",
+    "title": "Ilmoniemi (2024): Maaseutumaisten kuntien mahdollisuudet ja haasteet maankäyttösektorin ilmasto- ja luontotyössä",
+    "file": "Ilmoniemi_Tiina_2024(1).pdf",
+    "pages": "27–28",
+    "notes": "Kandidaatintutkielman johtopäätökset (painetut sivut 23–24): niukat resurssit, asiantuntemus ja pitkäjänteinen yhteistyö. Kirjallisuuskatsaus Etelä-Savosta, rajallinen yleistettävyys; ei vaikutusten määrällisen arvioinnin lähde.",
+    "pageNumbering": "PDF-tiedoston sivunumero"
+  },
+  {
+    "id": "kannon-energy",
+    "title": "Kannonkosken ja Nuorisokeskus Piispalan ilmastosuunnitelma 2025–2035: kiinteistöt",
+    "file": "Kannonkosken-kunnan-ilmastosuunnitelma_17.4.2025_saavutettava(1).pdf",
+    "pages": "20–22",
+    "notes": "Suunnitelmaesimerkkejä vedenkulutuksen vähentämisestä, talotekniikan säädöistä, energiaremonttien tarpeen kartoittamisesta ja tilojen varausjärjestelmästä. Kyse on suunnitelmasta, ei toteutuksen todentamisesta.",
+    "pageNumbering": "PDF-tiedoston sivunumero"
+  },
+  {
+    "id": "savon-material",
+    "title": "Pohjois-Savon vaikuttavuusarviointi (Ramboll 2025): maa- ja purkumassat",
+    "file": "kuntien_ilmastotoimenpiteiden_vaikuttavuusarviointi(1).pdf",
+    "pages": "40–44",
+    "notes": "Maamassojen paikallinen hyödyntäminen, kuljetusmatkat, puuston poistamisen haitta sekä purkumateriaalien hyödyntäminen. Laskelmat ovat kohde- tai skenaariokohtaisia, eikä niiden euroja tai päästölukuja siirretä työkalun ehdotuksiin.",
+    "pageNumbering": "PDF-tiedoston sivunumero"
+  },
+  {
+    "id": "savon-electricity",
+    "title": "Pohjois-Savon vaikuttavuusarviointi (Ramboll 2025): sähkön hankinta",
+    "file": "kuntien_ilmastotoimenpiteiden_vaikuttavuusarviointi(1).pdf",
+    "pages": "16–18",
+    "notes": "Uusiutuvan ja päästöttömän sähkön hankinnan arviointi. Kustannus riippuu sopimuksesta. Työkalu erottaa hankinnan laskennallisen päästövaikutuksen koko sähköjärjestelmän muutoksesta.",
+    "pageNumbering": "PDF-tiedoston sivunumero"
+  }
+]

@@ -1,0 +1,257 @@
+{
+  "total": 497,
+  "excelActions": 464,
+  "liperiActions": 33,
+  "municipalities": {
+    "Heinävesi": 42,
+    "Juuka": 74,
+    "Kitee": 41,
+    "Kontiolahti": 54,
+    "Lieksa": 77,
+    "Liperi": 33,
+    "Nurmes": 78,
+    "Rääkkylä": 49,
+    "Tohmajärvi": 49
+  },
+  "excelExcludedRows": [
+    {
+      "row": 1,
+      "reason": "Toistuva taulukon otsikko",
+      "values": [
+        "Toimenpiteet – Ilmastopolku",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "row": 2,
+      "reason": "Toistuva sarakeotsikkorivi",
+      "values": [
+        "Otsikko",
+        "Kuvaus",
+        "Kunta",
+        "Toteutusvaihe",
+        "Teema",
+        "Toteutusajankohta",
+        "Vastuutaho",
+        "Tehtävät"
+      ]
+    },
+    {
+      "row": 45,
+      "reason": "Toistuva taulukon otsikko",
+      "values": [
+        "Toimenpiteet – Ilmastopolku",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "row": 46,
+      "reason": "Toistuva sarakeotsikkorivi",
+      "values": [
+        "Otsikko",
+        "Kuvaus",
+        "Kunta",
+        "Toteutusvaihe",
+        "Teema",
+        "Toteutusajankohta",
+        "Vastuutaho",
+        "Tehtävät"
+      ]
+    },
+    {
+      "row": 121,
+      "reason": "Toistuva taulukon otsikko",
+      "values": [
+        "Toimenpiteet – Ilmastopolku",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "row": 122,
+      "reason": "Toistuva sarakeotsikkorivi",
+      "values": [
+        "Otsikko",
+        "Kuvaus",
+        "Kunta",
+        "Toteutusvaihe",
+        "Teema",
+        "Toteutusajankohta",
+        "Vastuutaho",
+        "Tehtävät"
+      ]
+    },
+    {
+      "row": 164,
+      "reason": "Toistuva taulukon otsikko",
+      "values": [
+        "Toimenpiteet – Ilmastopolku",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "row": 165,
+      "reason": "Toistuva sarakeotsikkorivi",
+      "values": [
+        "Otsikko",
+        "Kuvaus",
+        "Kunta",
+        "Toteutusvaihe",
+        "Teema",
+        "Toteutusajankohta",
+        "Vastuutaho",
+        "Tehtävät"
+      ]
+    },
+    {
+      "row": 220,
+      "reason": "Toistuva taulukon otsikko",
+      "values": [
+        "Toimenpiteet – Ilmastopolku",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "row": 221,
+      "reason": "Toistuva sarakeotsikkorivi",
+      "values": [
+        "Otsikko",
+        "Kuvaus",
+        "Kunta",
+        "Toteutusvaihe",
+        "Teema",
+        "Toteutusajankohta",
+        "Vastuutaho",
+        "Tehtävät"
+      ]
+    },
+    {
+      "row": 299,
+      "reason": "Toistuva taulukon otsikko",
+      "values": [
+        "Toimenpiteet – Ilmastopolku",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "row": 300,
+      "reason": "Toistuva sarakeotsikkorivi",
+      "values": [
+        "Otsikko",
+        "Kuvaus",
+        "Kunta",
+        "Toteutusvaihe",
+        "Teema",
+        "Toteutusajankohta",
+        "Vastuutaho",
+        "Tehtävät"
+      ]
+    },
+    {
+      "row": 379,
+      "reason": "Toistuva taulukon otsikko",
+      "values": [
+        "Toimenpiteet – Ilmastopolku",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "row": 380,
+      "reason": "Toistuva sarakeotsikkorivi",
+      "values": [
+        "Otsikko",
+        "Kuvaus",
+        "Kunta",
+        "Toteutusvaihe",
+        "Teema",
+        "Toteutusajankohta",
+        "Vastuutaho",
+        "Tehtävät"
+      ]
+    },
+    {
+      "row": 430,
+      "reason": "Toistuva taulukon otsikko",
+      "values": [
+        "Toimenpiteet – Ilmastopolku",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "row": 431,
+      "reason": "Toistuva sarakeotsikkorivi",
+      "values": [
+        "Otsikko",
+        "Kuvaus",
+        "Kunta",
+        "Toteutusvaihe",
+        "Teema",
+        "Toteutusajankohta",
+        "Vastuutaho",
+        "Tehtävät"
+      ]
+    }
+  ],
+  "statusCounts": {
+    "Valmis": 27,
+    "Toteutuksessa": 196,
+    "Päätetty toteuttaa": 194,
+    "Idea": 21,
+    "Suunnitteilla": 26,
+    "Tarkistettava": 33
+  },
+  "notes": [
+    "Excelin alkuperäisiä kenttiä ei ole korjattu. Myös mahdolliset lähdeaineiston virheet säilyvät.",
+    "Liperin PDF:n rivinvaihdot on yhdistetty välilyönneillä. Alkuperäiset kuusi saraketta säilyvät original-kentässä.",
+    "Liperin toteutusvaihe puuttuu vuoden 2022 ohjelmasta: kaikki 33 merkitty tarkistettaviksi.",
+    "Liperin source.page tarkoittaa PDF:n fyysistä sivua; painettu sivunumero on yhtä pienempi.",
+    "Aikataulu Jatkuva ei muuta lähteen toteutusvaihetta."
+  ]
+}
