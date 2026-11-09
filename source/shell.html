@@ -1,16 +1,19 @@
 <div id="climate-app">
-<div id="report-toolbar" class="no-print"><button type="button" data-action="close-report">← Palaa suunnitelmaan</button> <button type="button" class="primary" data-action="print-system">Tulosta / tallenna PDF</button><p class="small">Valitse selaimen tulostusikkunassa Tallenna PDF-muodossa. Jos ikkuna ei avaudu tässä esikatselussa, käytä ladattavan paketin selainversiota.</p></div>
-<header class="brand">
-  <div class="logos"><img class="mkl" src="__MKL__" alt="Pohjois-Karjalan maakuntaliitto"><img class="eu" src="__EU__" alt="Euroopan unionin osarahoittama"></div>
-  <div class="topline"><div><div class="eyebrow">Kuntien ilmastotyön tueksi</div><h1>Ilmastosuunnitelman toimenpiteiden päivitys</h1></div><span class="demo">KOKEILUVERSIO 0.4</span></div>
-  <p>Valitse vaikuttavia tekoja, täsmennä toteutus ja kokoa kunnan seuraavat ilmastotoimet.</p>
+<div id="report-toolbar" class="no-print"><button type="button" data-action="close-report">← Palaa suunnitelmaan</button> <button type="button" class="primary" data-action="print-system">Tulosta / tallenna PDF</button></div>
+<header class="site-header no-print">
+  <button class="wordmark" type="button" data-action="home"><strong>Ilmastovisio</strong><span>Kuntien ilmastotyön tueksi</span></button>
+  <img class="mkl" src="__MKL__" alt="Pohjois-Karjalan maakuntaliitto">
 </header>
-<nav aria-label="Työskentelyn vaiheet" id="navigation"></nav>
+<nav class="no-print" aria-label="Päävalikko" id="navigation"></nav>
+<section class="hero no-print" aria-label="Ilmastosuunnitelman toimenpiteiden päivitys">
+  <img class="hero-photo" src="__HERO__" alt="Järvimaisema, metsäisiä saaria ja pilvinen sininen taivas">
+  <div class="hero-copy"><div class="eyebrow">Ideoista yhteisiksi teoiksi</div><h1>Ilmastosuunnitelman toimenpiteiden päivitys</h1><p>Valitse sopiva toimi. Muokkaa valmista kuvausta. Kokoa kunnan yhteinen suunnitelma.</p><button type="button" class="primary" data-action="browse">Tutustu toimenpiteisiin ↓</button></div>
+</section>
 <div class="workspace">
-  <div class="context"><div class="selection"><span>Oma toimenpidesuunnitelma</span><span id="period" class="small muted"></span></div><span class="saved" id="save-state" role="status">Muutokset säilyvät tässä selaimessa</span></div>
+  <div class="context"><span>Oma toimenpidesuunnitelma <span id="period"></span></span><span id="save-state" role="status">Muutokset säilyvät tässä selaimessa</span></div>
   <div id="toast" role="status" aria-live="polite"></div>
   <main id="view"></main>
 </div>
 <div id="print-report" class="print-only"></div>
-<footer class="footer"><img src="__PROJECT__" alt="Ilmastovisio"><div><p>Työkalu on toteutettu Ilmastovisio – Uutta kasvua ilmastotyöllä Pohjois-Karjalaan -hankkeessa, jota osarahoitetaan Euroopan unionin Oikeudenmukaisen siirtymän rahastosta (JTF).</p><button type="button" class="quiet no-print" data-action="help">Ohje ja tietopohja</button></div></footer>
+<footer class="footer no-print"><div class="footer-project"><img class="project-logo" src="__PROJECT__" alt="Ilmastovisio"><div><strong>Yhteistä ilmastotyötä Pohjois-Karjalassa</strong><p>Ilmastovisio – Uutta kasvua ilmastotyöllä Pohjois-Karjalaan. Euroopan unionin Oikeudenmukaisen siirtymän rahaston (JTF) osarahoittama.</p><span class="small">Kokeiluversio 0.8</span></div></div><img class="eu" src="__EU__" alt="Euroopan unionin osarahoittama"></footer>
 </div>

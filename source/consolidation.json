@@ -1,0 +1,2703 @@
+[
+  {
+    "id": "extra-tp0954",
+    "title": "Rakennetaan pyöräpysäköintipaikkoja",
+    "modelId": "active-travel",
+    "sourceIds": [
+      "extra-tp0954",
+      "xls-091",
+      "xls-148",
+      "xls-200",
+      "xls-276",
+      "xls-352",
+      "xls-413",
+      "extra-tp0638",
+      "extra-tp0781",
+      "extra-tp0908",
+      "extra-tp0833"
+    ],
+    "keywords": [
+      "pyöräpysäköinti",
+      "pyöräteline",
+      "pyöräkatos"
+    ]
+  },
+  {
+    "id": "xls-414",
+    "title": "Asennetaan pyöränhuoltopisteitä",
+    "modelId": "active-travel",
+    "sourceIds": [
+      "xls-414"
+    ]
+  },
+  {
+    "id": "extra-tp0643",
+    "title": "Korvataan lyhyitä ajomatkoja tavarapyörillä",
+    "modelId": "active-travel",
+    "sourceIds": [
+      "extra-tp0643"
+    ]
+  },
+  {
+    "id": "xls-479",
+    "title": "Otetaan käyttöön yhteiskäyttöpyöriä",
+    "modelId": "active-travel",
+    "sourceIds": [
+      "xls-479",
+      "xls-428",
+      "extra-tp0524",
+      "extra-tp0834"
+    ]
+  },
+  {
+    "id": "extra-tp0942",
+    "title": "Lisätään varjostusta puilla ja rakenteilla",
+    "modelId": "adaptation",
+    "sourceIds": [
+      "extra-tp0942",
+      "extra-tp0921"
+    ]
+  },
+  {
+    "id": "extra-tp0750",
+    "title": "Järjestetään pyöräilytapahtumia",
+    "modelId": "active-travel",
+    "sourceIds": [
+      "extra-tp0750"
+    ]
+  },
+  {
+    "id": "xls-453",
+    "title": "Korjataan kävelyreittien esteettömyyspuutteet",
+    "modelId": "active-travel",
+    "sourceIds": [
+      "xls-453"
+    ]
+  },
+  {
+    "id": "xls-005",
+    "title": "Parannetaan kävely- ja pyöräilyreittejä",
+    "modelId": "active-travel",
+    "sourceIds": [
+      "xls-005",
+      "extra-tp0639",
+      "extra-tp0644",
+      "extra-tp0901",
+      "extra-tp0840",
+      "malli-active-travel",
+      "xls-068",
+      "xls-186",
+      "xls-252",
+      "xls-330",
+      "xls-448",
+      "extra-tp0525",
+      "extra-tp0637",
+      "extra-tp0830",
+      "xls-140",
+      "xls-399",
+      "xls-446",
+      "extra-tp0792"
+    ]
+  },
+  {
+    "id": "extra-tp0728",
+    "title": "Laaditaan kävelyn ja pyöräilyn toimenpideohjelma",
+    "modelId": "active-travel",
+    "sourceIds": [
+      "extra-tp0728",
+      "extra-tp0640",
+      "extra-tp0641",
+      "extra-tp0748",
+      "extra-tp0720"
+    ]
+  },
+  {
+    "id": "xls-020",
+    "title": "Parannetaan kävely- ja pyöräilyreittien talvikunnossapitoa",
+    "modelId": "active-travel",
+    "sourceIds": [
+      "xls-020",
+      "xls-185",
+      "xls-253",
+      "xls-331",
+      "xls-402",
+      "xls-447",
+      "xls-450"
+    ]
+  },
+  {
+    "id": "extra-tp0645",
+    "title": "Otetaan käyttöön työsuhdepyöräetu",
+    "modelId": "active-travel",
+    "sourceIds": [
+      "extra-tp0645",
+      "xls-248",
+      "extra-tp0832"
+    ]
+  },
+  {
+    "id": "xls-142",
+    "title": "Laaditaan henkilöstön työmatkaliikkumisen suunnitelma",
+    "modelId": "active-travel",
+    "sourceIds": [
+      "xls-142",
+      "xls-423",
+      "extra-tp0793"
+    ]
+  },
+  {
+    "id": "extra-tp0819",
+    "title": "Asennetaan ja testataan varavoima",
+    "modelId": "adaptation",
+    "sourceIds": [
+      "extra-tp0819",
+      "extra-tp0891",
+      "extra-tp0918"
+    ]
+  },
+  {
+    "id": "extra-tp0922",
+    "title": "Toteutetaan rakennusten helteeltä suojautumisen ratkaisut",
+    "modelId": "adaptation",
+    "sourceIds": [
+      "extra-tp0922",
+      "extra-tp0917"
+    ]
+  },
+  {
+    "id": "xls-321",
+    "title": "Järjestetään asukkaiden varautumisneuvontaa",
+    "modelId": "adaptation",
+    "sourceIds": [
+      "xls-321",
+      "extra-tp0826"
+    ]
+  },
+  {
+    "id": "extra-tp0926",
+    "title": "Ajoitetaan liukkaudentorjunta sääennusteiden perusteella",
+    "modelId": "adaptation",
+    "sourceIds": [
+      "extra-tp0926"
+    ]
+  },
+  {
+    "id": "extra-tp0925",
+    "title": "Järjestetään vedenjakelu vesikatkojen aikana",
+    "modelId": "adaptation",
+    "sourceIds": [
+      "extra-tp0925"
+    ]
+  },
+  {
+    "id": "extra-tp0873",
+    "title": "Laaditaan metsien myrsky- ja lumituhojen toimintaohje",
+    "modelId": "adaptation",
+    "sourceIds": [
+      "extra-tp0873",
+      "extra-tp0923"
+    ]
+  },
+  {
+    "id": "extra-tp0924",
+    "title": "Kirjataan säävarautuminen urakkasopimuksiin",
+    "modelId": "adaptation",
+    "sourceIds": [
+      "extra-tp0924"
+    ]
+  },
+  {
+    "id": "xls-138",
+    "title": "Suunnitellaan rakennukset kestämään ilmastoriskejä",
+    "modelId": "adaptation",
+    "sourceIds": [
+      "xls-138",
+      "extra-tp0824",
+      "extra-tp0841"
+    ]
+  },
+  {
+    "id": "malli-adaptation",
+    "title": "Laaditaan palvelujen häiriötilanneohjeet ja harjoitellaan niitä",
+    "modelId": "adaptation",
+    "sourceIds": [
+      "malli-adaptation",
+      "extra-tp0886"
+    ]
+  },
+  {
+    "id": "extra-tp0868",
+    "title": "Seurataan metsätuholaisia",
+    "modelId": "forests",
+    "sourceIds": [
+      "extra-tp0868",
+      "extra-tp0872"
+    ]
+  },
+  {
+    "id": "xls-030",
+    "title": "Tarkistetaan metsäpalojen sammutusveden saatavuus ja pelastustiet",
+    "modelId": "adaptation",
+    "sourceIds": [
+      "xls-030",
+      "xls-196",
+      "xls-273"
+    ]
+  },
+  {
+    "id": "extra-tp0756",
+    "title": "Kartoitetaan yritysten ilmastoriskit ja investointitarpeet",
+    "modelId": "adaptation",
+    "sourceIds": [
+      "extra-tp0756"
+    ]
+  },
+  {
+    "id": "extra-tp0520",
+    "title": "Julkaistaan maatilojen ilmastoratkaisujen esimerkkejä",
+    "modelId": "agriculture",
+    "sourceIds": [
+      "extra-tp0520"
+    ]
+  },
+  {
+    "id": "liperi-30",
+    "title": "Järjestetään kotieläintilojen ruokinta- ja ravinneneuvontaa",
+    "modelId": "agriculture",
+    "sourceIds": [
+      "liperi-30"
+    ]
+  },
+  {
+    "id": "xls-086",
+    "title": "Järjestetään maatilojen energia- ja ravinneneuvontaa",
+    "modelId": "agriculture",
+    "sourceIds": [
+      "xls-086",
+      "xls-345",
+      "extra-tp0519",
+      "extra-tp0955",
+      "extra-tp0749",
+      "extra-tp0521"
+    ]
+  },
+  {
+    "id": "extra-tp0785",
+    "title": "Järjestetään aurinkopaneelien yhteishankinta",
+    "modelId": "solar",
+    "sourceIds": [
+      "extra-tp0785",
+      "extra-tp0632"
+    ]
+  },
+  {
+    "id": "malli-agriculture",
+    "title": "Järjestetään maatilojen vesitalousneuvontaa",
+    "modelId": "agriculture",
+    "sourceIds": [
+      "malli-agriculture"
+    ]
+  },
+  {
+    "id": "liperi-24",
+    "title": "Järjestetään kasvipeitteisyyden ja ravinteiden käytön neuvontaa",
+    "modelId": "agriculture",
+    "sourceIds": [
+      "liperi-24"
+    ]
+  },
+  {
+    "id": "xls-154",
+    "title": "Laaditaan maatilojen energia- ja resurssitehokkuussuunnitelmat",
+    "modelId": "agriculture",
+    "sourceIds": [
+      "xls-154",
+      "xls-155",
+      "xls-387"
+    ]
+  },
+  {
+    "id": "xls-366",
+    "title": "Selvitetään maatilojen uusiutuvan energian tuotantomahdollisuudet",
+    "modelId": "agriculture",
+    "sourceIds": [
+      "xls-366",
+      "liperi-23"
+    ]
+  },
+  {
+    "id": "extra-tp0746",
+    "title": "Toteutetaan maatalouden energia- ja ravinnetehokkuuskokeiluja",
+    "modelId": "agriculture",
+    "sourceIds": [
+      "extra-tp0746",
+      "xls-141",
+      "extra-tp0800"
+    ]
+  },
+  {
+    "id": "extra-tp0935",
+    "title": "Kokeillaan turvepeltojen vedenpinnan säätöä",
+    "modelId": "agriculture",
+    "sourceIds": [
+      "extra-tp0935"
+    ]
+  },
+  {
+    "id": "xls-304",
+    "title": "Toteutetaan maatilojen biokaasuratkaisuja",
+    "modelId": "agriculture",
+    "sourceIds": [
+      "xls-304"
+    ]
+  },
+  {
+    "id": "xls-004",
+    "title": "Asennetaan rakennusautomaatio",
+    "modelId": "building-energy",
+    "sourceIds": [
+      "xls-004",
+      "xls-207",
+      "xls-332",
+      "xls-401",
+      "xls-449",
+      "extra-tp0568",
+      "extra-tp0579",
+      "extra-tp0818",
+      "xls-283",
+      "xls-303",
+      "xls-111"
+    ]
+  },
+  {
+    "id": "xls-027",
+    "title": "Otetaan ilmanvaihdon poistoilman lämpö talteen",
+    "modelId": "building-energy",
+    "sourceIds": [
+      "xls-027",
+      "xls-192",
+      "xls-266",
+      "xls-176",
+      "xls-232",
+      "xls-313",
+      "extra-tp0559",
+      "extra-tp0565"
+    ]
+  },
+  {
+    "id": "xls-223",
+    "title": "Otetaan käyttöön vesihuollon energiankulutuksen seuranta",
+    "modelId": "building-energy",
+    "sourceIds": [
+      "xls-223"
+    ]
+  },
+  {
+    "id": "xls-349",
+    "title": "Otetaan käyttöön vesihuollon etävalvonta",
+    "modelId": "water-saving",
+    "sourceIds": [
+      "xls-349"
+    ]
+  },
+  {
+    "id": "xls-390",
+    "title": "Asetetaan hankinnoille energiatehokkuusvaatimukset",
+    "modelId": "procurement",
+    "sourceIds": [
+      "xls-390",
+      "extra-tp0816"
+    ]
+  },
+  {
+    "id": "extra-tp0879",
+    "title": "Seurataan vedenkulutusta ja korjataan vuodot",
+    "modelId": "water-saving",
+    "sourceIds": [
+      "extra-tp0879",
+      "xls-372",
+      "extra-tp0949"
+    ]
+  },
+  {
+    "id": "liperi-29",
+    "title": "Järjestetään rakennusten energiansäästö- ja korjausneuvontaa",
+    "modelId": "communication",
+    "sourceIds": [
+      "liperi-29",
+      "extra-tp0821",
+      "xls-047",
+      "xls-302",
+      "extra-tp0811",
+      "xls-415",
+      "extra-tp0782"
+    ]
+  },
+  {
+    "id": "xls-128",
+    "title": "Hyödynnetään hukkalämpöä",
+    "modelId": "energy-production",
+    "sourceIds": [
+      "xls-128",
+      "xls-233",
+      "xls-314",
+      "extra-tp0745",
+      "xls-347",
+      "xls-472",
+      "extra-tp0567"
+    ]
+  },
+  {
+    "id": "extra-tp0734",
+    "title": "Teetetään rakennusten energiakatselmukset",
+    "modelId": "building-energy",
+    "sourceIds": [
+      "extra-tp0734",
+      "xls-125",
+      "xls-385",
+      "liperi-19",
+      "extra-tp0735",
+      "extra-tp0777",
+      "xls-350",
+      "xls-296",
+      "extra-tp0825",
+      "extra-tp0788"
+    ]
+  },
+  {
+    "id": "extra-tp0587",
+    "title": "Toteutetaan energiaremontteja säästötakuulla",
+    "modelId": "building-energy",
+    "sourceIds": [
+      "extra-tp0587"
+    ]
+  },
+  {
+    "id": "extra-tp0668",
+    "title": "Hankitaan rakennuksia elinkaarimallilla",
+    "modelId": "procurement",
+    "sourceIds": [
+      "extra-tp0668"
+    ]
+  },
+  {
+    "id": "extra-tp0817",
+    "title": "Laaditaan energiapulaan varautumisen toimintaohje",
+    "modelId": "adaptation",
+    "sourceIds": [
+      "extra-tp0817"
+    ]
+  },
+  {
+    "id": "extra-tp0577",
+    "title": "Laaditaan energiatehokkuuden toimenpideohjelma",
+    "modelId": "building-energy",
+    "sourceIds": [
+      "extra-tp0577",
+      "extra-tp0711",
+      "liperi-18",
+      "extra-tp0761"
+    ]
+  },
+  {
+    "id": "xls-073",
+    "title": "Asetetaan kuljetus- ja työkonehankinnoille päästökriteerit",
+    "modelId": "procurement",
+    "sourceIds": [
+      "xls-073",
+      "xls-149",
+      "xls-225",
+      "xls-294",
+      "xls-377",
+      "liperi-16",
+      "extra-tp0534",
+      "extra-tp0674",
+      "extra-tp0706",
+      "extra-tp0953",
+      "extra-tp0831"
+    ]
+  },
+  {
+    "id": "xls-256",
+    "title": "Seurataan ajoneuvojen kulutusta ja koulutetaan taloudelliseen ajoon",
+    "modelId": "fleet",
+    "sourceIds": [
+      "xls-256",
+      "xls-329"
+    ]
+  },
+  {
+    "id": "xls-071",
+    "title": "Otetaan käyttöön rakennusten energiankulutuksen seuranta",
+    "modelId": "building-energy",
+    "sourceIds": [
+      "xls-071",
+      "extra-tp0506",
+      "xls-126"
+    ]
+  },
+  {
+    "id": "extra-tp0623",
+    "title": "Toteutetaan rakennusten energiaremontteja",
+    "modelId": "building-energy",
+    "sourceIds": [
+      "extra-tp0623",
+      "xls-127",
+      "xls-388",
+      "extra-tp0558",
+      "extra-tp0578"
+    ]
+  },
+  {
+    "id": "xls-072",
+    "title": "Säädetään rakennusten lämmitys ja ilmanvaihto",
+    "modelId": "building-energy",
+    "sourceIds": [
+      "xls-072",
+      "xls-026",
+      "xls-083",
+      "xls-191",
+      "xls-265",
+      "xls-338",
+      "xls-408",
+      "xls-457",
+      "extra-tp0503",
+      "extra-tp0592",
+      "malli-building-energy",
+      "xls-114",
+      "xls-386",
+      "extra-tp0557",
+      "extra-tp0562",
+      "extra-tp0897",
+      "extra-tp0743",
+      "extra-tp0574"
+    ],
+    "keywords": [
+      "lämmityksen säätö",
+      "ilmanvaihdon säätö"
+    ]
+  },
+  {
+    "id": "extra-tp0666",
+    "title": "Asetetaan rakennushankkeille ympäristö- ja energiatavoitteet",
+    "modelId": "procurement",
+    "sourceIds": [
+      "extra-tp0666",
+      "extra-tp0696",
+      "xls-158",
+      "xls-363",
+      "extra-tp0815",
+      "liperi-06",
+      "extra-tp0789"
+    ]
+  },
+  {
+    "id": "extra-tp0563",
+    "title": "Yhdistetään toimintoja yhteisiin tiloihin",
+    "modelId": "space-use",
+    "sourceIds": [
+      "extra-tp0563",
+      "xls-100",
+      "xls-247",
+      "xls-360",
+      "extra-tp0507",
+      "extra-tp0790",
+      "extra-tp0898",
+      "malli-space-use",
+      "extra-tp0837",
+      "extra-tp0950"
+    ]
+  },
+  {
+    "id": "extra-tp0553",
+    "title": "Toteutetaan rakennusten energiansäästökokeiluja",
+    "modelId": "building-energy",
+    "sourceIds": [
+      "extra-tp0553",
+      "xls-139",
+      "xls-398",
+      "xls-445",
+      "extra-tp0732",
+      "extra-tp0733",
+      "extra-tp0741"
+    ]
+  },
+  {
+    "id": "xls-396",
+    "title": "Toteutetaan kuntien yhteisiä ilmastohankintoja",
+    "modelId": "procurement",
+    "sourceIds": [
+      "xls-396",
+      "xls-443",
+      "extra-tp0760"
+    ]
+  },
+  {
+    "id": "extra-tp0905",
+    "title": "Otetaan käyttöön sähkön kulutushuippujen ohjaus",
+    "modelId": "building-energy",
+    "sourceIds": [
+      "extra-tp0905"
+    ]
+  },
+  {
+    "id": "extra-tp0560",
+    "title": "Huolletaan ilmanvaihto säännöllisesti",
+    "modelId": "building-energy",
+    "sourceIds": [
+      "extra-tp0560"
+    ]
+  },
+  {
+    "id": "extra-tp0561",
+    "title": "Uusitaan talotekniset laitteet energiatehokkaiksi",
+    "modelId": "building-energy",
+    "sourceIds": [
+      "extra-tp0561",
+      "xls-006",
+      "xls-049",
+      "xls-171",
+      "xls-226",
+      "xls-307",
+      "xls-389",
+      "xls-435",
+      "extra-tp0582",
+      "xls-109"
+    ]
+  },
+  {
+    "id": "xls-042",
+    "title": "Laaditaan rakennusten lämmitystapojen muutossuunnitelma",
+    "modelId": "heating",
+    "sourceIds": [
+      "xls-042",
+      "xls-217",
+      "extra-tp0610",
+      "extra-tp0619",
+      "liperi-21",
+      "extra-tp0906"
+    ]
+  },
+  {
+    "id": "malli-building-envelope",
+    "title": "Tiivistetään rakennusten ilmavuodot",
+    "modelId": "building-envelope",
+    "sourceIds": [
+      "malli-building-envelope",
+      "xls-281",
+      "xls-355",
+      "xls-464",
+      "xls-070"
+    ]
+  },
+  {
+    "id": "xls-235",
+    "title": "Kunnostetaan tai uusitaan ikkunat ja ovet",
+    "modelId": "building-envelope",
+    "sourceIds": [
+      "xls-235",
+      "xls-317",
+      "xls-438",
+      "xls-110",
+      "xls-236"
+    ]
+  },
+  {
+    "id": "xls-282",
+    "title": "Lisäeristetään rakennuksia",
+    "modelId": "building-envelope",
+    "sourceIds": [
+      "xls-282",
+      "xls-301",
+      "xls-465",
+      "xls-036",
+      "xls-198",
+      "xls-115",
+      "extra-tp0580"
+    ],
+    "keywords": [
+      "lisäeristys",
+      "lämmöneristys",
+      "eristäminen"
+    ]
+  },
+  {
+    "id": "extra-tp0885",
+    "title": "Saneerataan vesitornit ja varavesisäiliöt",
+    "modelId": "water-saving",
+    "sourceIds": [
+      "extra-tp0885"
+    ]
+  },
+  {
+    "id": "xls-112",
+    "title": "Teetetään rakennusten kuntoarviot ja korjausohjelmat",
+    "modelId": "building-envelope",
+    "sourceIds": [
+      "xls-112"
+    ]
+  },
+  {
+    "id": "xls-475",
+    "title": "Uusitaan rakennusten routaeristys",
+    "modelId": "building-envelope",
+    "sourceIds": [
+      "xls-475"
+    ]
+  },
+  {
+    "id": "liperi-28",
+    "title": "Julkaistaan latauspisteiden kartta ja käyttöohjeet",
+    "modelId": "charging",
+    "sourceIds": [
+      "liperi-28"
+    ]
+  },
+  {
+    "id": "xls-305",
+    "title": "Toteutetaan uusiutuvien polttoaineiden tankkauspisteitä",
+    "modelId": "charging",
+    "sourceIds": [
+      "xls-305",
+      "xls-306"
+    ]
+  },
+  {
+    "id": "extra-tp0742",
+    "title": "Rakennetaan sähköajoneuvojen latauspisteitä",
+    "modelId": "charging",
+    "sourceIds": [
+      "extra-tp0742",
+      "liperi-09",
+      "xls-038",
+      "xls-152",
+      "xls-205",
+      "xls-358",
+      "xls-419",
+      "xls-469",
+      "extra-tp0660",
+      "extra-tp0664",
+      "extra-tp0768",
+      "extra-tp0778",
+      "extra-tp0835",
+      "extra-tp0689",
+      "xls-284",
+      "extra-tp0661",
+      "extra-tp0662",
+      "extra-tp0663",
+      "extra-tp0665",
+      "malli-charging",
+      "xls-468",
+      "extra-tp0527"
+    ]
+  },
+  {
+    "id": "malli-communication",
+    "title": "Järjestetään asukkaiden ilmastoneuvontaa",
+    "modelId": "communication",
+    "sourceIds": [
+      "malli-communication",
+      "extra-tp0810"
+    ]
+  },
+  {
+    "id": "liperi-31",
+    "title": "Julkaistaan kunnan ilmastotoimet ja niiden tulokset",
+    "modelId": "communication",
+    "sourceIds": [
+      "liperi-31",
+      "xls-133",
+      "xls-323",
+      "extra-tp0543",
+      "extra-tp0893"
+    ]
+  },
+  {
+    "id": "extra-tp0622",
+    "title": "Kilpailutetaan rakennusten uusiutuvan energian ratkaisut",
+    "modelId": "procurement",
+    "sourceIds": [
+      "extra-tp0622",
+      "extra-tp0900"
+    ]
+  },
+  {
+    "id": "xls-410",
+    "title": "Järjestetään lähiluonnon hoitotalkoita",
+    "modelId": "meadow",
+    "sourceIds": [
+      "xls-410",
+      "extra-tp0920"
+    ]
+  },
+  {
+    "id": "extra-tp0518",
+    "title": "Järjestetään henkilöstön ilmastokoulutusta",
+    "modelId": "education",
+    "sourceIds": [
+      "extra-tp0518",
+      "extra-tp0827"
+    ]
+  },
+  {
+    "id": "extra-tp0880",
+    "title": "Järjestetään ympäristöaiheisia opintovierailuja",
+    "modelId": "education",
+    "sourceIds": [
+      "extra-tp0880"
+    ]
+  },
+  {
+    "id": "extra-tp0677",
+    "title": "Toteutetaan ilmasto- ja kestävyyskasvatusta",
+    "modelId": "education",
+    "sourceIds": [
+      "extra-tp0677",
+      "extra-tp0679",
+      "extra-tp0809",
+      "extra-tp0678",
+      "liperi-25",
+      "xls-130",
+      "xls-319",
+      "xls-320",
+      "xls-394",
+      "xls-441",
+      "extra-tp0552"
+    ]
+  },
+  {
+    "id": "malli-education",
+    "title": "Toteutetaan lasten ja nuorten ilmastokokeiluja",
+    "modelId": "education",
+    "sourceIds": [
+      "malli-education",
+      "xls-094",
+      "xls-461",
+      "extra-tp0554",
+      "extra-tp0892",
+      "xls-019"
+    ]
+  },
+  {
+    "id": "xls-102",
+    "title": "Hankitaan uusiutuvaa sähköä",
+    "modelId": "electricity-purchase",
+    "sourceIds": [
+      "xls-102",
+      "xls-292",
+      "xls-369",
+      "xls-424",
+      "extra-tp0509",
+      "extra-tp0698",
+      "extra-tp0700",
+      "extra-tp0701",
+      "extra-tp0814",
+      "malli-electricity-purchase"
+    ]
+  },
+  {
+    "id": "extra-tp0646",
+    "title": "Asennetaan sähkökattila lämmöntuotantoon",
+    "modelId": "energy-production",
+    "sourceIds": [
+      "extra-tp0646",
+      "extra-tp0647",
+      "extra-tp0650"
+    ]
+  },
+  {
+    "id": "xls-095",
+    "title": "Otetaan savukaasujen lämpö talteen",
+    "modelId": "energy-production",
+    "sourceIds": [
+      "xls-095",
+      "xls-151",
+      "xls-346"
+    ]
+  },
+  {
+    "id": "extra-tp0739",
+    "title": "Kartoitetaan uusiutuvan energian tuotantoalueet",
+    "modelId": "energy-production",
+    "sourceIds": [
+      "extra-tp0739",
+      "xls-040",
+      "xls-101",
+      "xls-211",
+      "xls-213",
+      "xls-290",
+      "xls-291",
+      "xls-367",
+      "extra-tp0511",
+      "extra-tp0633",
+      "extra-tp0791",
+      "xls-368",
+      "extra-tp0714"
+    ]
+  },
+  {
+    "id": "extra-tp0651",
+    "title": "Korvataan fossiilinen polttoaine ja turve lämmöntuotannossa",
+    "modelId": "energy-production",
+    "sourceIds": [
+      "extra-tp0651",
+      "xls-052",
+      "xls-161",
+      "xls-162",
+      "extra-tp0820",
+      "xls-123",
+      "xls-383"
+    ]
+  },
+  {
+    "id": "xls-222",
+    "title": "Selvitetään biokaasun tuotantomahdollisuudet",
+    "modelId": "energy-production",
+    "sourceIds": [
+      "xls-222",
+      "xls-382",
+      "xls-433",
+      "extra-tp0683"
+    ]
+  },
+  {
+    "id": "extra-tp0722",
+    "title": "Laaditaan energiantuotannon investointiohjelma",
+    "modelId": "energy-production",
+    "sourceIds": [
+      "extra-tp0722",
+      "extra-tp0744",
+      "extra-tp0636"
+    ]
+  },
+  {
+    "id": "xls-066",
+    "title": "Ohjataan lämpölaitosten tuhka hyötykäyttöön",
+    "modelId": "material-masses",
+    "sourceIds": [
+      "xls-066",
+      "xls-328"
+    ]
+  },
+  {
+    "id": "malli-energy-production",
+    "title": "Vertaillaan energiantuotannon ja hukkalämmön hankevaihtoehdot",
+    "modelId": "energy-production",
+    "sourceIds": [
+      "malli-energy-production"
+    ]
+  },
+  {
+    "id": "extra-tp0794",
+    "title": "Otetaan käyttöön yhteiskäyttöautoja",
+    "modelId": "fleet",
+    "sourceIds": [
+      "extra-tp0794"
+    ]
+  },
+  {
+    "id": "malli-fleet",
+    "title": "Uusitaan ajoneuvot ja työkoneet vähäpäästöisiksi",
+    "modelId": "fleet",
+    "sourceIds": [
+      "malli-fleet",
+      "extra-tp0675",
+      "xls-092",
+      "xls-218",
+      "xls-277",
+      "xls-376",
+      "extra-tp0528",
+      "xls-357",
+      "extra-tp0705",
+      "extra-tp0707"
+    ]
+  },
+  {
+    "id": "extra-tp0690",
+    "title": "Mitataan ja vähennetään ruokahävikkiä",
+    "modelId": "food-waste",
+    "sourceIds": [
+      "extra-tp0690",
+      "extra-tp0513",
+      "extra-tp0904",
+      "malli-food-waste",
+      "xls-093",
+      "xls-216",
+      "xls-279",
+      "xls-353",
+      "extra-tp0910",
+      "extra-tp0512",
+      "extra-tp0854",
+      "extra-tp0864"
+    ],
+    "keywords": [
+      "ruokahävikki",
+      "hävikkiruoka",
+      "hävikin vähentäminen"
+    ]
+  },
+  {
+    "id": "extra-tp0862",
+    "title": "Myydään tai jaetaan ylijäämäruoka",
+    "modelId": "food-waste",
+    "sourceIds": [
+      "extra-tp0862",
+      "extra-tp0697",
+      "extra-tp0857",
+      "extra-tp0514",
+      "extra-tp0773"
+    ]
+  },
+  {
+    "id": "xls-354",
+    "title": "Asetetaan ruokahankinnoille ympäristökriteerit",
+    "modelId": "meals",
+    "sourceIds": [
+      "xls-354",
+      "extra-tp0956",
+      "extra-tp0860"
+    ]
+  },
+  {
+    "id": "xls-272",
+    "title": "Toteutetaan metsien hoitotyöt oikea-aikaisesti",
+    "modelId": "forests",
+    "sourceIds": [
+      "xls-272",
+      "extra-tp0874"
+    ]
+  },
+  {
+    "id": "xls-053",
+    "title": "Muutetaan metsien harvennuksia ja hakkuita tuhoriskien vähentämiseksi",
+    "modelId": "forests",
+    "sourceIds": [
+      "xls-053",
+      "xls-230",
+      "xls-054",
+      "xls-310",
+      "xls-043",
+      "xls-061",
+      "xls-167",
+      "xls-289"
+    ]
+  },
+  {
+    "id": "xls-074",
+    "title": "Jätetään tarpeettomat kunnostusojitukset tekemättä",
+    "modelId": "forests",
+    "sourceIds": [
+      "xls-074",
+      "xls-257"
+    ]
+  },
+  {
+    "id": "xls-229",
+    "title": "Mitoitetaan hakkuut puuston kasvun ja hiilitaseen perusteella",
+    "modelId": "forests",
+    "sourceIds": [
+      "xls-229",
+      "xls-015",
+      "xls-087",
+      "xls-175",
+      "xls-269",
+      "xls-340"
+    ]
+  },
+  {
+    "id": "extra-tp0704",
+    "title": "Suojellaan arvokkaita metsäalueita",
+    "modelId": "forests",
+    "sourceIds": [
+      "extra-tp0704",
+      "extra-tp0947"
+    ]
+  },
+  {
+    "id": "xls-391",
+    "title": "Kartoitetaan ja säästetään hakkuukohteiden luontoarvot",
+    "modelId": "forests",
+    "sourceIds": [
+      "xls-391"
+    ]
+  },
+  {
+    "id": "xls-024",
+    "title": "Jätetään metsiin lahopuuta ja säästöpuita",
+    "modelId": "forests",
+    "sourceIds": [
+      "xls-024",
+      "xls-076",
+      "xls-188",
+      "xls-259",
+      "xls-333",
+      "extra-tp0876",
+      "extra-tp0913"
+    ]
+  },
+  {
+    "id": "xls-079",
+    "title": "Säilytetään metsien riistatiheiköt ja suojavyöhykkeet",
+    "modelId": "forests",
+    "sourceIds": [
+      "xls-079",
+      "extra-tp0870"
+    ]
+  },
+  {
+    "id": "extra-tp0877",
+    "title": "Metsitetään soveltuvia joutomaita",
+    "modelId": "forests",
+    "sourceIds": [
+      "extra-tp0877",
+      "xls-029",
+      "xls-060",
+      "xls-182",
+      "extra-tp0539"
+    ]
+  },
+  {
+    "id": "xls-275",
+    "title": "Lisätään metsien puulajikirjoa",
+    "modelId": "forests",
+    "sourceIds": [
+      "xls-275",
+      "extra-tp0871",
+      "xls-089",
+      "xls-195",
+      "xls-270",
+      "xls-343"
+    ]
+  },
+  {
+    "id": "malli-forests",
+    "title": "Päivitetään metsäsuunnitelma ilmasto- ja luontovaikutusten perusteella",
+    "modelId": "forests",
+    "sourceIds": [
+      "malli-forests",
+      "xls-131",
+      "xls-452",
+      "extra-tp0538",
+      "extra-tp0803",
+      "extra-tp0945"
+    ]
+  },
+  {
+    "id": "xls-017",
+    "title": "Otetaan käyttöön jatkuvapeitteinen metsänkasvatus",
+    "modelId": "forests",
+    "sourceIds": [
+      "xls-017",
+      "xls-181",
+      "xls-239"
+    ]
+  },
+  {
+    "id": "xls-032",
+    "title": "Pidennetään metsien kiertoaikaa",
+    "modelId": "forests",
+    "sourceIds": [
+      "xls-032",
+      "xls-069",
+      "xls-199",
+      "xls-254",
+      "xls-341",
+      "extra-tp0946"
+    ]
+  },
+  {
+    "id": "xls-012",
+    "title": "Jätetään heikkotuottoiset turvemaametsät puuntuotannon ulkopuolelle",
+    "modelId": "forests",
+    "sourceIds": [
+      "xls-012",
+      "xls-055",
+      "xls-173",
+      "xls-231",
+      "xls-311"
+    ]
+  },
+  {
+    "id": "xls-285",
+    "title": "Toteutetaan taajamametsien hoito luontoarvot huomioiden",
+    "modelId": "forests",
+    "sourceIds": [
+      "xls-285",
+      "extra-tp0866"
+    ]
+  },
+  {
+    "id": "extra-tp0937",
+    "title": "Vertaillaan turvemaametsien käsittelyvaihtoehdot",
+    "modelId": "forests",
+    "sourceIds": [
+      "extra-tp0937",
+      "extra-tp0703"
+    ]
+  },
+  {
+    "id": "extra-tp0919",
+    "title": "Otetaan käyttöön ilmastobudjetointi",
+    "modelId": "governance",
+    "sourceIds": [
+      "extra-tp0919",
+      "extra-tp0725",
+      "extra-tp0727",
+      "malli-governance",
+      "xls-393",
+      "xls-440",
+      "extra-tp0721",
+      "extra-tp0736"
+    ]
+  },
+  {
+    "id": "extra-tp0894",
+    "title": "Kerätään palaute ilmastosuunnitelman toimenpiteistä",
+    "modelId": "governance",
+    "sourceIds": [
+      "extra-tp0894"
+    ]
+  },
+  {
+    "id": "extra-tp0895",
+    "title": "Nimetään ilmastotyön koordinaatio ja toimialavastuut",
+    "modelId": "governance",
+    "sourceIds": [
+      "extra-tp0895",
+      "xls-403",
+      "xls-451"
+    ]
+  },
+  {
+    "id": "extra-tp0545",
+    "title": "Kirjataan ilmastotavoitteet kuntastrategiaan",
+    "modelId": "governance",
+    "sourceIds": [
+      "extra-tp0545",
+      "extra-tp0717"
+    ]
+  },
+  {
+    "id": "extra-tp0759",
+    "title": "Kootaan yritysten ilmastoverkosto",
+    "modelId": "governance",
+    "sourceIds": [
+      "extra-tp0759"
+    ]
+  },
+  {
+    "id": "extra-tp0694",
+    "title": "Vertaillaan ilmastoinvestointien elinkaarikustannukset",
+    "modelId": "governance",
+    "sourceIds": [
+      "extra-tp0694",
+      "extra-tp0730"
+    ]
+  },
+  {
+    "id": "extra-tp0839",
+    "title": "Seurataan liikennemääriä ja kulkutapoja",
+    "modelId": "transport-services",
+    "sourceIds": [
+      "extra-tp0839"
+    ]
+  },
+  {
+    "id": "extra-tp0712",
+    "title": "Perustetaan kunnan ilmastotyöryhmä",
+    "modelId": "governance",
+    "sourceIds": [
+      "extra-tp0712"
+    ]
+  },
+  {
+    "id": "extra-tp0546",
+    "title": "Otetaan käyttöön kunnan palvelujen ympäristöohjelma",
+    "modelId": "governance",
+    "sourceIds": [
+      "extra-tp0546"
+    ]
+  },
+  {
+    "id": "xls-132",
+    "title": "Otetaan käyttöön ilmastotoimien seuranta",
+    "modelId": "governance",
+    "sourceIds": [
+      "xls-132",
+      "extra-tp0751",
+      "extra-tp0786"
+    ]
+  },
+  {
+    "id": "extra-tp0709",
+    "title": "Päivitetään ilmastosuunnitelman toimenpiteet",
+    "modelId": "governance",
+    "sourceIds": [
+      "extra-tp0709",
+      "extra-tp0710",
+      "extra-tp0715",
+      "extra-tp0716",
+      "extra-tp0718",
+      "extra-tp0726",
+      "extra-tp0729",
+      "extra-tp0737"
+    ]
+  },
+  {
+    "id": "xls-028",
+    "title": "Asennetaan lämpöpumput",
+    "modelId": "heating",
+    "sourceIds": [
+      "xls-028",
+      "xls-193",
+      "xls-267",
+      "xls-392",
+      "xls-439",
+      "extra-tp0505",
+      "extra-tp0813",
+      "extra-tp0611",
+      "extra-tp0616",
+      "xls-084",
+      "xls-339",
+      "extra-tp0669",
+      "extra-tp0588"
+    ],
+    "keywords": [
+      "lämpöpumppu",
+      "maalämpö",
+      "ilmalämpöpumppu",
+      "ilma-vesilämpöpumppu"
+    ]
+  },
+  {
+    "id": "extra-tp0621",
+    "title": "Korvataan rakennusten fossiilinen lämmitys",
+    "modelId": "heating",
+    "sourceIds": [
+      "extra-tp0621",
+      "extra-tp0566",
+      "extra-tp0609",
+      "extra-tp0899",
+      "xls-120",
+      "xls-190",
+      "xls-298",
+      "extra-tp0615",
+      "extra-tp0618",
+      "extra-tp0617",
+      "extra-tp0583",
+      "extra-tp0624",
+      "extra-tp0649",
+      "extra-tp0613",
+      "extra-tp0614",
+      "extra-tp0612",
+      "malli-heating",
+      "xls-108",
+      "extra-tp0556"
+    ],
+    "keywords": [
+      "öljylämmitys",
+      "öljystä luopuminen",
+      "lämmitystavan vaihto"
+    ]
+  },
+  {
+    "id": "xls-067",
+    "title": "Liitetään rakennuksia yhteiseen vähäpäästöiseen lämpöverkkoon",
+    "modelId": "heating",
+    "sourceIds": [
+      "xls-067",
+      "extra-tp0620",
+      "extra-tp0648",
+      "liperi-03"
+    ]
+  },
+  {
+    "id": "xls-065",
+    "title": "Korjataan kaukolämpöverkon lämpöhäviöt",
+    "modelId": "heating",
+    "sourceIds": [
+      "xls-065",
+      "extra-tp0504"
+    ]
+  },
+  {
+    "id": "extra-tp0771",
+    "title": "Säädetään valaistuksen ohjaus",
+    "modelId": "lighting",
+    "sourceIds": [
+      "extra-tp0771",
+      "xls-044",
+      "xls-219",
+      "xls-297",
+      "xls-378",
+      "extra-tp0500",
+      "xls-246",
+      "extra-tp0597",
+      "xls-104",
+      "xls-288",
+      "xls-371",
+      "xls-064",
+      "xls-249",
+      "xls-327",
+      "xls-370",
+      "xls-397",
+      "xls-444",
+      "extra-tp0501",
+      "extra-tp0769",
+      "extra-tp0598",
+      "extra-tp0599",
+      "extra-tp0907",
+      "xls-103"
+    ]
+  },
+  {
+    "id": "extra-tp0667",
+    "title": "Suunnitellaan uudisrakennusten talotekniikka tarpeenmukaiseksi",
+    "modelId": "building-energy",
+    "sourceIds": [
+      "extra-tp0667"
+    ]
+  },
+  {
+    "id": "extra-tp0555",
+    "title": "Vaihdetaan valaistus LED-valaisimiin",
+    "modelId": "lighting",
+    "sourceIds": [
+      "extra-tp0555",
+      "malli-lighting",
+      "extra-tp0596",
+      "extra-tp0604",
+      "extra-tp0569",
+      "extra-tp0498",
+      "extra-tp0576",
+      "extra-tp0593",
+      "extra-tp0594",
+      "extra-tp0595",
+      "extra-tp0602",
+      "extra-tp0603",
+      "extra-tp0607",
+      "extra-tp0608",
+      "xls-041",
+      "xls-078",
+      "xls-214",
+      "xls-261",
+      "xls-335",
+      "xls-425",
+      "xls-476",
+      "extra-tp0499",
+      "extra-tp0572",
+      "extra-tp0573",
+      "extra-tp0586",
+      "extra-tp0590",
+      "extra-tp0601",
+      "extra-tp0600",
+      "extra-tp0581",
+      "liperi-22",
+      "extra-tp0585",
+      "xls-166",
+      "extra-tp0605",
+      "extra-tp0606",
+      "extra-tp0823",
+      "xls-117"
+    ],
+    "keywords": [
+      "led-valaistus",
+      "valaistuksen uusiminen"
+    ]
+  },
+  {
+    "id": "xls-039",
+    "title": "Käytetään rakentamisessa uudelleen maa- ja purkumateriaaleja",
+    "modelId": "material-masses",
+    "sourceIds": [
+      "xls-039",
+      "xls-178",
+      "xls-384",
+      "xls-434",
+      "liperi-14",
+      "xls-364",
+      "extra-tp0842",
+      "malli-material-masses",
+      "extra-tp0843",
+      "xls-144",
+      "extra-tp0530",
+      "extra-tp0911"
+    ]
+  },
+  {
+    "id": "extra-tp0542",
+    "title": "Järjestetään lasten ja nuorten lähiluontoretkiä",
+    "modelId": "education",
+    "sourceIds": [
+      "extra-tp0542"
+    ]
+  },
+  {
+    "id": "xls-262",
+    "title": "Muutetaan viheralueiden hoito luontoarvot huomioivaksi",
+    "modelId": "meadow",
+    "sourceIds": [
+      "xls-262",
+      "extra-tp0758"
+    ]
+  },
+  {
+    "id": "xls-081",
+    "title": "Kunnostetaan luonto- ja virkistysreittejä",
+    "modelId": "meadow",
+    "sourceIds": [
+      "xls-081",
+      "xls-098",
+      "xls-251",
+      "extra-tp0797"
+    ]
+  },
+  {
+    "id": "malli-meadow",
+    "title": "Perustetaan ja hoidetaan niittyjä",
+    "modelId": "meadow",
+    "sourceIds": [
+      "malli-meadow",
+      "xls-080",
+      "xls-286",
+      "extra-tp0541",
+      "extra-tp0752",
+      "extra-tp0932",
+      "xls-316",
+      "xls-337",
+      "extra-tp0916"
+    ],
+    "keywords": [
+      "niitty",
+      "niityttäminen"
+    ]
+  },
+  {
+    "id": "extra-tp0928",
+    "title": "Torjutaan haitallisia vieraslajeja",
+    "modelId": "meadow",
+    "sourceIds": [
+      "extra-tp0928",
+      "xls-107",
+      "xls-374",
+      "xls-421",
+      "extra-tp0805"
+    ],
+    "keywords": [
+      "vieraslajien torjunta",
+      "vieraslaji"
+    ]
+  },
+  {
+    "id": "xls-082",
+    "title": "Jaetaan elintarvikehankinnat pienempiin eriin",
+    "modelId": "meals",
+    "sourceIds": [
+      "xls-082",
+      "xls-274",
+      "extra-tp0515",
+      "extra-tp0799"
+    ]
+  },
+  {
+    "id": "extra-tp0855",
+    "title": "Kehitetään ruokailua asiakaspalautteen perusteella",
+    "modelId": "meals",
+    "sourceIds": [
+      "extra-tp0855",
+      "extra-tp0856",
+      "extra-tp0798",
+      "extra-tp0863"
+    ]
+  },
+  {
+    "id": "malli-meals",
+    "title": "Lisätään kasvisruokia ruokalistalle",
+    "modelId": "meals",
+    "sourceIds": [
+      "malli-meals",
+      "xls-059",
+      "xls-238",
+      "xls-280",
+      "xls-416",
+      "xls-463",
+      "liperi-17",
+      "extra-tp0692",
+      "extra-tp0858",
+      "extra-tp0517",
+      "extra-tp0680",
+      "extra-tp0766",
+      "extra-tp0691"
+    ]
+  },
+  {
+    "id": "extra-tp0861",
+    "title": "Kokeillaan tarjottimetonta ruokailua",
+    "modelId": "meals",
+    "sourceIds": [
+      "extra-tp0861"
+    ]
+  },
+  {
+    "id": "extra-tp0516",
+    "title": "Lasketaan ja pienennetään aterioiden ilmastovaikutuksia",
+    "modelId": "meals",
+    "sourceIds": [
+      "extra-tp0516"
+    ]
+  },
+  {
+    "id": "extra-tp0801",
+    "title": "Lisätään kotimaista järvikalaa ruokalistalle",
+    "modelId": "meals",
+    "sourceIds": [
+      "extra-tp0801"
+    ]
+  },
+  {
+    "id": "extra-tp0859",
+    "title": "Käytetään ruokalistoilla sesongin raaka-aineita",
+    "modelId": "meals",
+    "sourceIds": [
+      "extra-tp0859"
+    ]
+  },
+  {
+    "id": "xls-051",
+    "title": "Ennallistetaan soita",
+    "modelId": "peat-restoration",
+    "sourceIds": [
+      "xls-051",
+      "xls-227",
+      "xls-356",
+      "extra-tp0784",
+      "extra-tp0936",
+      "extra-tp0914",
+      "malli-peat-restoration",
+      "xls-031",
+      "xls-090"
+    ],
+    "keywords": [
+      "soiden ennallistaminen",
+      "suoennallistaminen"
+    ]
+  },
+  {
+    "id": "xls-134",
+    "title": "Kartoitetaan joutomaiden luontoarvot ja valitaan hoitotapa",
+    "modelId": "meadow",
+    "sourceIds": [
+      "xls-134"
+    ]
+  },
+  {
+    "id": "extra-tp0938",
+    "title": "Seurataan soiden ennallistamisen vaikutuksia",
+    "modelId": "peat-restoration",
+    "sourceIds": [
+      "extra-tp0938"
+    ]
+  },
+  {
+    "id": "xls-187",
+    "title": "Rakennetaan ja hoidetaan kosteikkoja ja vesienpidätysrakenteita",
+    "modelId": "peat-restoration",
+    "sourceIds": [
+      "xls-187",
+      "extra-tp0939",
+      "extra-tp0931"
+    ]
+  },
+  {
+    "id": "xls-212",
+    "title": "Vertaillaan turvemaiden käyttö- ja vesitalousvaihtoehdot",
+    "modelId": "peat-restoration",
+    "sourceIds": [
+      "xls-212"
+    ]
+  },
+  {
+    "id": "xls-180",
+    "title": "Asetetaan kaavoitukselle energiatehokkuustavoitteet",
+    "modelId": "planning",
+    "sourceIds": [
+      "xls-180",
+      "xls-237",
+      "xls-322",
+      "xls-007",
+      "xls-050",
+      "xls-172"
+    ]
+  },
+  {
+    "id": "xls-234",
+    "title": "Kirjataan hulevesien hallinta kaavamääräyksiin",
+    "modelId": "planning",
+    "sourceIds": [
+      "xls-234",
+      "extra-tp0889"
+    ]
+  },
+  {
+    "id": "xls-013",
+    "title": "Kartoitetaan ja säilytetään maankäytön hiilivarastot",
+    "modelId": "planning",
+    "sourceIds": [
+      "xls-013",
+      "xls-014",
+      "xls-085",
+      "xls-174",
+      "xls-437",
+      "extra-tp0940",
+      "xls-056"
+    ]
+  },
+  {
+    "id": "extra-tp0944",
+    "title": "Säilytetään viheralueet ja ekologiset yhteydet kaavoituksessa",
+    "modelId": "planning",
+    "sourceIds": [
+      "extra-tp0944",
+      "xls-097",
+      "xls-206",
+      "xls-359",
+      "xls-159"
+    ]
+  },
+  {
+    "id": "xls-034",
+    "title": "Suojataan säilytettävä puusto rakentamisessa",
+    "modelId": "planning",
+    "sourceIds": [
+      "xls-034",
+      "xls-201",
+      "extra-tp0948"
+    ]
+  },
+  {
+    "id": "xls-245",
+    "title": "Osoitetaan kaavoissa alueet uusiutuvalle energiantuotannolle",
+    "modelId": "planning",
+    "sourceIds": [
+      "xls-245",
+      "xls-309",
+      "xls-436"
+    ]
+  },
+  {
+    "id": "xls-202",
+    "title": "Sijoitetaan rakentaminen palvelujen ja kestävien kulkuyhteyksien yhteyteen",
+    "modelId": "planning",
+    "sourceIds": [
+      "xls-202",
+      "xls-264",
+      "xls-147",
+      "xls-209",
+      "xls-295",
+      "extra-tp0695",
+      "liperi-01"
+    ]
+  },
+  {
+    "id": "extra-tp0655",
+    "title": "Kaavoitetaan tuulivoimalle soveltuvat alueet",
+    "modelId": "planning",
+    "sourceIds": [
+      "extra-tp0655",
+      "extra-tp0708",
+      "extra-tp0783"
+    ]
+  },
+  {
+    "id": "extra-tp0658",
+    "title": "Vertaillaan kaavavaihtoehtojen ilmastovaikutukset",
+    "modelId": "planning",
+    "sourceIds": [
+      "extra-tp0658",
+      "extra-tp0903",
+      "malli-planning",
+      "xls-137",
+      "extra-tp0802",
+      "extra-tp0652",
+      "extra-tp0653",
+      "extra-tp0654",
+      "extra-tp0657",
+      "extra-tp0754",
+      "extra-tp0776",
+      "extra-tp0844"
+    ]
+  },
+  {
+    "id": "xls-145",
+    "title": "Kirjataan ilmastovaikutusten arviointi maapoliittiseen ohjelmaan",
+    "modelId": "planning",
+    "sourceIds": [
+      "xls-145"
+    ]
+  },
+  {
+    "id": "liperi-02",
+    "title": "Varataan kaavoissa kävely- ja pyöräily-yhteydet",
+    "modelId": "planning",
+    "sourceIds": [
+      "liperi-02"
+    ]
+  },
+  {
+    "id": "xls-011",
+    "title": "Asetetaan hankinnoille korjattavuuden ja uudelleenkäytön vaatimukset",
+    "modelId": "procurement",
+    "sourceIds": [
+      "xls-011",
+      "xls-420",
+      "xls-470",
+      "extra-tp0912"
+    ]
+  },
+  {
+    "id": "liperi-33",
+    "title": "Hankitaan pitkäikäisiä markkinointituotteita",
+    "modelId": "procurement",
+    "sourceIds": [
+      "liperi-33"
+    ]
+  },
+  {
+    "id": "extra-tp0847",
+    "title": "Koulutetaan hankintavastaavat ympäristökriteerien käyttöön",
+    "modelId": "procurement",
+    "sourceIds": [
+      "extra-tp0847"
+    ]
+  },
+  {
+    "id": "extra-tp0941",
+    "title": "Vertaillaan korjaamisen ja uudisrakentamisen elinkaaripäästöt",
+    "modelId": "procurement",
+    "sourceIds": [
+      "extra-tp0941"
+    ]
+  },
+  {
+    "id": "malli-procurement",
+    "title": "Asetetaan hankinnoille ilmasto- ja kiertotalouskriteerit",
+    "modelId": "procurement",
+    "sourceIds": [
+      "malli-procurement",
+      "xls-010",
+      "xls-058",
+      "extra-tp0533",
+      "extra-tp0684",
+      "extra-tp0685",
+      "extra-tp0770",
+      "extra-tp0849",
+      "extra-tp0787",
+      "extra-tp0535",
+      "xls-318",
+      "xls-179"
+    ]
+  },
+  {
+    "id": "extra-tp0693",
+    "title": "Valitaan rakentamisen runkomateriaalit elinkaarivertailulla",
+    "modelId": "procurement",
+    "sourceIds": [
+      "extra-tp0693",
+      "xls-033",
+      "xls-169",
+      "xls-170",
+      "xls-351",
+      "extra-tp0731",
+      "xls-177"
+    ]
+  },
+  {
+    "id": "liperi-20",
+    "title": "Vertaillaan energiahankintojen tuotantovaihtoehdot",
+    "modelId": "electricity-purchase",
+    "sourceIds": [
+      "liperi-20"
+    ]
+  },
+  {
+    "id": "malli-remote-services",
+    "title": "Avataan yhteiskäyttöisiä etätyötiloja",
+    "modelId": "remote-services",
+    "sourceIds": [
+      "malli-remote-services",
+      "extra-tp0902",
+      "xls-009",
+      "xls-183",
+      "xls-228",
+      "xls-308"
+    ]
+  },
+  {
+    "id": "xls-008",
+    "title": "Siirretään kunnan asiointipalveluja verkkoon",
+    "modelId": "remote-services",
+    "sourceIds": [
+      "xls-008",
+      "xls-409",
+      "xls-460",
+      "liperi-15",
+      "extra-tp0522"
+    ]
+  },
+  {
+    "id": "extra-tp0537",
+    "title": "Otetaan käyttöön sähköinen allekirjoitus ja arkistointi",
+    "modelId": "remote-services",
+    "sourceIds": [
+      "extra-tp0537"
+    ]
+  },
+  {
+    "id": "xls-312",
+    "title": "Otetaan käyttöön etätyö ja etäkokoukset",
+    "modelId": "remote-services",
+    "sourceIds": [
+      "xls-312",
+      "liperi-10",
+      "extra-tp0523",
+      "extra-tp0836"
+    ]
+  },
+  {
+    "id": "xls-404",
+    "title": "Perustetaan tavara- ja välinelainaamoja",
+    "modelId": "reuse",
+    "sourceIds": [
+      "xls-404",
+      "xls-454",
+      "extra-tp0536",
+      "extra-tp0851",
+      "extra-tp0952"
+    ]
+  },
+  {
+    "id": "xls-287",
+    "title": "Korjataan kalusteita ja laitteita uusien hankkimisen sijaan",
+    "modelId": "reuse",
+    "sourceIds": [
+      "xls-287",
+      "xls-422",
+      "extra-tp0951"
+    ]
+  },
+  {
+    "id": "extra-tp0757",
+    "title": "Järjestetään kierrätys- ja korjaustapahtumia",
+    "modelId": "reuse",
+    "sourceIds": [
+      "extra-tp0757",
+      "extra-tp0753"
+    ]
+  },
+  {
+    "id": "xls-458",
+    "title": "Käytetään ylijäämämateriaaleja uudelleen",
+    "modelId": "reuse",
+    "sourceIds": [
+      "xls-458",
+      "extra-tp0532",
+      "xls-412",
+      "xls-462",
+      "extra-tp0853"
+    ]
+  },
+  {
+    "id": "extra-tp0531",
+    "title": "Myydään tarpeettomat kalusteet ja laitteet",
+    "modelId": "reuse",
+    "sourceIds": [
+      "extra-tp0531"
+    ]
+  },
+  {
+    "id": "malli-reuse",
+    "title": "Otetaan käyttöön kunnan sisäinen kalustepörssi",
+    "modelId": "reuse",
+    "sourceIds": [
+      "malli-reuse",
+      "extra-tp0686",
+      "extra-tp0738"
+    ]
+  },
+  {
+    "id": "xls-365",
+    "title": "Kartoitetaan purkumateriaalit ja järjestetään niiden uudelleenkäyttö",
+    "modelId": "material-masses",
+    "sourceIds": [
+      "xls-365",
+      "extra-tp0850",
+      "extra-tp0943"
+    ]
+  },
+  {
+    "id": "malli-solar",
+    "title": "Asennetaan aurinkopaneelit",
+    "modelId": "solar",
+    "sourceIds": [
+      "malli-solar",
+      "xls-022",
+      "xls-048",
+      "xls-124",
+      "xls-381",
+      "xls-432",
+      "extra-tp0627",
+      "extra-tp0631",
+      "extra-tp0883",
+      "extra-tp0629",
+      "extra-tp0635",
+      "extra-tp0626",
+      "extra-tp0625",
+      "extra-tp0628",
+      "extra-tp0510",
+      "extra-tp0812",
+      "extra-tp0822"
+    ],
+    "keywords": [
+      "aurinkopaneelit",
+      "aurinkosähköjärjestelmä",
+      "aurinkoenergia"
+    ]
+  },
+  {
+    "id": "xls-003",
+    "title": "Julkaistaan aurinkovoimahankkeiden lupa- ja asiointiohjeet",
+    "modelId": "planning",
+    "sourceIds": [
+      "xls-003",
+      "xls-184",
+      "xls-429",
+      "xls-480",
+      "extra-tp0634"
+    ]
+  },
+  {
+    "id": "extra-tp0659",
+    "title": "Kaavoitetaan aurinkovoimalle soveltuvat alueet",
+    "modelId": "planning",
+    "sourceIds": [
+      "extra-tp0659"
+    ]
+  },
+  {
+    "id": "extra-tp0630",
+    "title": "Vuokrataan maa-alueita aurinkovoimaloille",
+    "modelId": "planning",
+    "sourceIds": [
+      "extra-tp0630",
+      "extra-tp0779",
+      "extra-tp0780"
+    ]
+  },
+  {
+    "id": "xls-400",
+    "title": "Laaditaan kiinteistökannan käyttö- ja korjaussuunnitelma",
+    "modelId": "space-use",
+    "sourceIds": [
+      "xls-400",
+      "extra-tp0508",
+      "extra-tp0719"
+    ]
+  },
+  {
+    "id": "xls-116",
+    "title": "Vertaillaan rakennusten korjaamisen, myynnin ja purkamisen vaihtoehdot",
+    "modelId": "space-use",
+    "sourceIds": [
+      "xls-116",
+      "xls-023"
+    ]
+  },
+  {
+    "id": "xls-418",
+    "title": "Avataan tiloja yhteiskäyttöön",
+    "modelId": "space-use",
+    "sourceIds": [
+      "xls-418",
+      "xls-466",
+      "xls-156",
+      "xls-474",
+      "extra-tp0549",
+      "extra-tp0682"
+    ]
+  },
+  {
+    "id": "extra-tp0589",
+    "title": "Luovutaan tarpeettomista rakennuksista",
+    "modelId": "space-use",
+    "sourceIds": [
+      "extra-tp0589",
+      "extra-tp0571"
+    ]
+  },
+  {
+    "id": "extra-tp0740",
+    "title": "Käynnistetään kutsuohjattu asiointiliikenne",
+    "modelId": "transport-services",
+    "sourceIds": [
+      "extra-tp0740",
+      "xls-258",
+      "extra-tp0829",
+      "xls-118",
+      "xls-407",
+      "xls-456"
+    ]
+  },
+  {
+    "id": "extra-tp0676",
+    "title": "Vaihdetaan joukkoliikenne vähäpäästöiseen kalustoon",
+    "modelId": "transport-services",
+    "sourceIds": [
+      "extra-tp0676",
+      "extra-tp0673"
+    ]
+  },
+  {
+    "id": "extra-tp0838",
+    "title": "Kokeillaan joukkoliikenteen uusia lippuja ja palveluja",
+    "modelId": "transport-services",
+    "sourceIds": [
+      "extra-tp0838"
+    ]
+  },
+  {
+    "id": "extra-tp0672",
+    "title": "Sovitetaan joukkoliikenteen reitit ja aikataulut käyttäjien tarpeisiin",
+    "modelId": "transport-services",
+    "sourceIds": [
+      "extra-tp0672",
+      "extra-tp0828",
+      "xls-197",
+      "liperi-07",
+      "extra-tp0526",
+      "extra-tp0671",
+      "extra-tp0775",
+      "xls-025",
+      "xls-203",
+      "xls-204",
+      "xls-263",
+      "extra-tp0796"
+    ]
+  },
+  {
+    "id": "extra-tp0642",
+    "title": "Järjestetään joukkoliikenteen liityntäyhteydet ja -pysäköinti",
+    "modelId": "transport-services",
+    "sourceIds": [
+      "extra-tp0642",
+      "extra-tp0656",
+      "extra-tp0774",
+      "xls-035",
+      "xls-459",
+      "xls-255"
+    ]
+  },
+  {
+    "id": "xls-163",
+    "title": "Yhdistetään ja optimoidaan kunnan kuljetusreitit",
+    "modelId": "transport-services",
+    "sourceIds": [
+      "xls-163",
+      "liperi-08",
+      "extra-tp0909",
+      "malli-transport-services",
+      "extra-tp0795"
+    ]
+  },
+  {
+    "id": "xls-021",
+    "title": "Järjestetään jätteiden lajittelu ja keräyspisteet",
+    "modelId": "waste-sorting",
+    "sourceIds": [
+      "xls-021",
+      "xls-077",
+      "xls-208",
+      "xls-240",
+      "xls-260",
+      "xls-324",
+      "xls-334",
+      "xls-406",
+      "xls-455",
+      "extra-tp0529",
+      "extra-tp0681",
+      "extra-tp0765",
+      "liperi-12",
+      "liperi-13",
+      "malli-waste-sorting",
+      "extra-tp0852",
+      "xls-143",
+      "xls-405"
+    ]
+  },
+  {
+    "id": "extra-tp0688",
+    "title": "Otetaan käyttöön yhteiskompostoreita",
+    "modelId": "waste-sorting",
+    "sourceIds": [
+      "extra-tp0688"
+    ]
+  },
+  {
+    "id": "liperi-26",
+    "title": "Järjestetään kompostointineuvontaa",
+    "modelId": "waste-sorting",
+    "sourceIds": [
+      "liperi-26"
+    ]
+  },
+  {
+    "id": "xls-062",
+    "title": "Järjestetään jätteiden lajitteluneuvontaa",
+    "modelId": "waste-sorting",
+    "sourceIds": [
+      "xls-062",
+      "xls-241",
+      "xls-325",
+      "xls-395",
+      "xls-442",
+      "extra-tp0846",
+      "liperi-27"
+    ]
+  },
+  {
+    "id": "extra-tp0687",
+    "title": "Järjestetään siivoustalkoita",
+    "modelId": "waste-sorting",
+    "sourceIds": [
+      "extra-tp0687"
+    ]
+  },
+  {
+    "id": "extra-tp0550",
+    "title": "Sovitaan tapahtumien ympäristökäytännöt järjestäjien kanssa",
+    "modelId": "communication",
+    "sourceIds": [
+      "extra-tp0550"
+    ]
+  },
+  {
+    "id": "xls-018",
+    "title": "Päivitetään jätehuollon ohjeet ja valvonta",
+    "modelId": "waste-sorting",
+    "sourceIds": [
+      "xls-018",
+      "xls-189",
+      "xls-471",
+      "extra-tp0845"
+    ]
+  },
+  {
+    "id": "xls-105",
+    "title": "Asennetaan vettä säästävät vesikalusteet",
+    "modelId": "water-saving",
+    "sourceIds": [
+      "xls-105",
+      "xls-106",
+      "xls-373",
+      "xls-016",
+      "xls-215",
+      "xls-426",
+      "xls-477",
+      "extra-tp0502",
+      "malli-water-saving"
+    ]
+  },
+  {
+    "id": "xls-075",
+    "title": "Säädetään käyttövesijärjestelmän lämpötilat",
+    "modelId": "water-saving",
+    "sourceIds": [
+      "xls-075",
+      "xls-113"
+    ]
+  },
+  {
+    "id": "extra-tp0930",
+    "title": "Poistetaan kalojen kulkuesteitä virtavesistä",
+    "modelId": "water-storm",
+    "sourceIds": [
+      "extra-tp0930"
+    ]
+  },
+  {
+    "id": "extra-tp0933",
+    "title": "Kunnostetaan pienvesiä ja vähennetään vesistökuormitusta",
+    "modelId": "water-storm",
+    "sourceIds": [
+      "extra-tp0933",
+      "xls-411",
+      "extra-tp0806"
+    ]
+  },
+  {
+    "id": "extra-tp0713",
+    "title": "Suunnitellaan katu- ja viheralueet ilmastokestäviksi",
+    "modelId": "planning",
+    "sourceIds": [
+      "extra-tp0713"
+    ]
+  },
+  {
+    "id": "xls-129",
+    "title": "Kartoitetaan hulevesien tulvariskit",
+    "modelId": "water-storm",
+    "sourceIds": [
+      "xls-129",
+      "extra-tp0888",
+      "extra-tp0915"
+    ]
+  },
+  {
+    "id": "xls-375",
+    "title": "Suunnitellaan yritysalueiden energia-, materiaali- ja vesiratkaisut",
+    "modelId": "planning",
+    "sourceIds": [
+      "xls-375"
+    ]
+  },
+  {
+    "id": "liperi-04",
+    "title": "Päivitetään pohjaveden suojelusuunnitelma",
+    "modelId": "water-storm",
+    "sourceIds": [
+      "liperi-04",
+      "extra-tp0807",
+      "extra-tp0887"
+    ]
+  },
+  {
+    "id": "xls-057",
+    "title": "Rakennetaan hulevesien viivytys- ja imeytysratkaisuja",
+    "modelId": "water-storm",
+    "sourceIds": [
+      "xls-057",
+      "xls-315",
+      "liperi-05",
+      "extra-tp0890",
+      "extra-tp0929",
+      "malli-water-storm"
+    ]
+  },
+  {
+    "id": "extra-tp0927",
+    "title": "Suojataan sähkö- ja tietoliikennelaitteet tulvilta",
+    "modelId": "adaptation",
+    "sourceIds": [
+      "extra-tp0927"
+    ]
+  },
+  {
+    "id": "xls-088",
+    "title": "Arvioidaan metsälannoituksen ilmasto- ja vesistövaikutukset",
+    "modelId": "forests",
+    "sourceIds": [
+      "xls-088",
+      "xls-271",
+      "xls-342"
+    ]
+  },
+  {
+    "id": "extra-tp0884",
+    "title": "Laaditaan vesihuoltoverkoston kunnossapito-ohjelma",
+    "modelId": "water-saving",
+    "sourceIds": [
+      "extra-tp0884"
+    ]
+  },
+  {
+    "id": "liperi-32",
+    "title": "Esitellään kunnan ilmastotoimia tapahtumissa",
+    "modelId": "communication",
+    "sourceIds": [
+      "liperi-32"
+    ]
+  },
+  {
+    "id": "extra-tp0881",
+    "title": "Järjestetään veden säästämisen ja viemärin käytön neuvontaa",
+    "modelId": "communication",
+    "sourceIds": [
+      "extra-tp0881"
+    ]
+  },
+  {
+    "id": "xls-160",
+    "title": "Järjestetään ilmastotekokilpailu",
+    "modelId": "communication",
+    "sourceIds": [
+      "xls-160",
+      "extra-tp0551"
+    ]
+  },
+  {
+    "id": "xls-119",
+    "title": "Järjestetään yritysten energia- ja materiaalitehokkuustyöpajoja",
+    "modelId": "communication",
+    "sourceIds": [
+      "xls-119",
+      "extra-tp0548",
+      "extra-tp0896",
+      "extra-tp0547"
+    ]
+  },
+  {
+    "id": "xls-194",
+    "title": "Korjataan maan tiivistymistä ja parannetaan kasvukuntoa",
+    "modelId": "agriculture",
+    "sourceIds": [
+      "xls-194"
+    ]
+  },
+  {
+    "id": "xls-153",
+    "title": "Siirretään tavarakuljetuksia raiteille tai vesille",
+    "modelId": "transport-services",
+    "sourceIds": [
+      "xls-153",
+      "xls-157"
+    ]
+  },
+  {
+    "id": "xls-250",
+    "title": "Rahoitetaan rajattuja ilmastokokeiluja",
+    "modelId": "governance",
+    "sourceIds": [
+      "xls-250"
+    ]
+  },
+  {
+    "id": "xls-417",
+    "title": "Laaditaan kunnan kiertotaloussitoumus",
+    "modelId": "governance",
+    "sourceIds": [
+      "xls-417",
+      "xls-473",
+      "extra-tp0764"
+    ]
+  },
+  {
+    "id": "xls-293",
+    "title": "Laaditaan ilmastoviestinnän vuosikello",
+    "modelId": "communication",
+    "sourceIds": [
+      "xls-293",
+      "xls-427",
+      "xls-478",
+      "extra-tp0544",
+      "extra-tp0808"
+    ]
+  },
+  {
+    "id": "extra-tp0670",
+    "title": "Selvitetään raideliikenneyhteyksien tarve ja toteutettavuus",
+    "modelId": "transport-services",
+    "sourceIds": [
+      "extra-tp0670"
+    ]
+  },
+  {
+    "id": "extra-tp0699",
+    "title": "Selvitetään uusiutuvan vedyn tuotannon sijoittuminen",
+    "modelId": "energy-production",
+    "sourceIds": [
+      "extra-tp0699"
+    ]
+  },
+  {
+    "id": "extra-tp0540",
+    "title": "Kartoitetaan ja suojataan arvokkaat luontokohteet",
+    "modelId": "meadow",
+    "sourceIds": [
+      "extra-tp0540",
+      "extra-tp0804"
+    ]
+  },
+  {
+    "id": "xls-136",
+    "title": "Otetaan kaatopaikkakaasu talteen",
+    "modelId": "energy-production",
+    "sourceIds": [
+      "xls-136"
+    ]
+  },
+  {
+    "id": "xls-268",
+    "title": "Perustetaan ylijäämämaiden vastaanottoalue",
+    "modelId": "material-masses",
+    "sourceIds": [
+      "xls-268"
+    ]
+  },
+  {
+    "id": "xls-278",
+    "title": "Korjataan viemäriverkoston vuodot",
+    "modelId": "water-saving",
+    "sourceIds": [
+      "xls-278",
+      "extra-tp0755"
+    ]
+  },
+  {
+    "id": "xls-063",
+    "title": "Korvataan kertakäyttötuotteet kestotuotteilla",
+    "modelId": "reuse",
+    "sourceIds": [
+      "xls-063",
+      "xls-244",
+      "xls-326"
+    ]
+  },
+  {
+    "id": "extra-tp0570",
+    "title": "Vertaillaan ja toteutetaan jätevesien käsittelyn keskittäminen",
+    "modelId": "water-saving",
+    "sourceIds": [
+      "extra-tp0570"
+    ]
+  },
+  {
+    "id": "xls-242",
+    "title": "Uusitaan vesihuollon laitteet energiatehokkaiksi",
+    "modelId": "building-energy",
+    "sourceIds": [
+      "xls-242",
+      "extra-tp0584",
+      "extra-tp0575",
+      "extra-tp0564",
+      "extra-tp0934",
+      "xls-224",
+      "xls-348",
+      "extra-tp0591",
+      "extra-tp0882"
+    ]
+  },
+  {
+    "id": "xls-096",
+    "title": "Kartoitetaan energiantuotantoon soveltuvat biomassavirrat",
+    "modelId": "energy-production",
+    "sourceIds": [
+      "xls-096",
+      "xls-168",
+      "xls-467"
+    ]
+  },
+  {
+    "id": "liperi-11",
+    "title": "Otetaan käyttöön työsuhdematkalippu",
+    "modelId": "transport-services",
+    "sourceIds": [
+      "liperi-11"
+    ]
+  },
+  {
+    "id": "xls-150",
+    "title": "Suunnitellaan puutavaran välivarastopaikat",
+    "modelId": "transport-services",
+    "sourceIds": [
+      "xls-150"
+    ]
+  },
+  {
+    "id": "xls-037",
+    "title": "Suunnitellaan rakennusten tilat muunneltaviksi",
+    "modelId": "space-use",
+    "sourceIds": [
+      "xls-037",
+      "xls-210",
+      "xls-344"
+    ]
+  },
+  {
+    "id": "extra-tp0869",
+    "title": "Tarkastetaan ja hoidetaan riskipuut",
+    "modelId": "adaptation",
+    "sourceIds": [
+      "extra-tp0869"
+    ]
+  },
+  {
+    "id": "xls-361",
+    "title": "Kokeillaan vähähiilisiä rakennusmateriaaleja",
+    "modelId": "procurement",
+    "sourceIds": [
+      "xls-361"
+    ]
+  },
+  {
+    "id": "xls-243",
+    "title": "Ohjataan puhdistamoliete hyötykäyttöön",
+    "modelId": "material-masses",
+    "sourceIds": [
+      "xls-243",
+      "xls-336"
+    ]
+  },
+  {
+    "id": "extra-tp0724",
+    "title": "Kirjataan vähähiiliset investoinnit elinkeino-ohjelmaan",
+    "modelId": "governance",
+    "sourceIds": [
+      "extra-tp0724"
+    ]
+  },
+  {
+    "id": "xls-362",
+    "title": "Rakennetaan lumen vastaanottopaikan sulamisvesien käsittely",
+    "modelId": "water-storm",
+    "sourceIds": [
+      "xls-362"
+    ]
+  },
+  {
+    "id": "extra-tp0763",
+    "title": "Liitytään kuntien resurssiviisausverkostoon",
+    "modelId": "governance",
+    "sourceIds": [
+      "extra-tp0763"
+    ]
+  },
+  {
+    "id": "xls-135",
+    "title": "Optimoidaan jätteenkuljetusten reitit",
+    "modelId": "waste-sorting",
+    "sourceIds": [
+      "xls-135"
+    ]
+  },
+  {
+    "id": "xls-146",
+    "title": "Valitaan rakentamisen sijainti metsäkadon vähentämiseksi",
+    "modelId": "planning",
+    "sourceIds": [
+      "xls-146"
+    ]
+  },
+  {
+    "id": "extra-tp0702",
+    "title": "Vertaillaan raskaan liikenteen käyttövoimavaihtoehdot",
+    "modelId": "fleet",
+    "sourceIds": [
+      "extra-tp0702"
+    ]
+  },
+  {
+    "id": "extra-tp0848",
+    "title": "Vuokrataan siirrettävät tilat määräaikaiseen tarpeeseen",
+    "modelId": "space-use",
+    "sourceIds": [
+      "extra-tp0848"
+    ]
+  },
+  {
+    "id": "xls-099",
+    "title": "Optimoidaan talvikunnossapidon ajoreitit",
+    "modelId": "transport-services",
+    "sourceIds": [
+      "xls-099"
+    ]
+  }
+]

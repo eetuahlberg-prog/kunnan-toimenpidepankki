@@ -1,0 +1,2844 @@
+{
+  "xls-003": {
+    "title": "Julkaistaan aurinkoenergiahankkeiden hakijaohje ja selkeä asiointipolku"
+  },
+  "xls-004": {
+    "title": "Asennetaan kiinteistöön talotekniikan automaatio ja etävalvonta"
+  },
+  "xls-005": {
+    "title": "Korjataan kävely- ja pyöräilyreittien puuttuvat yhteydet"
+  },
+  "xls-006": {
+    "title": "Vaihdetaan vanhat talotekniset laitteet energiatehokkaampiin"
+  },
+  "xls-007": {
+    "title": "Kirjataan kaavaan rakennusten energiaratkaisuja koskevat tavoitteet"
+  },
+  "xls-008": {
+    "title": "Siirretään valittu kunnan asiointipalvelu verkkoon"
+  },
+  "xls-009": {
+    "title": "Avataan yhteiskäyttöinen etätyötila kunnan tiloihin"
+  },
+  "xls-010": {
+    "title": "Päivitetään hankintaohjeeseen ilmasto- ja kiertotalouskriteerit"
+  },
+  "xls-011": {
+    "title": "Asetetaan hankintaan korjattavuuden ja uudelleenkäytön vaatimukset"
+  },
+  "xls-012": {
+    "title": "Rajataan heikkotuottoiset turvemaametsät puuntuotannon ulkopuolelle"
+  },
+  "xls-013": {
+    "title": "Kirjataan maapoliittiseen ohjelmaan puuston ja maaperän hiilivarastojen säilyttämisperiaatteet"
+  },
+  "xls-014": {
+    "title": "Kirjataan maapoliittiseen ohjelmaan puuston ja maaperän hiilivarastojen säilyttämisperiaatteet"
+  },
+  "xls-015": {
+    "title": "Mitoitetaan kunnan metsien hakkuut runsaspuustoisuuden säilyttämiseksi"
+  },
+  "xls-016": {
+    "title": "Asennetaan vettä säästävät kalusteet kunnan kiinteistöihin"
+  },
+  "xls-017": {
+    "title": "Otetaan jatkuvapeitteinen metsänkasvatus käyttöön soveltuvilla kuvioilla"
+  },
+  "xls-018": {
+    "title": "Päivitetään jätehuoltomääräysten lajitteluohjeet ja valvonnan käytännöt"
+  },
+  "xls-019": {
+    "title": "Toteutetaan koulussa kestävän kulutuksen oppimistehtävä"
+  },
+  "xls-020": {
+    "title": "Määritellään kävely- ja pyöräilyreittien talvikunnossapidon laatutaso ja valvotaan toteutusta"
+  },
+  "xls-021": {
+    "title": "Asennetaan puuttuvat lajitteluastiat ja yhtenäiset opasteet kunnan kiinteistöihin"
+  },
+  "xls-022": {
+    "title": "Asennetaan aurinkosähköjärjestelmät soveltuviin kunnan kiinteistöihin"
+  },
+  "xls-023": {
+    "title": "Tehdään käyttämättömän rakennuksen korjaus-, myynti- ja purkuvaihtoehtojen vertailu"
+  },
+  "xls-024": {
+    "title": "Jätetään metsänhoidossa lahopuuta ja säästöpuita eri kehitysvaiheisiin"
+  },
+  "xls-025": {
+    "title": "Sovitetaan lähipalvelujen aukioloajat asiointiliikenteen aikatauluihin"
+  },
+  "xls-026": {
+    "title": "Säädetään kiinteistöjen lämmitys ja ilmanvaihto käyttöaikojen mukaan"
+  },
+  "xls-027": {
+    "title": "Asennetaan lämmöntalteenotto ilmanvaihtojärjestelmään"
+  },
+  "xls-028": {
+    "title": "Asennetaan kohteeseen soveltuva lämpöpumppu"
+  },
+  "xls-029": {
+    "title": "Metsitetään luontoarvoiltaan soveltuva joutomaa tai käytöstä poistunut pelto"
+  },
+  "xls-030": {
+    "title": "Tarkistetaan metsäpalojen sammutusveden ottopaikat ja pelastustiet"
+  },
+  "xls-031": {
+    "title": "Padotaan ojia ennallistamissuunnitelman mukaisissa suokohteissa"
+  },
+  "xls-032": {
+    "title": "Pidennetään metsän kiertoaikaa soveltuvilla kuvioilla"
+  },
+  "xls-033": {
+    "title": "Vertaillaan puu- ja muiden runkoratkaisujen elinkaaripäästöt rakennushankkeen suunnittelussa"
+  },
+  "xls-034": {
+    "title": "Merkitään säilytettävä puusto kaavaan ja työmaan suojaussuunnitelmaan"
+  },
+  "xls-035": {
+    "title": "Sovitaan junayhteyksiin liittyvät liityntäkuljetukset ja pysäköintiratkaisut"
+  },
+  "xls-036": {
+    "title": "Lisäeristetään rakennuksen vaippa ja tiivistetään ilmavuodot"
+  },
+  "xls-037": {
+    "title": "Suunnitellaan uuden rakennuksen tilat muunneltaviksi ja yhteiskäyttöisiksi"
+  },
+  "xls-038": {
+    "title": "Rakennetaan julkisia sähköautojen latauspisteitä valittuihin kohteisiin"
+  },
+  "xls-039": {
+    "title": "Korvataan neitseellisiä maa-aineksia kohteeseen soveltuvilla uusiomateriaaleilla"
+  },
+  "xls-040": {
+    "title": "Kartoitetaan uusiutuvan energian tuotantokohteet ja valmistellaan toteuttajien investointineuvottelut"
+  },
+  "xls-041": {
+    "title": "Vaihdetaan kiinteistöjen valaisimet LED-valaisimiksi"
+  },
+  "xls-042": {
+    "title": "Verrataan rakennushankkeen lämmitysratkaisujen elinkaaripäästöt ja kustannukset"
+  },
+  "xls-043": {
+    "title": "Rajataan hakkuualat siten, että jyrkät metsänreunat ja tuulituhoille alttiit reunat vähenevät"
+  },
+  "xls-044": {
+    "title": "Asennetaan valaistukseen läsnäolo- ja päivänvalo-ohjaus"
+  },
+  "xls-047": {
+    "title": "Järjestetään asukkaille käytännön energiansäästö- ja korjaustyöpaja"
+  },
+  "xls-048": {
+    "title": "Asennetaan aurinkosähköjärjestelmät soveltuviin kunnan kiinteistöihin"
+  },
+  "xls-049": {
+    "title": "Vaihdetaan vanhat talotekniset laitteet energiatehokkaampiin"
+  },
+  "xls-050": {
+    "title": "Kirjataan kaavaan rakennusten energiaratkaisuja koskevat tavoitteet"
+  },
+  "xls-051": {
+    "title": "Ennallistetaan valittu suo maanomistajan kanssa laaditun suunnitelman mukaan"
+  },
+  "xls-052": {
+    "title": "Korvataan kaukolämmön fossiilista polttoainetta valitulla vähäpäästöisemmällä tuotantoratkaisulla"
+  },
+  "xls-053": {
+    "title": "Ajoitetaan riskikuvion harvennus lumituhoriskin arvioinnin perusteella"
+  },
+  "xls-054": {
+    "title": "Kevennetään harvennusta kohdekohtaisen puusto- ja riskinarvion perusteella"
+  },
+  "xls-055": {
+    "title": "Rajataan heikkotuottoiset turvemaametsät puuntuotannon ulkopuolelle"
+  },
+  "xls-056": {
+    "title": "Merkitään merkittävät hiilivarastot maankäytön suunnittelun lähtötietoihin"
+  },
+  "xls-057": {
+    "title": "Rakennetaan hulevesien viivytys- tai imeytysrakenne ongelmakohteeseen"
+  },
+  "xls-058": {
+    "title": "Päivitetään hankintaohjeeseen ilmasto- ja kiertotalouskriteerit"
+  },
+  "xls-059": {
+    "title": "Lisätään kasvis- ja kalaruokia ruokalistalle ja seurataan menekkiä"
+  },
+  "xls-060": {
+    "title": "Metsitetään luontoarvoiltaan soveltuva joutomaa tai käytöstä poistunut pelto"
+  },
+  "xls-061": {
+    "title": "Rajataan hakkuualat siten, että jyrkät metsänreunat ja tuulituhoille alttiit reunat vähenevät"
+  },
+  "xls-062": {
+    "title": "Järjestetään lajitteluneuvonta asukkaille ja kiinteistöjen henkilöstölle"
+  },
+  "xls-063": {
+    "title": "Poistetaan valitusta palvelusta kertakäyttötuotteet ja seurataan jätemäärää"
+  },
+  "xls-064": {
+    "title": "Säädetään katu- ja aluevalaistuksen aika- ja hämäräohjaus"
+  },
+  "xls-065": {
+    "title": "Paikannetaan kaukolämpöverkon lämpöhäviöt ja korjataan suurimmat vuotokohdat"
+  },
+  "xls-066": {
+    "title": "Selvitetään lämpölaitoksen tuhkan laatu ja toimitetaan soveltuva tuhka hyötykäyttöön"
+  },
+  "xls-067": {
+    "title": "Laaditaan kaukolämpöverkon laajennuksen asiakas- ja kannattavuusselvitys"
+  },
+  "xls-068": {
+    "title": "Rakennetaan puuttuva kävely- ja pyöräilyväylän osuus"
+  },
+  "xls-069": {
+    "title": "Pidennetään metsän kiertoaikaa soveltuvilla kuvioilla"
+  },
+  "xls-070": {
+    "title": "Korjataan rakennuksen energiaa hukkaavat rakenteet kuntotutkimuksen perusteella"
+  },
+  "xls-071": {
+    "title": "Otetaan käyttöön kiinteistöjen energiankulutuksen seuranta ja kuukausiraportti"
+  },
+  "xls-072": {
+    "title": "Päivitetään kiinteistötekniikan ohjausasetukset ja hälytysrajat"
+  },
+  "xls-073": {
+    "title": "Lisätään kuljetuspalvelun tarjouspyyntöön päästö- ja energiankulutuskriteerit"
+  },
+  "xls-074": {
+    "title": "Arvioidaan ojien kunnostustarve ja jätetään tarpeettomat kunnostusojitukset tekemättä"
+  },
+  "xls-075": {
+    "title": "Tarkistetaan käyttöveden lämpötilat ja säädetään järjestelmä hygienian ja energiatehokkuuden vaatimusten mukaiseksi"
+  },
+  "xls-076": {
+    "title": "Jätetään metsänhoidossa lahopuuta ja säästöpuita eri kehitysvaiheisiin"
+  },
+  "xls-077": {
+    "title": "Asennetaan puuttuvat lajitteluastiat ja yhtenäiset opasteet kunnan kiinteistöihin"
+  },
+  "xls-078": {
+    "title": "Vaihdetaan kiinteistöjen valaisimet LED-valaisimiksi"
+  },
+  "xls-079": {
+    "title": "Jätetään metsänhoidossa lehtipuuryhmiä, riistatiheikköjä ja suojavyöhykkeitä"
+  },
+  "xls-080": {
+    "title": "Muutetaan valittu nurmialue niityksi ja lisätään alueelle kotoperäisiä kasveja"
+  },
+  "xls-081": {
+    "title": "Kunnostetaan lähiluontoreitin kuluneet kohdat ja ohjataan kulkua luontoarvoja säästäen"
+  },
+  "xls-082": {
+    "title": "Jaetaan elintarvikehankinta tarkoituksenmukaisiin osiin ja järjestetään tuottajien markkinavuoropuhelu"
+  },
+  "xls-083": {
+    "title": "Säädetään kiinteistöjen lämmitys ja ilmanvaihto käyttöaikojen mukaan"
+  },
+  "xls-084": {
+    "title": "Asennetaan lämpöpumppu rakennuksen lämmitykseen ja tarvittaessa viilennykseen"
+  },
+  "xls-085": {
+    "title": "Kirjataan maapoliittiseen ohjelmaan puuston ja maaperän hiilivarastojen säilyttämisperiaatteet"
+  },
+  "xls-086": {
+    "title": "Järjestetään maatiloille energia- ja ympäristöasioiden neuvontatilaisuus"
+  },
+  "xls-087": {
+    "title": "Mitoitetaan kunnan metsien hakkuut runsaspuustoisuuden säilyttämiseksi"
+  },
+  "xls-088": {
+    "title": "Tehdään metsälannoituksen kohdekohtainen ravinne-, vesistö- ja ilmastovaikutusten arvio"
+  },
+  "xls-089": {
+    "title": "Uudistetaan hakkuuala kohteeseen sopivilla puulajeilla ja tarkistetaan taimettuminen"
+  },
+  "xls-090": {
+    "title": "Padotaan ojia ennallistamissuunnitelman mukaisissa suokohteissa"
+  },
+  "xls-091": {
+    "title": "Asennetaan runkolukittavat pyörätelineet keskeisten palvelujen yhteyteen"
+  },
+  "xls-092": {
+    "title": "Vaihdetaan uusittava ajoneuvo tai työkone käyttökohteeseen sopivaan vähäpäästöiseen vaihtoehtoon"
+  },
+  "xls-093": {
+    "title": "Punnitaan ruokahävikki ja muutetaan valmistusmääriä mittausten perusteella"
+  },
+  "xls-094": {
+    "title": "Toteutetaan koulussa ruoan tuotantoa ja hävikkiä käsittelevä oppimiskokonaisuus"
+  },
+  "xls-095": {
+    "title": "Asennetaan lämpölaitokseen savukaasujen lämmöntalteenotto"
+  },
+  "xls-096": {
+    "title": "Selvitetään alueen biomassavirrat ja sovitaan soveltuvien jakeiden toimituksesta energiantuotantoon"
+  },
+  "xls-097": {
+    "title": "Merkitään säilytettävät viheralueet kaavoihin ja laaditaan niiden hoito-ohjeet"
+  },
+  "xls-098": {
+    "title": "Kunnostetaan luontomatkailureitti ja julkaistaan saapumisohjeet ilman omaa autoa"
+  },
+  "xls-099": {
+    "title": "Yhdistellään talvikunnossapidon ajoreitit ja seurataan kaluston polttoaineenkulutusta"
+  },
+  "xls-100": {
+    "title": "Kootaan vajaakäyttöiset toiminnot yhteisiin tiloihin ja luovutaan tarpeettomista tiloista"
+  },
+  "xls-101": {
+    "title": "Kartoitetaan uusiutuvan energian tuotantokohteet ja valmistellaan toteuttajien investointineuvottelut"
+  },
+  "xls-102": {
+    "title": "Hankitaan alkuperältään varmennettua uusiutuvaa sähköä kunnan käyttöön"
+  },
+  "xls-103": {
+    "title": "Tarkistetaan valaistuksen ohjausasetukset ja korjataan turha päälläolo"
+  },
+  "xls-104": {
+    "title": "Sovitaan ulkoliikuntapaikan valaistuksen käyttöajat ja lämpötilaan perustuva ohjaus"
+  },
+  "xls-105": {
+    "title": "Asennetaan hanoihin virtaamanrajoittimet ja vettä säästävät WC-kalusteet"
+  },
+  "xls-106": {
+    "title": "Asennetaan hanoihin virtaamanrajoittimet ja vettä säästävät WC-kalusteet"
+  },
+  "xls-107": {
+    "title": "Poistetaan vieraslajit valitulta alueelta ja sovitaan jälkiseuranta"
+  },
+  "xls-108": {
+    "title": "Vaihdetaan kunnan vuokratalon öljylämmitys soveltuvaan vähäpäästöisempään lämmitysmuotoon"
+  },
+  "xls-109": {
+    "title": "Vaihdetaan vuokratalon talotekniset laitteet energiatehokkaampiin"
+  },
+  "xls-110": {
+    "title": "Kunnostetaan tai uusitaan vuokratalon ikkunat ja ovet energiakartoituksen perusteella"
+  },
+  "xls-111": {
+    "title": "Asennetaan vuokrataloon talotekniikan automaatio"
+  },
+  "xls-112": {
+    "title": "Teetetään vuokratalon kuntoarvio ja energiaremonttien toteutusohjelma"
+  },
+  "xls-113": {
+    "title": "Tarkistetaan käyttöveden lämpötilat ja säädetään järjestelmä hygienian ja energiatehokkuuden vaatimusten mukaiseksi"
+  },
+  "xls-114": {
+    "title": "Säädetään vuokratalon lämmitys ja ilmanvaihto todellisen käytön mukaan"
+  },
+  "xls-115": {
+    "title": "Lisäeristetään vuokratalon seinät sekä ala- ja yläpohja korjauksen yhteydessä"
+  },
+  "xls-116": {
+    "title": "Laaditaan vajaakäyttöisen vuokratalon korjaus-, myynti- ja purkuvaihtoehtojen vertailu"
+  },
+  "xls-117": {
+    "title": "Vaihdetaan vuokratalon yhteisten tilojen valaistus LED-valaisimiksi"
+  },
+  "xls-118": {
+    "title": "Käynnistetään kutsuohjattu asiointikuljetus ja mitataan sen käyttö"
+  },
+  "xls-119": {
+    "title": "Järjestetään yrityksille työpaja, jossa laaditaan oma energia- tai materiaalitehokkuustoimi"
+  },
+  "xls-120": {
+    "title": "Korvataan kunnan kiinteistön öljylämmitys kohteeseen soveltuvalla ratkaisulla"
+  },
+  "xls-123": {
+    "title": "Teetetään lämpölaitoksen investointivaihtoehtojen vertailu ja toteutetaan hyväksytty uudistus"
+  },
+  "xls-124": {
+    "title": "Asennetaan aurinkosähköjärjestelmät soveltuviin kunnan kiinteistöihin"
+  },
+  "xls-125": {
+    "title": "Teetetään kunnan kiinteistöjen energiakatselmukset ja aikataulutetaan korjaukset"
+  },
+  "xls-126": {
+    "title": "Otetaan käyttöön kunnan energianhallintajärjestelmä ja nimetään seurannan vastuut"
+  },
+  "xls-127": {
+    "title": "Toteutetaan energiakatselmuksessa kannattavaksi todettu kiinteistön energiaremontti"
+  },
+  "xls-128": {
+    "title": "Kartoitetaan teollisuusalueen hukkalämpölähteet ja valmistellaan lämmönsiirtoratkaisu"
+  },
+  "xls-129": {
+    "title": "Laaditaan taajaman hulevesiselvitys ja aikataulutetaan korjauskohteet"
+  },
+  "xls-130": {
+    "title": "Lisätään opetuksen vuosisuunnitelmaan ilmastoaiheinen käytännön oppimiskokonaisuus"
+  },
+  "xls-131": {
+    "title": "Verrataan kunnan metsien käsittelyvaihtoehdot ja päivitetään metsäsuunnitelma"
+  },
+  "xls-132": {
+    "title": "Otetaan käyttöön ilmastotoimien yhteinen seurantataulukko tai verkkopalvelu"
+  },
+  "xls-133": {
+    "title": "Julkaistaan kunnan ilmastotyön vuosikooste ja nimetään viestinnän vastuuhenkilö"
+  },
+  "xls-134": {
+    "title": "Kartoitetaan kunnan joutomaiden luontoarvot ja valitaan niiden hoito- tai ennallistamistapa"
+  },
+  "xls-135": {
+    "title": "Verrataan jätteenkuljetuksen reittejä, keräystiheyttä ja päästöjä ja muutetaan keräyssuunnitelmaa"
+  },
+  "xls-136": {
+    "title": "Otetaan kaatopaikkakaasu talteen ja ohjataan hyödynnettävä kaasu energiantuotantoon"
+  },
+  "xls-137": {
+    "title": "Verrataan kaavavaihtoehtojen liikenne-, energia- ja maankäyttöpäästöt"
+  },
+  "xls-138": {
+    "title": "Lisätään rakennushankkeen suunnitelmiin helle-, tulva- ja myrskyriskien hallintaratkaisut"
+  },
+  "xls-139": {
+    "title": "Toteutetaan kunnan kiinteistössä energiansäästökokeilu ja mitataan kulutuksen muutos"
+  },
+  "xls-140": {
+    "title": "Toteutetaan liikkumissuunnitelmasta valittu pyöräreitin, pysäkin tai risteyksen parannus"
+  },
+  "xls-141": {
+    "title": "Järjestetään ruoantuottajien ja ostajien työpaja resurssitehokkaan tuotannon kokeilun sopimiseksi"
+  },
+  "xls-142": {
+    "title": "Otetaan käyttöön henkilöstön työmatkaliikkumisen suunnitelma ja pyöräpysäköinnin parannukset"
+  },
+  "xls-143": {
+    "title": "Mitataan kunnan kiinteistöjen lajitteluaste ja korjataan havaitut lajittelupuutteet"
+  },
+  "xls-144": {
+    "title": "Laaditaan maarakennushankkeelle massataselaskelma ja käytetään soveltuvat kaivumaat uudelleen"
+  },
+  "xls-145": {
+    "title": "Päivitetään maapoliittiseen ohjelmaan ilmastovaikutusten arvioinnin menettely"
+  },
+  "xls-146": {
+    "title": "Verrataan rakentamisen sijoitusvaihtoehdot ja valitaan metsäkatoa vähentävä ratkaisu"
+  },
+  "xls-147": {
+    "title": "Sijoitetaan uusi rakentaminen olemassa olevien verkostojen ja palvelujen yhteyteen"
+  },
+  "xls-148": {
+    "title": "Asennetaan runkolukittavat pyörätelineet keskeisten palvelujen yhteyteen"
+  },
+  "xls-149": {
+    "title": "Lisätään kuljetuspalvelun tarjouspyyntöön päästö- ja energiankulutuskriteerit"
+  },
+  "xls-150": {
+    "title": "Suunnitellaan raakapuun välivarastopaikat kuljetusmatkojen ja ympäristöhaittojen perusteella"
+  },
+  "xls-151": {
+    "title": "Asennetaan lämpölaitokseen savukaasujen lämmöntalteenotto"
+  },
+  "xls-152": {
+    "title": "Rakennetaan julkisia sähköautojen latauspisteitä valittuihin kohteisiin"
+  },
+  "xls-153": {
+    "title": "Kootaan tavaravirrat ja kilpailutetaan soveltuvat kuljetukset raide- tai vesikuljetuksina"
+  },
+  "xls-154": {
+    "title": "Laaditaan maatilalle energia-, ravinne- ja maaperätoimien toteutussuunnitelma"
+  },
+  "xls-155": {
+    "title": "Teetetään maatilan energiatase ja uusiutuvan energian investointivertailu"
+  },
+  "xls-156": {
+    "title": "Otetaan käyttöön kunnan tilojen yhteinen varausjärjestelmä ja seurataan käyttöastetta"
+  },
+  "xls-157": {
+    "title": "Tehdään puutavaran vesikuljetuksen reitti-, terminaali- ja kustannusselvitys"
+  },
+  "xls-158": {
+    "title": "Asetetaan uudisrakennuksen hankesuunnitelmaan energia- ja elinkaaripäästörajat"
+  },
+  "xls-159": {
+    "title": "Varataan kaavassa yhtenäiset viher- ja virkistysalueet sekä niitä yhdistävät reitit"
+  },
+  "xls-160": {
+    "title": "Järjestetään ilmastotekokilpailu ja julkaistaan valintaperusteet sekä toteutetut teot"
+  },
+  "xls-161": {
+    "title": "Korvataan kaukolämmön fossiilista polttoainetta valitulla vähäpäästöisemmällä tuotantoratkaisulla"
+  },
+  "xls-162": {
+    "title": "Korvataan kaukolämmön turve valitulla vähäpäästöisemmällä tuotantoratkaisulla"
+  },
+  "xls-163": {
+    "title": "Yhdistellään kunnan tavarakuljetusten tilaukset ja optimoidaan jakelureitit"
+  },
+  "xls-166": {
+    "title": "Vaihdetaan stadionin ja liikuntareittien valaistus säädettävään LED-valaistukseen"
+  },
+  "xls-167": {
+    "title": "Rajataan hakkuualat siten, että jyrkät metsänreunat ja tuulituhoille alttiit reunat vähenevät"
+  },
+  "xls-168": {
+    "title": "Selvitetään alueen biomassavirrat ja sovitaan soveltuvien jakeiden toimituksesta energiantuotantoon"
+  },
+  "xls-169": {
+    "title": "Vertaillaan puu- ja muiden runkoratkaisujen elinkaaripäästöt rakennushankkeen suunnittelussa"
+  },
+  "xls-170": {
+    "title": "Vertaillaan puu- ja muiden runkoratkaisujen elinkaaripäästöt rakennushankkeen suunnittelussa"
+  },
+  "xls-171": {
+    "title": "Vaihdetaan vanhat talotekniset laitteet energiatehokkaampiin"
+  },
+  "xls-172": {
+    "title": "Kirjataan kaavaan rakennusten energiaratkaisuja koskevat tavoitteet"
+  },
+  "xls-173": {
+    "title": "Rajataan heikkotuottoiset turvemaametsät puuntuotannon ulkopuolelle"
+  },
+  "xls-174": {
+    "title": "Kirjataan maapoliittiseen ohjelmaan puuston ja maaperän hiilivarastojen säilyttämisperiaatteet"
+  },
+  "xls-175": {
+    "title": "Mitoitetaan kunnan metsien hakkuut runsaspuustoisuuden säilyttämiseksi"
+  },
+  "xls-176": {
+    "title": "Selvitetään rakennuksen hukkalämpö ja toteutetaan soveltuva lämmöntalteenotto"
+  },
+  "xls-177": {
+    "title": "Sisällytetään puurakenteinen vaihtoehto rakennushankkeen tarjouspyyntöön"
+  },
+  "xls-178": {
+    "title": "Korvataan neitseellisiä maa-aineksia kohteeseen soveltuvilla uusiomateriaaleilla"
+  },
+  "xls-179": {
+    "title": "Lisätään valitun hankinnan tarjouspyyntöön mitattavat ilmasto- ja materiaalikriteerit"
+  },
+  "xls-180": {
+    "title": "Kirjataan kaavaan energiatehokkuutta, liikkumista ja puuston säilyttämistä koskevat ratkaisut"
+  },
+  "xls-181": {
+    "title": "Otetaan jatkuvapeitteinen metsänkasvatus käyttöön soveltuvilla kuvioilla"
+  },
+  "xls-182": {
+    "title": "Metsitetään luontoarvoiltaan soveltuva joutomaa tai käytöstä poistunut pelto"
+  },
+  "xls-183": {
+    "title": "Avataan yhteiskäyttöinen etätyötila kunnan tiloihin"
+  },
+  "xls-184": {
+    "title": "Julkaistaan aurinkoenergiahankkeiden hakijaohje ja selkeä asiointipolku"
+  },
+  "xls-185": {
+    "title": "Määritellään kävely- ja pyöräilyreittien talvikunnossapidon laatutaso ja valvotaan toteutusta"
+  },
+  "xls-186": {
+    "title": "Rakennetaan puuttuva kävely- ja pyöräilyväylän osuus"
+  },
+  "xls-187": {
+    "title": "Rakennetaan suunnitelman mukainen kosteikko tai ojien pidätysrakenne"
+  },
+  "xls-188": {
+    "title": "Jätetään metsänhoidossa lahopuuta ja säästöpuita eri kehitysvaiheisiin"
+  },
+  "xls-189": {
+    "title": "Päivitetään jätehuoltomääräysten lajitteluohjeet ja valvonnan käytännöt"
+  },
+  "xls-190": {
+    "title": "Korvataan kunnan kiinteistön öljylämmitys kohteeseen soveltuvalla ratkaisulla"
+  },
+  "xls-191": {
+    "title": "Säädetään kiinteistöjen lämmitys ja ilmanvaihto käyttöaikojen mukaan"
+  },
+  "xls-192": {
+    "title": "Asennetaan lämmöntalteenotto ilmanvaihtojärjestelmään"
+  },
+  "xls-193": {
+    "title": "Asennetaan kohteeseen soveltuva lämpöpumppu"
+  },
+  "xls-194": {
+    "title": "Kartoitetaan maan tiivistyminen ja toteutetaan kohteelle sopiva maanparannus"
+  },
+  "xls-195": {
+    "title": "Uudistetaan hakkuuala kohteeseen sopivilla puulajeilla ja tarkistetaan taimettuminen"
+  },
+  "xls-196": {
+    "title": "Tarkistetaan metsäpalojen sammutusveden ottopaikat ja pelastustiet"
+  },
+  "xls-197": {
+    "title": "Sovitetaan joukkoliikenteen reitit ja aikataulut palvelujen ja työmatkojen tarpeisiin"
+  },
+  "xls-198": {
+    "title": "Lisäeristetään rakennuksen vaippa ja tiivistetään ilmavuodot"
+  },
+  "xls-199": {
+    "title": "Pidennetään metsän kiertoaikaa soveltuvilla kuvioilla"
+  },
+  "xls-200": {
+    "title": "Asennetaan runkolukittavat pyörätelineet keskeisten palvelujen yhteyteen"
+  },
+  "xls-201": {
+    "title": "Merkitään säilytettävä puusto kaavaan ja työmaan suojaussuunnitelmaan"
+  },
+  "xls-202": {
+    "title": "Osoitetaan kaavassa uutta asumista kävely- ja joukkoliikenneyhteyksien varrelle"
+  },
+  "xls-203": {
+    "title": "Sovitetaan lähipalvelujen aukioloajat asiointiliikenteen aikatauluihin"
+  },
+  "xls-204": {
+    "title": "Sovitetaan lähipalvelujen aukioloajat asiointiliikenteen aikatauluihin"
+  },
+  "xls-205": {
+    "title": "Rakennetaan julkisia sähköautojen latauspisteitä valittuihin kohteisiin"
+  },
+  "xls-206": {
+    "title": "Merkitään säilytettävät viheralueet kaavoihin ja laaditaan niiden hoito-ohjeet"
+  },
+  "xls-207": {
+    "title": "Asennetaan kiinteistöön talotekniikan automaatio ja etävalvonta"
+  },
+  "xls-208": {
+    "title": "Asennetaan puuttuvat lajitteluastiat ja yhtenäiset opasteet kunnan kiinteistöihin"
+  },
+  "xls-209": {
+    "title": "Sijoitetaan uusi rakentaminen olemassa olevien verkostojen ja palvelujen yhteyteen"
+  },
+  "xls-210": {
+    "title": "Suunnitellaan uuden rakennuksen tilat muunneltaviksi ja yhteiskäyttöisiksi"
+  },
+  "xls-211": {
+    "title": "Kartoitetaan uusiutuvan energian tuotantokohteet ja valmistellaan toteuttajien investointineuvottelut"
+  },
+  "xls-212": {
+    "title": "Verrataan turvemaan käyttö- ja vesitalousvaihtoehdot ja valitaan kohdekohtainen toteutus"
+  },
+  "xls-213": {
+    "title": "Kartoitetaan uusiutuvan energian tuotantokohteet ja valmistellaan toteuttajien investointineuvottelut"
+  },
+  "xls-214": {
+    "title": "Vaihdetaan kiinteistöjen valaisimet LED-valaisimiksi"
+  },
+  "xls-215": {
+    "title": "Asennetaan vettä säästävät kalusteet kunnan kiinteistöihin"
+  },
+  "xls-216": {
+    "title": "Punnitaan ruokahävikki ja muutetaan valmistusmääriä mittausten perusteella"
+  },
+  "xls-217": {
+    "title": "Verrataan rakennushankkeen lämmitysratkaisujen elinkaaripäästöt ja kustannukset"
+  },
+  "xls-218": {
+    "title": "Vaihdetaan uusittava ajoneuvo tai työkone käyttökohteeseen sopivaan vähäpäästöiseen vaihtoehtoon"
+  },
+  "xls-219": {
+    "title": "Asennetaan valaistukseen läsnäolo- ja päivänvalo-ohjaus"
+  },
+  "xls-222": {
+    "title": "Laaditaan biokaasun raaka-aine-, sijoitus- ja kannattavuusselvitys"
+  },
+  "xls-223": {
+    "title": "Asennetaan vesihuollon energiankulutuksen mittaus ja otetaan käyttöön poikkeamahälytykset"
+  },
+  "xls-224": {
+    "title": "Vaihdetaan vesihuollon energiasyöpöt laitteet ja optimoidaan pumppaus"
+  },
+  "xls-225": {
+    "title": "Lisätään kuljetuspalvelun tarjouspyyntöön päästö- ja energiankulutuskriteerit"
+  },
+  "xls-226": {
+    "title": "Vaihdetaan vanhat talotekniset laitteet energiatehokkaampiin"
+  },
+  "xls-227": {
+    "title": "Ennallistetaan valittu suo maanomistajan kanssa laaditun suunnitelman mukaan"
+  },
+  "xls-228": {
+    "title": "Avataan yhteiskäyttöinen etätyötila kunnan tiloihin"
+  },
+  "xls-229": {
+    "title": "Asetetaan kunnan talousmetsien hakkuusuunnite puuston kasvu- ja hiilitasearvion perusteella"
+  },
+  "xls-230": {
+    "title": "Ajoitetaan riskikuvion harvennus lumituhoriskin arvioinnin perusteella"
+  },
+  "xls-231": {
+    "title": "Rajataan heikkotuottoiset turvemaametsät puuntuotannon ulkopuolelle"
+  },
+  "xls-232": {
+    "title": "Selvitetään rakennuksen hukkalämpö ja toteutetaan soveltuva lämmöntalteenotto"
+  },
+  "xls-233": {
+    "title": "Kytketään soveltuva hukkalämpölähde kaukolämpöverkkoon"
+  },
+  "xls-234": {
+    "title": "Kirjataan kaavaan hulevesien viivytyksen, imeytyksen ja tulvareittien vaatimukset"
+  },
+  "xls-235": {
+    "title": "Kunnostetaan ja tiivistetään rakennuksen ikkunat ja ovet"
+  },
+  "xls-236": {
+    "title": "Vaihdetaan huonokuntoiset ikkunat ja ovet energiatehokkaampiin"
+  },
+  "xls-237": {
+    "title": "Kirjataan kaavaan energiatehokkuutta, liikkumista ja puuston säilyttämistä koskevat ratkaisut"
+  },
+  "xls-238": {
+    "title": "Lisätään kasvis- ja kalaruokia ruokalistalle ja seurataan menekkiä"
+  },
+  "xls-239": {
+    "title": "Otetaan jatkuvapeitteinen metsänkasvatus käyttöön soveltuvilla kuvioilla"
+  },
+  "xls-240": {
+    "title": "Asennetaan puuttuvat lajitteluastiat ja yhtenäiset opasteet kunnan kiinteistöihin"
+  },
+  "xls-241": {
+    "title": "Järjestetään lajitteluneuvonta asukkaille ja kiinteistöjen henkilöstölle"
+  },
+  "xls-242": {
+    "title": "Saneerataan jätevedenpumppaamo ja säädetään pumppujen ohjaus"
+  },
+  "xls-243": {
+    "title": "Tutkitaan puhdistamolietteen laatu ja sovitaan hyväksyttävä hyötykäyttötapa"
+  },
+  "xls-244": {
+    "title": "Poistetaan valitusta palvelusta kertakäyttötuotteet ja seurataan jätemäärää"
+  },
+  "xls-245": {
+    "title": "Osoitetaan kaavassa soveltuvat alueet hajautetulle energiantuotannolle"
+  },
+  "xls-246": {
+    "title": "Sammutetaan tai himmennetään katuvalaistus hiljaisina aikoina turvallisuusarvion perusteella"
+  },
+  "xls-247": {
+    "title": "Kootaan vajaakäyttöiset toiminnot yhteisiin tiloihin ja luovutaan tarpeettomista tiloista"
+  },
+  "xls-248": {
+    "title": "Otetaan käyttöön henkilöstön työsuhdepyöräetu"
+  },
+  "xls-249": {
+    "title": "Säädetään katu- ja aluevalaistuksen aika- ja hämäräohjaus"
+  },
+  "xls-250": {
+    "title": "Laaditaan ilmastokokeilujen rahoitushaku, jossa vaaditaan nimetty toteutus ja tulosmittari"
+  },
+  "xls-251": {
+    "title": "Kunnostetaan luontomatkailureitti ja julkaistaan saapumisohjeet ilman omaa autoa"
+  },
+  "xls-252": {
+    "title": "Rakennetaan puuttuva kävely- ja pyöräilyväylän osuus"
+  },
+  "xls-253": {
+    "title": "Määritellään kävely- ja pyöräilyreittien talvikunnossapidon laatutaso ja valvotaan toteutusta"
+  },
+  "xls-254": {
+    "title": "Pidennetään metsän kiertoaikaa soveltuvilla kuvioilla"
+  },
+  "xls-255": {
+    "title": "Käynnistetään juna-aikatauluihin sovitettu liityntätaksi"
+  },
+  "xls-256": {
+    "title": "Otetaan käyttöön ajoneuvojen kulutusseuranta ja koulutetaan kuljettajat taloudelliseen ajoon"
+  },
+  "xls-257": {
+    "title": "Arvioidaan ojien kunnostustarve ja jätetään tarpeettomat kunnostusojitukset tekemättä"
+  },
+  "xls-258": {
+    "title": "Käynnistetään esteetön kutsuohjattu asiointiliikenne"
+  },
+  "xls-259": {
+    "title": "Jätetään metsänhoidossa lahopuuta ja säästöpuita eri kehitysvaiheisiin"
+  },
+  "xls-260": {
+    "title": "Asennetaan puuttuvat lajitteluastiat ja yhtenäiset opasteet kunnan kiinteistöihin"
+  },
+  "xls-261": {
+    "title": "Vaihdetaan kiinteistöjen valaisimet LED-valaisimiksi"
+  },
+  "xls-262": {
+    "title": "Kartoitetaan viheralueiden luontoarvot ja muutetaan valittujen kohteiden hoitotapaa"
+  },
+  "xls-263": {
+    "title": "Sovitetaan lähipalvelujen aukioloajat asiointiliikenteen aikatauluihin"
+  },
+  "xls-264": {
+    "title": "Sijoitetaan lähipalvelut maankäyttösuunnitelmassa kävellen ja joukkoliikenteellä saavutettaviin kohteisiin"
+  },
+  "xls-265": {
+    "title": "Säädetään kiinteistöjen lämmitys ja ilmanvaihto käyttöaikojen mukaan"
+  },
+  "xls-266": {
+    "title": "Asennetaan lämmöntalteenotto ilmanvaihtojärjestelmään"
+  },
+  "xls-267": {
+    "title": "Asennetaan kohteeseen soveltuva lämpöpumppu"
+  },
+  "xls-268": {
+    "title": "Otetaan käyttöön yhteinen ylijäämämaiden vastaanotto- ja välivarastointialue"
+  },
+  "xls-269": {
+    "title": "Mitoitetaan kunnan metsien hakkuut runsaspuustoisuuden säilyttämiseksi"
+  },
+  "xls-270": {
+    "title": "Uudistetaan hakkuuala kohteeseen sopivilla puulajeilla ja tarkistetaan taimettuminen"
+  },
+  "xls-271": {
+    "title": "Tehdään metsälannoituksen kohdekohtainen ravinne-, vesistö- ja ilmastovaikutusten arvio"
+  },
+  "xls-272": {
+    "title": "Aikataulutetaan metsänhoitotyöt ja varataan niille henkilöstö- ja hankintaresurssit"
+  },
+  "xls-273": {
+    "title": "Tarkistetaan metsäpalojen sammutusveden ottopaikat ja pelastustiet"
+  },
+  "xls-274": {
+    "title": "Jaetaan elintarvikehankinta tarkoituksenmukaisiin osiin ja järjestetään tuottajien markkinavuoropuhelu"
+  },
+  "xls-275": {
+    "title": "Lisätään metsän uudistamisessa kohteeseen sopivien puulajien monipuolisuutta"
+  },
+  "xls-276": {
+    "title": "Asennetaan runkolukittavat pyörätelineet keskeisten palvelujen yhteyteen"
+  },
+  "xls-277": {
+    "title": "Vaihdetaan uusittava ajoneuvo tai työkone käyttökohteeseen sopivaan vähäpäästöiseen vaihtoehtoon"
+  },
+  "xls-278": {
+    "title": "Paikannetaan viemäriverkoston vuotovedet ja saneerataan vuotavat kaivot ja putkiosuudet"
+  },
+  "xls-279": {
+    "title": "Punnitaan ruokahävikki ja muutetaan valmistusmääriä mittausten perusteella"
+  },
+  "xls-280": {
+    "title": "Lisätään kasvis- ja kalaruokia ruokalistalle ja seurataan menekkiä"
+  },
+  "xls-281": {
+    "title": "Tiivistetään rakennuksen saumat, rakenneliittymät ja läpiviennit"
+  },
+  "xls-282": {
+    "title": "Lisäeristetään rakennuksen seinät sekä ala- ja yläpohja korjausten yhteydessä"
+  },
+  "xls-283": {
+    "title": "Asennetaan lämpötila- ja läsnäoloanturit talotekniikan ohjausta varten"
+  },
+  "xls-284": {
+    "title": "Rakennetaan sähköautojen latauspisteet kunnan kiinteistöjen pysäköintialueille"
+  },
+  "xls-285": {
+    "title": "Toteutetaan taajamametsän hoito luontoarvot ja turvallisuus huomioivan kohdesuunnitelman mukaan"
+  },
+  "xls-286": {
+    "title": "Muutetaan valittu nurmialue niityksi ja lisätään alueelle kotoperäisiä kasveja"
+  },
+  "xls-287": {
+    "title": "Hankitaan korjauspalvelu ja varaosat tuotteiden käyttöiän pidentämiseksi"
+  },
+  "xls-288": {
+    "title": "Sovitaan ulkoliikuntapaikan valaistuksen käyttöajat ja lämpötilaan perustuva ohjaus"
+  },
+  "xls-289": {
+    "title": "Rajataan hakkuualat siten, että jyrkät metsänreunat ja tuulituhoille alttiit reunat vähenevät"
+  },
+  "xls-290": {
+    "title": "Kartoitetaan uusiutuvan energian tuotantokohteet ja valmistellaan toteuttajien investointineuvottelut"
+  },
+  "xls-291": {
+    "title": "Kartoitetaan uusiutuvan energian tuotantokohteet ja valmistellaan toteuttajien investointineuvottelut"
+  },
+  "xls-292": {
+    "title": "Hankitaan alkuperältään varmennettua uusiutuvaa sähköä kunnan käyttöön"
+  },
+  "xls-293": {
+    "title": "Laaditaan kunnan ja kumppanien yhteinen ilmastoviestinnän vuosikello ja toteutetaan sovitut tapahtumat"
+  },
+  "xls-294": {
+    "title": "Lisätään kuljetuspalvelun tarjouspyyntöön päästö- ja energiankulutuskriteerit"
+  },
+  "xls-295": {
+    "title": "Sijoitetaan uusi rakentaminen olemassa olevien verkostojen ja palvelujen yhteyteen"
+  },
+  "xls-296": {
+    "title": "Tehdään kunnan kiinteistön ympäristö- ja energiakatselmus ja korjataan puutteet"
+  },
+  "xls-297": {
+    "title": "Asennetaan valaistukseen läsnäolo- ja päivänvalo-ohjaus"
+  },
+  "xls-298": {
+    "title": "Korvataan kunnan kiinteistön öljylämmitys kohteeseen soveltuvalla ratkaisulla"
+  },
+  "xls-301": {
+    "title": "Lisäeristetään rakennuksen seinät sekä ala- ja yläpohja korjausten yhteydessä"
+  },
+  "xls-302": {
+    "title": "Järjestetään asukkaille käytännön energiansäästö- ja korjaustyöpaja"
+  },
+  "xls-303": {
+    "title": "Asennetaan lämpötila- ja läsnäoloanturit talotekniikan ohjausta varten"
+  },
+  "xls-304": {
+    "title": "Verrataan maatilan biokaasuratkaisun vaihtoehdot ja toteutetaan hyväksytty investointi"
+  },
+  "xls-305": {
+    "title": "Kartoitetaan uusiutuvan polttoaineen tankkauspisteen kysyntä ja neuvotellaan toteuttajan kanssa"
+  },
+  "xls-306": {
+    "title": "Selvitetään liikennebiokaasun kysyntä ja valmistellaan tankkauspisteen toteutussopimus"
+  },
+  "xls-307": {
+    "title": "Vaihdetaan vanhat talotekniset laitteet energiatehokkaampiin"
+  },
+  "xls-308": {
+    "title": "Avataan yhteiskäyttöinen etätyötila kunnan tiloihin"
+  },
+  "xls-309": {
+    "title": "Osoitetaan kaavassa soveltuvat alueet hajautetulle energiantuotannolle"
+  },
+  "xls-310": {
+    "title": "Kevennetään harvennusta kohdekohtaisen puusto- ja riskinarvion perusteella"
+  },
+  "xls-311": {
+    "title": "Rajataan heikkotuottoiset turvemaametsät puuntuotannon ulkopuolelle"
+  },
+  "xls-312": {
+    "title": "Sovitaan henkilöstön etätyökäytännöt ja järjestetään etäkokousten välineet"
+  },
+  "xls-313": {
+    "title": "Selvitetään rakennuksen hukkalämpö ja toteutetaan soveltuva lämmöntalteenotto"
+  },
+  "xls-314": {
+    "title": "Kytketään soveltuva hukkalämpölähde kaukolämpöverkkoon"
+  },
+  "xls-315": {
+    "title": "Rakennetaan hulevesien viivytys- tai imeytysrakenne ongelmakohteeseen"
+  },
+  "xls-316": {
+    "title": "Perustetaan niitty soveltuvalle nurmialueelle ja sovitaan niitto sekä niittojätteen keruu"
+  },
+  "xls-317": {
+    "title": "Kunnostetaan ja tiivistetään rakennuksen ikkunat ja ovet"
+  },
+  "xls-318": {
+    "title": "Lisätään sivistyspalvelujen hankintoihin tuotteiden käyttöikää ja päästöjä koskevat kriteerit"
+  },
+  "xls-319": {
+    "title": "Toteutetaan kouluissa ja päiväkodeissa vuosittainen ilmasto- ja luontoaiheinen oppimiskokonaisuus"
+  },
+  "xls-320": {
+    "title": "Toteutetaan kouluissa ja päiväkodeissa vuosittainen ilmasto- ja luontoaiheinen oppimiskokonaisuus"
+  },
+  "xls-321": {
+    "title": "Julkaistaan asukkaille ohjeet paikallisiin helle-, tulva- ja myrskyriskeihin varautumisesta"
+  },
+  "xls-322": {
+    "title": "Kirjataan kaavaan energiatehokkuutta, liikkumista ja puuston säilyttämistä koskevat ratkaisut"
+  },
+  "xls-323": {
+    "title": "Julkaistaan kunnan ilmastotyön vuosikooste ja nimetään viestinnän vastuuhenkilö"
+  },
+  "xls-324": {
+    "title": "Asennetaan puuttuvat lajitteluastiat ja yhtenäiset opasteet kunnan kiinteistöihin"
+  },
+  "xls-325": {
+    "title": "Järjestetään lajitteluneuvonta asukkaille ja kiinteistöjen henkilöstölle"
+  },
+  "xls-326": {
+    "title": "Poistetaan valitusta palvelusta kertakäyttötuotteet ja seurataan jätemäärää"
+  },
+  "xls-327": {
+    "title": "Säädetään katu- ja aluevalaistuksen aika- ja hämäräohjaus"
+  },
+  "xls-328": {
+    "title": "Selvitetään lämpölaitoksen tuhkan laatu ja toimitetaan soveltuva tuhka hyötykäyttöön"
+  },
+  "xls-329": {
+    "title": "Otetaan käyttöön ajoneuvojen kulutusseuranta ja koulutetaan kuljettajat taloudelliseen ajoon"
+  },
+  "xls-330": {
+    "title": "Rakennetaan puuttuva kävely- ja pyöräilyväylän osuus"
+  },
+  "xls-331": {
+    "title": "Määritellään kävely- ja pyöräilyreittien talvikunnossapidon laatutaso ja valvotaan toteutusta"
+  },
+  "xls-332": {
+    "title": "Asennetaan kiinteistöön talotekniikan automaatio ja etävalvonta"
+  },
+  "xls-333": {
+    "title": "Jätetään metsänhoidossa lahopuuta ja säästöpuita eri kehitysvaiheisiin"
+  },
+  "xls-334": {
+    "title": "Asennetaan puuttuvat lajitteluastiat ja yhtenäiset opasteet kunnan kiinteistöihin"
+  },
+  "xls-335": {
+    "title": "Vaihdetaan kiinteistöjen valaisimet LED-valaisimiksi"
+  },
+  "xls-336": {
+    "title": "Tutkitaan puhdistamolietteen laatu ja sovitaan hyväksyttävä hyötykäyttötapa"
+  },
+  "xls-337": {
+    "title": "Perustetaan niitty soveltuvalle nurmialueelle ja sovitaan niitto sekä niittojätteen keruu"
+  },
+  "xls-338": {
+    "title": "Säädetään kiinteistöjen lämmitys ja ilmanvaihto käyttöaikojen mukaan"
+  },
+  "xls-339": {
+    "title": "Asennetaan lämpöpumppu rakennuksen lämmitykseen ja tarvittaessa viilennykseen"
+  },
+  "xls-340": {
+    "title": "Mitoitetaan kunnan metsien hakkuut runsaspuustoisuuden säilyttämiseksi"
+  },
+  "xls-341": {
+    "title": "Pidennetään metsän kiertoaikaa soveltuvilla kuvioilla"
+  },
+  "xls-342": {
+    "title": "Tehdään metsälannoituksen kohdekohtainen ravinne-, vesistö- ja ilmastovaikutusten arvio"
+  },
+  "xls-343": {
+    "title": "Uudistetaan hakkuuala kohteeseen sopivilla puulajeilla ja tarkistetaan taimettuminen"
+  },
+  "xls-344": {
+    "title": "Suunnitellaan uuden rakennuksen tilat muunneltaviksi ja yhteiskäyttöisiksi"
+  },
+  "xls-345": {
+    "title": "Järjestetään maatiloille energia- ja ympäristöasioiden neuvontatilaisuus"
+  },
+  "xls-346": {
+    "title": "Asennetaan lämpölaitokseen savukaasujen lämmöntalteenotto"
+  },
+  "xls-347": {
+    "title": "Otetaan jäteveden tai vesihuollon prosessin hukkalämpö talteen"
+  },
+  "xls-348": {
+    "title": "Vaihdetaan vesihuollon energiasyöpöt laitteet ja optimoidaan pumppaus"
+  },
+  "xls-349": {
+    "title": "Asennetaan vesihuollon laitteisiin etävalvonta ja häiriöhälytykset"
+  },
+  "xls-350": {
+    "title": "Teetetään vuokratalojen energiakatselmukset ja toteutetaan valitut korjaukset"
+  },
+  "xls-351": {
+    "title": "Vertaillaan puu- ja muiden runkoratkaisujen elinkaaripäästöt rakennushankkeen suunnittelussa"
+  },
+  "xls-352": {
+    "title": "Asennetaan runkolukittavat pyörätelineet keskeisten palvelujen yhteyteen"
+  },
+  "xls-353": {
+    "title": "Punnitaan ruokahävikki ja muutetaan valmistusmääriä mittausten perusteella"
+  },
+  "xls-354": {
+    "title": "Kirjataan ruokapalveluhankintaan ravitsemus-, hävikki- ja ilmastokriteerit"
+  },
+  "xls-355": {
+    "title": "Tiivistetään rakennuksen saumat, rakenneliittymät ja läpiviennit"
+  },
+  "xls-356": {
+    "title": "Ennallistetaan valittu suo maanomistajan kanssa laaditun suunnitelman mukaan"
+  },
+  "xls-357": {
+    "title": "Vaihdetaan uusittava kunnan huolto- tai henkilöauto sähköautoon käyttötarpeen perusteella"
+  },
+  "xls-358": {
+    "title": "Rakennetaan julkisia sähköautojen latauspisteitä valittuihin kohteisiin"
+  },
+  "xls-359": {
+    "title": "Merkitään säilytettävät viheralueet kaavoihin ja laaditaan niiden hoito-ohjeet"
+  },
+  "xls-360": {
+    "title": "Kootaan vajaakäyttöiset toiminnot yhteisiin tiloihin ja luovutaan tarpeettomista tiloista"
+  },
+  "xls-361": {
+    "title": "Toteutetaan rakennushankkeessa rajattu vähähiilisen rakenteen tai materiaalin kokeilu"
+  },
+  "xls-362": {
+    "title": "Valitaan lumen vastaanottopaikka ja rakennetaan sille sulamisvesien käsittely"
+  },
+  "xls-363": {
+    "title": "Asetetaan uudisrakennuksen hankesuunnitelmaan energia- ja elinkaaripäästörajat"
+  },
+  "xls-364": {
+    "title": "Käytetään hyväksyttyjä uusiomateriaaleja kunnan maarakennuskohteessa"
+  },
+  "xls-365": {
+    "title": "Sisällytetään purku-urakkaan materiaalien erottelun ja uudelleenkäytön vaatimukset"
+  },
+  "xls-366": {
+    "title": "Teetetään maatilojen aurinkoenergia- ja biokaasupotentiaalin selvitys"
+  },
+  "xls-367": {
+    "title": "Kartoitetaan uusiutuvan energian tuotantokohteet ja valmistellaan toteuttajien investointineuvottelut"
+  },
+  "xls-368": {
+    "title": "Kartoitetaan uusiutuvan energian tuotantoon soveltuvat alueet ja liittymämahdollisuudet"
+  },
+  "xls-369": {
+    "title": "Hankitaan alkuperältään varmennettua uusiutuvaa sähköä kunnan käyttöön"
+  },
+  "xls-370": {
+    "title": "Säädetään katu- ja aluevalaistuksen aika- ja hämäräohjaus"
+  },
+  "xls-371": {
+    "title": "Sovitaan ulkoliikuntapaikan valaistuksen käyttöajat ja lämpötilaan perustuva ohjaus"
+  },
+  "xls-372": {
+    "title": "Mitataan kiinteistöjen vedenkulutus ja korjataan vuodot sekä tarpeettomat virtaamat"
+  },
+  "xls-373": {
+    "title": "Asennetaan hanoihin virtaamanrajoittimet ja vettä säästävät WC-kalusteet"
+  },
+  "xls-374": {
+    "title": "Poistetaan vieraslajit valitulta alueelta ja sovitaan jälkiseuranta"
+  },
+  "xls-375": {
+    "title": "Laaditaan teollisuusalueelle energia-, materiaalikierto- ja hulevesiratkaisujen suunnitelma"
+  },
+  "xls-376": {
+    "title": "Vaihdetaan uusittava ajoneuvo tai työkone käyttökohteeseen sopivaan vähäpäästöiseen vaihtoehtoon"
+  },
+  "xls-377": {
+    "title": "Lisätään kuljetuspalvelun tarjouspyyntöön päästö- ja energiankulutuskriteerit"
+  },
+  "xls-378": {
+    "title": "Asennetaan valaistukseen läsnäolo- ja päivänvalo-ohjaus"
+  },
+  "xls-381": {
+    "title": "Asennetaan aurinkosähköjärjestelmät soveltuviin kunnan kiinteistöihin"
+  },
+  "xls-382": {
+    "title": "Laaditaan biokaasun raaka-aine-, sijoitus- ja kannattavuusselvitys"
+  },
+  "xls-383": {
+    "title": "Verrataan lämpölaitoksen polttoainevaihtoehdot ja toteutetaan hyväksytty lämmitystavan muutos"
+  },
+  "xls-384": {
+    "title": "Korvataan neitseellisiä maa-aineksia kohteeseen soveltuvilla uusiomateriaaleilla"
+  },
+  "xls-385": {
+    "title": "Teetetään kunnan kiinteistöjen energiakatselmukset ja aikataulutetaan korjaukset"
+  },
+  "xls-386": {
+    "title": "Toteutetaan kiinteistöjen energiakatselmusten nopeat säätö- ja huoltotoimet"
+  },
+  "xls-387": {
+    "title": "Teetetään maatilan energiatase ja uusiutuvan energian investointivertailu"
+  },
+  "xls-388": {
+    "title": "Toteutetaan energiakatselmuksessa kannattavaksi todettu kiinteistön energiaremontti"
+  },
+  "xls-389": {
+    "title": "Vaihdetaan vanhat talotekniset laitteet energiatehokkaampiin"
+  },
+  "xls-390": {
+    "title": "Asetetaan laitehankinnalle mitattavat energiankulutuksen ja elinkaarikustannuksen vaatimukset"
+  },
+  "xls-391": {
+    "title": "Inventoidaan hakkuukohteen luontoarvot ja merkitään säästettävät alueet ennen töitä"
+  },
+  "xls-392": {
+    "title": "Asennetaan kohteeseen soveltuva lämpöpumppu"
+  },
+  "xls-393": {
+    "title": "Otetaan ilmastobudjetti osaksi kunnan talousarviota ja tilinpäätöstä"
+  },
+  "xls-394": {
+    "title": "Toteutetaan kouluissa ja päiväkodeissa vuosittainen ilmasto- ja luontoaiheinen oppimiskokonaisuus"
+  },
+  "xls-395": {
+    "title": "Järjestetään lajitteluneuvonta asukkaille ja kiinteistöjen henkilöstölle"
+  },
+  "xls-396": {
+    "title": "Toteutetaan kuntien yhteinen energiatehokkuus- tai kiertotaloushankinta ja sovitaan työnjako"
+  },
+  "xls-397": {
+    "title": "Säädetään katu- ja aluevalaistuksen aika- ja hämäräohjaus"
+  },
+  "xls-398": {
+    "title": "Toteutetaan kunnan kiinteistössä energiansäästökokeilu ja mitataan kulutuksen muutos"
+  },
+  "xls-399": {
+    "title": "Toteutetaan liikkumissuunnitelmasta valittu pyöräreitin, pysäkin tai risteyksen parannus"
+  },
+  "xls-400": {
+    "title": "Laaditaan kiinteistökannan käyttö-, korjaus- ja luopumissuunnitelma"
+  },
+  "xls-401": {
+    "title": "Asennetaan kiinteistöön talotekniikan automaatio ja etävalvonta"
+  },
+  "xls-402": {
+    "title": "Määritellään kävely- ja pyöräilyreittien talvikunnossapidon laatutaso ja valvotaan toteutusta"
+  },
+  "xls-403": {
+    "title": "Nimetään ilmastotyön koordinaattori, toimialavastuut ja vuosittainen työaika"
+  },
+  "xls-404": {
+    "title": "Avataan tavaralainaamo ja sovitaan välineiden huolto sekä varauskäytännöt"
+  },
+  "xls-405": {
+    "title": "Sijoitetaan puuttuvat jätteiden keräyspisteet kysyntä- ja saavutettavuuskartoituksen perusteella"
+  },
+  "xls-406": {
+    "title": "Asennetaan puuttuvat lajitteluastiat ja yhtenäiset opasteet kunnan kiinteistöihin"
+  },
+  "xls-407": {
+    "title": "Käynnistetään kutsuohjattu asiointikuljetus ja mitataan sen käyttö"
+  },
+  "xls-408": {
+    "title": "Säädetään kiinteistöjen lämmitys ja ilmanvaihto käyttöaikojen mukaan"
+  },
+  "xls-409": {
+    "title": "Siirretään valittu kunnan asiointipalvelu verkkoon"
+  },
+  "xls-410": {
+    "title": "Toteutetaan lähiluonnon hoitokokeilu yhdessä asukkaiden ja maanomistajan kanssa"
+  },
+  "xls-411": {
+    "title": "Mitataan vesistön kuormitus ja toteutetaan valittu kuormitusta vähentävä kunnostus"
+  },
+  "xls-412": {
+    "title": "Kokeillaan valitun ylijäämämateriaalin erilliskeräystä ja käyttöä kunnan toisessa toimipisteessä"
+  },
+  "xls-413": {
+    "title": "Asennetaan runkolukittavat pyörätelineet keskeisten palvelujen yhteyteen"
+  },
+  "xls-414": {
+    "title": "Asennetaan pyöränhuoltopiste keskeisen pyöräreitin varrelle"
+  },
+  "xls-415": {
+    "title": "Järjestetään rakennusten omistajille energiaremonttien suunnitteluilta"
+  },
+  "xls-416": {
+    "title": "Lisätään kasvis- ja kalaruokia ruokalistalle ja seurataan menekkiä"
+  },
+  "xls-417": {
+    "title": "Laaditaan kiertotaloussitoumus, jossa nimetään toimet, vastuut ja seurattavat materiaalivirrat"
+  },
+  "xls-418": {
+    "title": "Mitataan kunnan tilojen käyttöaste ja avataan soveltuvat tilat iltakäyttöön"
+  },
+  "xls-419": {
+    "title": "Rakennetaan julkisia sähköautojen latauspisteitä valittuihin kohteisiin"
+  },
+  "xls-420": {
+    "title": "Asetetaan hankintaan korjattavuuden ja uudelleenkäytön vaatimukset"
+  },
+  "xls-421": {
+    "title": "Poistetaan vieraslajit valitulta alueelta ja sovitaan jälkiseuranta"
+  },
+  "xls-422": {
+    "title": "Hankitaan korjauspalvelu ja varaosat tuotteiden käyttöiän pidentämiseksi"
+  },
+  "xls-423": {
+    "title": "Otetaan käyttöön henkilöstön työmatkaliikkumisen suunnitelma ja pyöräpysäköinnin parannukset"
+  },
+  "xls-424": {
+    "title": "Hankitaan alkuperältään varmennettua uusiutuvaa sähköä kunnan käyttöön"
+  },
+  "xls-425": {
+    "title": "Vaihdetaan kiinteistöjen valaisimet LED-valaisimiksi"
+  },
+  "xls-426": {
+    "title": "Asennetaan vettä säästävät kalusteet kunnan kiinteistöihin"
+  },
+  "xls-427": {
+    "title": "Laaditaan kunnan ja kumppanien yhteinen ilmastoviestinnän vuosikello ja toteutetaan sovitut tapahtumat"
+  },
+  "xls-428": {
+    "title": "Hankitaan yhteiskäyttöpyörät ja otetaan käyttöön varaus- ja huoltojärjestelmä"
+  },
+  "xls-429": {
+    "title": "Julkaistaan aurinkoenergiahankkeiden hakijaohje ja selkeä asiointipolku"
+  },
+  "xls-432": {
+    "title": "Asennetaan aurinkosähköjärjestelmät soveltuviin kunnan kiinteistöihin"
+  },
+  "xls-433": {
+    "title": "Laaditaan biokaasun raaka-aine-, sijoitus- ja kannattavuusselvitys"
+  },
+  "xls-434": {
+    "title": "Korvataan neitseellisiä maa-aineksia kohteeseen soveltuvilla uusiomateriaaleilla"
+  },
+  "xls-435": {
+    "title": "Vaihdetaan vanhat talotekniset laitteet energiatehokkaampiin"
+  },
+  "xls-436": {
+    "title": "Osoitetaan kaavassa soveltuvat alueet hajautetulle energiantuotannolle"
+  },
+  "xls-437": {
+    "title": "Kirjataan maapoliittiseen ohjelmaan puuston ja maaperän hiilivarastojen säilyttämisperiaatteet"
+  },
+  "xls-438": {
+    "title": "Kunnostetaan ja tiivistetään rakennuksen ikkunat ja ovet"
+  },
+  "xls-439": {
+    "title": "Asennetaan kohteeseen soveltuva lämpöpumppu"
+  },
+  "xls-440": {
+    "title": "Otetaan ilmastobudjetti osaksi kunnan talousarviota ja tilinpäätöstä"
+  },
+  "xls-441": {
+    "title": "Toteutetaan kouluissa ja päiväkodeissa vuosittainen ilmasto- ja luontoaiheinen oppimiskokonaisuus"
+  },
+  "xls-442": {
+    "title": "Järjestetään lajitteluneuvonta asukkaille ja kiinteistöjen henkilöstölle"
+  },
+  "xls-443": {
+    "title": "Toteutetaan kuntien yhteinen energiatehokkuus- tai kiertotaloushankinta ja sovitaan työnjako"
+  },
+  "xls-444": {
+    "title": "Säädetään katu- ja aluevalaistuksen aika- ja hämäräohjaus"
+  },
+  "xls-445": {
+    "title": "Toteutetaan kunnan kiinteistössä energiansäästökokeilu ja mitataan kulutuksen muutos"
+  },
+  "xls-446": {
+    "title": "Toteutetaan liikkumissuunnitelmasta valittu pyöräreitin, pysäkin tai risteyksen parannus"
+  },
+  "xls-447": {
+    "title": "Määritellään kävely- ja pyöräilyreittien talvikunnossapidon laatutaso ja valvotaan toteutusta"
+  },
+  "xls-448": {
+    "title": "Rakennetaan puuttuva kävely- ja pyöräilyväylän osuus"
+  },
+  "xls-449": {
+    "title": "Asennetaan kiinteistöön talotekniikan automaatio ja etävalvonta"
+  },
+  "xls-450": {
+    "title": "Määritellään kävely- ja pyöräilyreittien talvikunnossapidon laatutaso ja valvotaan toteutusta"
+  },
+  "xls-451": {
+    "title": "Nimetään ilmastotyön koordinaattori, toimialavastuut ja vuosittainen työaika"
+  },
+  "xls-452": {
+    "title": "Verrataan kunnan metsien käsittelyvaihtoehdot ja päivitetään metsäsuunnitelma"
+  },
+  "xls-453": {
+    "title": "Korjataan keskustan kävelyreitin esteet ja lisätään levähdyspaikat"
+  },
+  "xls-454": {
+    "title": "Avataan tavaralainaamo ja sovitaan välineiden huolto sekä varauskäytännöt"
+  },
+  "xls-455": {
+    "title": "Asennetaan puuttuvat lajitteluastiat ja yhtenäiset opasteet kunnan kiinteistöihin"
+  },
+  "xls-456": {
+    "title": "Käynnistetään kutsuohjattu asiointikuljetus ja mitataan sen käyttö"
+  },
+  "xls-457": {
+    "title": "Säädetään kiinteistöjen lämmitys ja ilmanvaihto käyttöaikojen mukaan"
+  },
+  "xls-458": {
+    "title": "Kerätään käyttökelpoiset materiaalit ja järjestetään niiden uudelleenkäyttö kunnan toiminnoissa"
+  },
+  "xls-459": {
+    "title": "Sovitetaan vaihtoasemien opastus, pysäköinti ja liityntäkuljetusten aikataulut yhteen"
+  },
+  "xls-460": {
+    "title": "Siirretään valittu kunnan asiointipalvelu verkkoon"
+  },
+  "xls-461": {
+    "title": "Toteutetaan nuorten kanssa rajattu energiansäästö- tai lähiluontokokeilu"
+  },
+  "xls-462": {
+    "title": "Kokeillaan valitun ylijäämämateriaalin erilliskeräystä ja käyttöä kunnan toisessa toimipisteessä"
+  },
+  "xls-463": {
+    "title": "Lisätään kasvis- ja kalaruokia ruokalistalle ja seurataan menekkiä"
+  },
+  "xls-464": {
+    "title": "Tiivistetään rakennuksen saumat, rakenneliittymät ja läpiviennit"
+  },
+  "xls-465": {
+    "title": "Lisäeristetään rakennuksen seinät sekä ala- ja yläpohja korjausten yhteydessä"
+  },
+  "xls-466": {
+    "title": "Mitataan kunnan tilojen käyttöaste ja avataan soveltuvat tilat iltakäyttöön"
+  },
+  "xls-467": {
+    "title": "Selvitetään alueen biomassavirrat ja sovitaan soveltuvien jakeiden toimituksesta energiantuotantoon"
+  },
+  "xls-468": {
+    "title": "Varataan lataus- ja tankkauspisteille soveltuvat paikat ja selvitetään verkkoliittymät"
+  },
+  "xls-469": {
+    "title": "Rakennetaan julkisia sähköautojen latauspisteitä valittuihin kohteisiin"
+  },
+  "xls-470": {
+    "title": "Asetetaan hankintaan korjattavuuden ja uudelleenkäytön vaatimukset"
+  },
+  "xls-471": {
+    "title": "Päivitetään jätehuoltomääräysten lajitteluohjeet ja valvonnan käytännöt"
+  },
+  "xls-472": {
+    "title": "Sijoitetaan lämpöä tuottava teollisuus kaukolämpöverkon yhteyteen ja sovitaan lämmön talteenoton selvitys"
+  },
+  "xls-473": {
+    "title": "Laaditaan kiertotaloussitoumus, jossa nimetään toimet, vastuut ja seurattavat materiaalivirrat"
+  },
+  "xls-474": {
+    "title": "Otetaan käyttöön kunnan tilojen yhteinen varausjärjestelmä ja seurataan käyttöastetta"
+  },
+  "xls-475": {
+    "title": "Uusitaan rakennuksen routaeristys kuntotutkimuksen perusteella"
+  },
+  "xls-476": {
+    "title": "Vaihdetaan kiinteistöjen valaisimet LED-valaisimiksi"
+  },
+  "xls-477": {
+    "title": "Asennetaan vettä säästävät kalusteet kunnan kiinteistöihin"
+  },
+  "xls-478": {
+    "title": "Laaditaan kunnan ja kumppanien yhteinen ilmastoviestinnän vuosikello ja toteutetaan sovitut tapahtumat"
+  },
+  "xls-479": {
+    "title": "Hankitaan kunnan toimipisteille yhteiskäyttöauto tai -pyörät ja seurataan käyttöä"
+  },
+  "xls-480": {
+    "title": "Julkaistaan aurinkoenergiahankkeiden hakijaohje ja selkeä asiointipolku"
+  },
+  "liperi-01": {
+    "title": "Verrataan palvelujen, asumisen ja työpaikkojen sijoitusvaihtoehtojen liikkumistarve"
+  },
+  "liperi-02": {
+    "title": "Varataan kaavaan kävely- ja pyöräilyreitit sekä yhteydet pysäkeille"
+  },
+  "liperi-03": {
+    "title": "Verrataan alueen kiinteistöjen yhteiset lämpöratkaisut ja valmistellaan soveltuva verkko"
+  },
+  "liperi-04": {
+    "title": "Päivitetään pohjaveden suojelusuunnitelma ja aikataulutetaan riskikohteiden korjaukset"
+  },
+  "liperi-05": {
+    "title": "Rakennetaan hulevesien viivytys- tai imeytysrakenne ongelmakohteeseen"
+  },
+  "liperi-06": {
+    "title": "Lisätään rakennus- ja korjaushankkeiden hankesuunnitelmiin energia- ja materiaalivaatimukset"
+  },
+  "liperi-07": {
+    "title": "Sovitetaan joukkoliikenteen reitit ja aikataulut palvelujen ja työmatkojen tarpeisiin"
+  },
+  "liperi-08": {
+    "title": "Yhdistellään kunnan tavarakuljetusten tilaukset ja optimoidaan jakelureitit"
+  },
+  "liperi-09": {
+    "title": "Laaditaan julkisten latauspisteiden sijoitus- ja toteutussuunnitelma"
+  },
+  "liperi-10": {
+    "title": "Sovitaan henkilöstön etätyökäytännöt ja järjestetään etäkokousten välineet"
+  },
+  "liperi-11": {
+    "title": "Selvitetään henkilöstön työsuhdematkalipun kysyntä ja otetaan etu käyttöön päätöksen mukaisesti"
+  },
+  "liperi-12": {
+    "title": "Järjestetään biojätteen erilliskeräys kunnan toimipisteissä ja opastetaan käyttäjät"
+  },
+  "liperi-13": {
+    "title": "Kartoitetaan kiinteistöjen lajittelupuutteet ja täydennetään keräysjärjestelmä"
+  },
+  "liperi-14": {
+    "title": "Korvataan neitseellisiä maa-aineksia kohteeseen soveltuvilla uusiomateriaaleilla"
+  },
+  "liperi-15": {
+    "title": "Muutetaan kunnan lomakkeet sähköisiksi ja koulutetaan henkilöstö niiden käyttöön"
+  },
+  "liperi-16": {
+    "title": "Lisätään kuljetuspalvelun tarjouspyyntöön päästö- ja energiankulutuskriteerit"
+  },
+  "liperi-17": {
+    "title": "Lisätään kasvis- ja kalaruokia ruokalistalle ja seurataan menekkiä"
+  },
+  "liperi-18": {
+    "title": "Valmistellaan liittyminen julkisen alan energiatehokkuussopimukseen ja nimetään toimeenpanon vastuut"
+  },
+  "liperi-19": {
+    "title": "Teetetään kunnan kiinteistöjen energiakatselmukset ja aikataulutetaan korjaukset"
+  },
+  "liperi-20": {
+    "title": "Verrataan kunnan energiahankintojen tuotantovaihtoehdot ja kirjataan valitut kriteerit sopimuksiin"
+  },
+  "liperi-21": {
+    "title": "Kootaan kunnan öljylämmityskohteet ja laaditaan lämmitystapamuutosten investointiohjelma"
+  },
+  "liperi-22": {
+    "title": "Vaihdetaan sisä- ja ulkovalaistus LED-valaisimiin ja lisätään liiketunnistimet"
+  },
+  "liperi-23": {
+    "title": "Teetetään maatilojen aurinkoenergia- ja biokaasupotentiaalin selvitys"
+  },
+  "liperi-24": {
+    "title": "Järjestetään viljelijöille talviaikaisen kasvipeitteisyyden ja ravinteiden käytön neuvontapäivä"
+  },
+  "liperi-25": {
+    "title": "Laaditaan kouluille kestävän kehityksen vuosisuunnitelma ja arvioidaan sen toteutuminen"
+  },
+  "liperi-26": {
+    "title": "Julkaistaan biojätteen kompostointiohje ja järjestetään kompostointineuvonta"
+  },
+  "liperi-27": {
+    "title": "Päivitetään kunnan verkkosivujen lajittelu- ja kierrätysohjeet"
+  },
+  "liperi-28": {
+    "title": "Julkaistaan kunnan latauspisteiden kartta ja ylläpidetään käyttö- sekä sijaintitiedot"
+  },
+  "liperi-29": {
+    "title": "Julkaistaan energiansäästöohjeet ja järjestetään asukkaille lämmitystapaneuvontaa"
+  },
+  "liperi-30": {
+    "title": "Järjestetään kotieläintiloille ruokinnan valkuais- ja ravinnetasapainon neuvontatilaisuus"
+  },
+  "liperi-31": {
+    "title": "Julkaistaan verkkosivu, joka kokoaa kunnan ilmastotoimet ja asukkaiden toimintaohjeet"
+  },
+  "liperi-32": {
+    "title": "Esitellään kunnan ilmastotoimet tapahtumissa ja koulujen oppimistehtävissä"
+  },
+  "liperi-33": {
+    "title": "Hankitaan pitkäikäisiä ja käyttökelpoisia markkinointituotteita tarpeen perusteella"
+  },
+  "extra-tp0498": {
+    "title": "Vaihdetaan katu- ja ulkoaluevalaisimet LED-valaisimiksi ja säädetään valaistusajat"
+  },
+  "extra-tp0499": {
+    "title": "Vaihdetaan kiinteistöjen valaisimet LED-valaisimiksi"
+  },
+  "extra-tp0500": {
+    "title": "Asennetaan valaistukseen läsnäolo- ja päivänvalo-ohjaus"
+  },
+  "extra-tp0501": {
+    "title": "Säädetään katu- ja aluevalaistuksen aika- ja hämäräohjaus"
+  },
+  "extra-tp0502": {
+    "title": "Asennetaan vettä säästävät kalusteet kunnan kiinteistöihin"
+  },
+  "extra-tp0503": {
+    "title": "Säädetään kiinteistöjen lämmitys ja ilmanvaihto käyttöaikojen mukaan"
+  },
+  "extra-tp0504": {
+    "title": "Paikannetaan kaukolämpöverkon lämpöhäviöt ja korjataan suurimmat vuotokohdat"
+  },
+  "extra-tp0505": {
+    "title": "Asennetaan kohteeseen soveltuva lämpöpumppu"
+  },
+  "extra-tp0506": {
+    "title": "Otetaan käyttöön kiinteistöjen energiankulutuksen seuranta ja kuukausiraportti"
+  },
+  "extra-tp0507": {
+    "title": "Kootaan vajaakäyttöiset toiminnot yhteisiin tiloihin ja luovutaan tarpeettomista tiloista"
+  },
+  "extra-tp0508": {
+    "title": "Laaditaan kiinteistökannan käyttö-, korjaus- ja luopumissuunnitelma"
+  },
+  "extra-tp0509": {
+    "title": "Hankitaan alkuperältään varmennettua uusiutuvaa sähköä kunnan käyttöön"
+  },
+  "extra-tp0510": {
+    "title": "Kartoitetaan kuntakonsernin kattojen aurinkosähköpotentiaali ja valitaan asennuskohteet"
+  },
+  "extra-tp0511": {
+    "title": "Kartoitetaan uusiutuvan energian tuotantokohteet ja valmistellaan toteuttajien investointineuvottelut"
+  },
+  "extra-tp0512": {
+    "title": "Punnitaan valmistus-, tarjoilu- ja lautashävikki päivittäin ja korjataan tilausmääriä tulosten perusteella"
+  },
+  "extra-tp0513": {
+    "title": "Järjestetään koulujen hävikkiviikko ja mitataan lautashävikin muutos"
+  },
+  "extra-tp0514": {
+    "title": "Laaditaan hävikkiruoan myynti- tai jakelukokeilun toimintasuunnitelma ja käynnistetään kokeilu"
+  },
+  "extra-tp0515": {
+    "title": "Jaetaan elintarvikehankinta tarkoituksenmukaisiin osiin ja järjestetään tuottajien markkinavuoropuhelu"
+  },
+  "extra-tp0516": {
+    "title": "Lasketaan ruokalistan annoskohtaiset ilmastovaikutukset ja vaihdetaan suuripäästöisiä raaka-aineita"
+  },
+  "extra-tp0517": {
+    "title": "Testataan kasvisruokareseptejä ruokailijoilla ja otetaan parhaat reseptit ruokalistalle"
+  },
+  "extra-tp0518": {
+    "title": "Järjestetään henkilöstölle tehtäväkohtainen ilmastokoulutus ja sovitaan työyksiköiden käytännön muutokset"
+  },
+  "extra-tp0519": {
+    "title": "Järjestetään maatiloille energia- ja ympäristöasioiden neuvontatilaisuus"
+  },
+  "extra-tp0520": {
+    "title": "Julkaistaan vuosittain viljelijähaastattelu toteutetusta energia-, ravinne- tai vesitalousratkaisusta"
+  },
+  "extra-tp0521": {
+    "title": "Järjestetään viljelijöille tilaisuus, jossa valmistellaan energia- tai ravinnekiertokokeilu"
+  },
+  "extra-tp0522": {
+    "title": "Muutetaan kunnan lomakkeet sähköisiksi ja koulutetaan henkilöstö niiden käyttöön"
+  },
+  "extra-tp0523": {
+    "title": "Sovitaan henkilöstön etätyökäytännöt ja järjestetään etäkokousten välineet"
+  },
+  "extra-tp0524": {
+    "title": "Hankitaan yhteiskäyttöpyörät ja otetaan käyttöön varaus- ja huoltojärjestelmä"
+  },
+  "extra-tp0525": {
+    "title": "Rakennetaan puuttuva kävely- ja pyöräilyväylän osuus"
+  },
+  "extra-tp0526": {
+    "title": "Sovitetaan joukkoliikenteen reitit ja aikataulut palvelujen ja työmatkojen tarpeisiin"
+  },
+  "extra-tp0527": {
+    "title": "Varataan lataus- ja tankkauspisteille soveltuvat paikat ja selvitetään verkkoliittymät"
+  },
+  "extra-tp0528": {
+    "title": "Vaihdetaan uusittava ajoneuvo tai työkone käyttökohteeseen sopivaan vähäpäästöiseen vaihtoehtoon"
+  },
+  "extra-tp0529": {
+    "title": "Asennetaan puuttuvat lajitteluastiat ja yhtenäiset opasteet kunnan kiinteistöihin"
+  },
+  "extra-tp0530": {
+    "title": "Laaditaan maarakennushankkeelle massataselaskelma ja käytetään soveltuvat kaivumaat uudelleen"
+  },
+  "extra-tp0531": {
+    "title": "Myydään kunnan käyttökelpoiset poistokalusteet ja laitteet avoimessa verkkohuutokaupassa"
+  },
+  "extra-tp0532": {
+    "title": "Kerätään käyttökelpoiset materiaalit ja järjestetään niiden uudelleenkäyttö kunnan toiminnoissa"
+  },
+  "extra-tp0533": {
+    "title": "Päivitetään hankintaohjeeseen ilmasto- ja kiertotalouskriteerit"
+  },
+  "extra-tp0534": {
+    "title": "Lisätään kuljetuspalvelun tarjouspyyntöön päästö- ja energiankulutuskriteerit"
+  },
+  "extra-tp0535": {
+    "title": "Lisätään siivoustarvikkeiden tarjouspyyntöihin todennettavat ympäristökriteerit"
+  },
+  "extra-tp0536": {
+    "title": "Avataan tavaralainaamo ja sovitaan välineiden huolto sekä varauskäytännöt"
+  },
+  "extra-tp0537": {
+    "title": "Siirretään valitut asiakirjaprosessit sähköiseen allekirjoitukseen ja arkistointiin"
+  },
+  "extra-tp0538": {
+    "title": "Verrataan kunnan metsien käsittelyvaihtoehdot ja päivitetään metsäsuunnitelma"
+  },
+  "extra-tp0539": {
+    "title": "Metsitetään luontoarvoiltaan soveltuva joutomaa tai käytöstä poistunut pelto"
+  },
+  "extra-tp0540": {
+    "title": "Merkitään arvokkaat luontokohteet kunnan paikkatietoon ja rajataan ne haitallisten töiden ulkopuolelle"
+  },
+  "extra-tp0541": {
+    "title": "Muutetaan valittu nurmialue niityksi ja lisätään alueelle kotoperäisiä kasveja"
+  },
+  "extra-tp0542": {
+    "title": "Järjestetään kouluille ja päiväkodeille säännölliset lähiluontoretket"
+  },
+  "extra-tp0543": {
+    "title": "Julkaistaan kunnan ilmastotyön vuosikooste ja nimetään viestinnän vastuuhenkilö"
+  },
+  "extra-tp0544": {
+    "title": "Laaditaan kunnan ja kumppanien yhteinen ilmastoviestinnän vuosikello ja toteutetaan sovitut tapahtumat"
+  },
+  "extra-tp0545": {
+    "title": "Kirjataan kuntastrategiaan mitattavat ilmastotavoitteet, vastuut ja vuosittainen seuranta"
+  },
+  "extra-tp0546": {
+    "title": "Otetaan kunnan palveluyksikössä käyttöön ympäristöohjelma ja julkaistaan kulutus- ja jätemäärien seuranta"
+  },
+  "extra-tp0547": {
+    "title": "Järjestetään yrityksille työpajasarja, jossa lasketaan energia- tai materiaalitehokkuusinvestoinnin kannattavuus"
+  },
+  "extra-tp0548": {
+    "title": "Järjestetään yrityksille työpaja, jossa laaditaan oma energia- tai materiaalitehokkuustoimi"
+  },
+  "extra-tp0549": {
+    "title": "Kokeillaan yhteisiä vieras-, työ- ja varastotiloja kunnan vuokra-asuntokohteessa"
+  },
+  "extra-tp0550": {
+    "title": "Järjestetään yhdistyksille tapahtumatyöpaja ja sovitaan kokeilu lajittelusta tai yhteiskuljetuksista"
+  },
+  "extra-tp0551": {
+    "title": "Järjestetään ilmastotekokilpailu ja julkaistaan valintaperusteet sekä toteutetut teot"
+  },
+  "extra-tp0552": {
+    "title": "Toteutetaan kouluissa ja päiväkodeissa vuosittainen ilmasto- ja luontoaiheinen oppimiskokonaisuus"
+  },
+  "extra-tp0553": {
+    "title": "Toteutetaan koulun energiansäästökokeilu ja verrataan kulutusta lähtötasoon"
+  },
+  "extra-tp0554": {
+    "title": "Järjestetään kouluissa teemapäivä, jossa harjoitellaan lajittelua, energiansäästöä ja tavaroiden korjaamista"
+  },
+  "extra-tp0555": {
+    "title": "Uusitaan kiinteistön lämmityksen säätö ja vaihdetaan valaistus LED-tekniikkaan"
+  },
+  "extra-tp0556": {
+    "title": "Vaihdetaan kunnan vuokratalon öljylämmitys soveltuvaan vähäpäästöisempään lämmitysmuotoon"
+  },
+  "extra-tp0557": {
+    "title": "Toteutetaan kiinteistöjen energiakatselmusten nopeat säätö- ja huoltotoimet"
+  },
+  "extra-tp0558": {
+    "title": "Toteutetaan energiakatselmuksessa kannattavaksi todettu kiinteistön energiaremontti"
+  },
+  "extra-tp0559": {
+    "title": "Uusitaan kiinteistön ilmanvaihtokoneet ja otetaan lämmöntalteenotto käyttöön"
+  },
+  "extra-tp0560": {
+    "title": "Vaihdetaan ilmanvaihdon suodattimet huolto-ohjelman mukaan ja tarkistetaan painehäviöt"
+  },
+  "extra-tp0561": {
+    "title": "Vaihdetaan ilmanvaihtokoneiden puhaltimet energiatehokkaiksi ja säädetään ilmavirrat"
+  },
+  "extra-tp0562": {
+    "title": "Toteutetaan kiinteistöjen energiakatselmusten nopeat säätö- ja huoltotoimet"
+  },
+  "extra-tp0563": {
+    "title": "Siirretään kunnan toimistopalvelut peruskorjattuun energiatehokkaaseen kiinteistöön"
+  },
+  "extra-tp0564": {
+    "title": "Uusitaan vesihuollon pumput ja säädetään pumppaus tarpeenmukaiseksi"
+  },
+  "extra-tp0565": {
+    "title": "Uusitaan kiinteistön ilmanvaihtokoneet ja otetaan lämmöntalteenotto käyttöön"
+  },
+  "extra-tp0566": {
+    "title": "Korvataan koulukiinteistön öljylämmitys kohteeseen soveltuvalla vähäpäästöisellä lämmitysratkaisulla"
+  },
+  "extra-tp0567": {
+    "title": "Peruskorjataan jäähallin kylmätekniikka ja otetaan lauhdelämpö talteen"
+  },
+  "extra-tp0568": {
+    "title": "Asennetaan kiinteistöön talotekniikan automaatio ja etävalvonta"
+  },
+  "extra-tp0569": {
+    "title": "Vaihdetaan jääkiekkokaukalon valaistus LED-valaisimiksi"
+  },
+  "extra-tp0570": {
+    "title": "Rakennetaan siirtoviemäri ja keskitetään jätevesien käsittely, kun kokonaisvaikutusten vertailu puoltaa ratkaisua"
+  },
+  "extra-tp0571": {
+    "title": "Myydään tai puretaan käytöstä poistettavat kunnan kiinteistöt kunto- ja käyttötarvearvion perusteella"
+  },
+  "extra-tp0572": {
+    "title": "Vaihdetaan kiinteistöjen valaisimet LED-valaisimiksi"
+  },
+  "extra-tp0573": {
+    "title": "Vaihdetaan kiinteistöjen valaisimet LED-valaisimiksi"
+  },
+  "extra-tp0574": {
+    "title": "Säädetään huonelämpötilat tilojen käyttötarkoitukseen sopiviksi ja seurataan kulutusta sekä sisäolosuhteita"
+  },
+  "extra-tp0575": {
+    "title": "Uusitaan jätevedenpuhdistamon lietteenkuivain ja mitataan energian- ja kemikaalinkulutus"
+  },
+  "extra-tp0576": {
+    "title": "Vaihdetaan katu- ja ulkoaluevalaisimet LED-valaisimiksi ja säädetään valaistusajat"
+  },
+  "extra-tp0577": {
+    "title": "Laaditaan kunnan energiansäästötoimille toteutusaikataulu, vastuut ja vuosittainen säästölaskenta"
+  },
+  "extra-tp0578": {
+    "title": "Toteutetaan energiakatselmuksessa kannattavaksi todettu kiinteistön energiaremontti"
+  },
+  "extra-tp0579": {
+    "title": "Asennetaan kiinteistöön talotekniikan automaatio ja etävalvonta"
+  },
+  "extra-tp0580": {
+    "title": "Uusitaan palvelurakennuksen lämmöneristys peruskorjauksen yhteydessä"
+  },
+  "extra-tp0581": {
+    "title": "Vaihdetaan päiväkodin valaistus LED-valaisimiksi ja asennetaan läsnäolo-ohjaus"
+  },
+  "extra-tp0582": {
+    "title": "Vaihdetaan vanhat talotekniset laitteet energiatehokkaampiin"
+  },
+  "extra-tp0583": {
+    "title": "Korvataan kunnan vuokratalojen fossiilinen lämmitys kohteeseen mitoitetuilla lämpöpumpuilla"
+  },
+  "extra-tp0584": {
+    "title": "Saneerataan jätevedenpumppaamo ja säädetään pumppujen ohjaus"
+  },
+  "extra-tp0585": {
+    "title": "Vaihdetaan sisätilojen loisteputkivalaistus yhteensopivaan LED-ratkaisuun"
+  },
+  "extra-tp0586": {
+    "title": "Vaihdetaan kiinteistöjen valaisimet LED-valaisimiksi"
+  },
+  "extra-tp0587": {
+    "title": "Kilpailutetaan koulukiinteistön energiatehokkuuskorjaus todennettavalla säästötakuulla"
+  },
+  "extra-tp0588": {
+    "title": "Vaihdetaan käyttöikänsä päässä oleva lämpöpumppu energiatehokkaampaan ja optimoidaan järjestelmän säädöt"
+  },
+  "extra-tp0589": {
+    "title": "Poistetaan tyhjät kiinteistöt lämmitettävästä käytöstä rakennusten kunto ja turvallisuus huomioiden"
+  },
+  "extra-tp0590": {
+    "title": "Vaihdetaan kiinteistöjen valaisimet LED-valaisimiksi"
+  },
+  "extra-tp0591": {
+    "title": "Vaihdetaan vesihuollon energiasyöpöt laitteet ja optimoidaan pumppaus"
+  },
+  "extra-tp0592": {
+    "title": "Säädetään kiinteistöjen lämmitys ja ilmanvaihto käyttöaikojen mukaan"
+  },
+  "extra-tp0593": {
+    "title": "Vaihdetaan katu- ja ulkoaluevalaisimet LED-valaisimiksi ja säädetään valaistusajat"
+  },
+  "extra-tp0594": {
+    "title": "Vaihdetaan katu- ja ulkoaluevalaisimet LED-valaisimiksi ja säädetään valaistusajat"
+  },
+  "extra-tp0595": {
+    "title": "Vaihdetaan katu- ja ulkoaluevalaisimet LED-valaisimiksi ja säädetään valaistusajat"
+  },
+  "extra-tp0596": {
+    "title": "Vaihdetaan haja-asutusalueen tievalaistus LED-valaisimiksi"
+  },
+  "extra-tp0597": {
+    "title": "Sammutetaan tai himmennetään katuvalaistus hiljaisina aikoina turvallisuusarvion perusteella"
+  },
+  "extra-tp0598": {
+    "title": "Säädetään katuvalaistuksen aikaohjaus ja himmennys liikenteen sekä turvallisuuden tarpeisiin"
+  },
+  "extra-tp0599": {
+    "title": "Säädetään katuvalaistuksen aikaohjaus ja himmennys liikenteen sekä turvallisuuden tarpeisiin"
+  },
+  "extra-tp0600": {
+    "title": "Vaihdetaan kuntoradan valaisimet LED-valaisimiksi ja lisätään aikaohjaus"
+  },
+  "extra-tp0601": {
+    "title": "Vaihdetaan kiinteistöjen valaisimet LED-valaisimiksi"
+  },
+  "extra-tp0602": {
+    "title": "Vaihdetaan katu- ja ulkoaluevalaisimet LED-valaisimiksi ja säädetään valaistusajat"
+  },
+  "extra-tp0603": {
+    "title": "Vaihdetaan katu- ja ulkoaluevalaisimet LED-valaisimiksi ja säädetään valaistusajat"
+  },
+  "extra-tp0604": {
+    "title": "Vaihdetaan hiihtoladun valaisimet LED-valaisimiksi ja rajataan valaistusaika käyttöön"
+  },
+  "extra-tp0605": {
+    "title": "Vaihdetaan ulkoalueiden ja liikuntapaikkojen valaisimet LED-tekniikkaan"
+  },
+  "extra-tp0606": {
+    "title": "Vaihdetaan ulkoalueiden ja liikuntapaikkojen valaisimet LED-tekniikkaan"
+  },
+  "extra-tp0607": {
+    "title": "Vaihdetaan katu- ja ulkoaluevalaisimet LED-valaisimiksi ja säädetään valaistusajat"
+  },
+  "extra-tp0608": {
+    "title": "Vaihdetaan katu- ja ulkoaluevalaisimet LED-valaisimiksi ja säädetään valaistusajat"
+  },
+  "extra-tp0609": {
+    "title": "Korvataan koulukiinteistön öljylämmitys kohteeseen soveltuvalla vähäpäästöisellä lämmitysratkaisulla"
+  },
+  "extra-tp0610": {
+    "title": "Kilpailutetaan kiinteistökohtaiset lämmitystapamuutokset elinkaarikustannusten ja päästövertailun perusteella"
+  },
+  "extra-tp0611": {
+    "title": "Asennetaan koulukiinteistöön maalämpöjärjestelmä"
+  },
+  "extra-tp0612": {
+    "title": "Korvataan suuren kunnan kiinteistön öljylämmitys pellettilämmityksellä kokonaisvaikutusten vertailun perusteella"
+  },
+  "extra-tp0613": {
+    "title": "Korvataan päiväkodin öljylämmitys maalämmöllä"
+  },
+  "extra-tp0614": {
+    "title": "Korvataan päiväkodin öljylämmitys maalämmöllä"
+  },
+  "extra-tp0615": {
+    "title": "Korvataan kunnan kiinteistön öljylämmitys kohteeseen soveltuvalla ratkaisulla"
+  },
+  "extra-tp0616": {
+    "title": "Asennetaan kunnan kiinteistöön kohteeseen mitoitettu maalämpöjärjestelmä"
+  },
+  "extra-tp0617": {
+    "title": "Korvataan kunnan varikon öljylämmitys vähäpäästöisellä lämmitysratkaisulla"
+  },
+  "extra-tp0618": {
+    "title": "Korvataan kunnan toimistokiinteistön öljylämmitys maalämmöllä"
+  },
+  "extra-tp0619": {
+    "title": "Kilpailutetaan kiinteistökohtaiset lämmitystapamuutokset elinkaarikustannusten ja päästövertailun perusteella"
+  },
+  "extra-tp0620": {
+    "title": "Liitetään kaasulämmitteinen kiinteistö vähäpäästöiseen kaukolämpöön, kun päästövertailu puoltaa ratkaisua"
+  },
+  "extra-tp0621": {
+    "title": "Korvataan koulukiinteistöjen öljylämmitys hakelämmöllä polttoaineen saatavuus ja kokonaisvaikutukset arvioiden"
+  },
+  "extra-tp0622": {
+    "title": "Kilpailutetaan kunnan rakennusten uusiutuvan energian ratkaisut ja järjestetään asukkaille energianeuvontapäivä"
+  },
+  "extra-tp0623": {
+    "title": "Peruskorjataan koulurakennus asetettuun energialuokkatavoitteeseen ja todennetaan energiankulutus"
+  },
+  "extra-tp0624": {
+    "title": "Korvataan kunnan vuokratalojen fossiilinen lämmitys kohteeseen mitoitetuilla lämpöpumpuilla"
+  },
+  "extra-tp0625": {
+    "title": "Asennetaan päiväkotien ja kulttuurirakennusten katoille aurinkosähköjärjestelmät"
+  },
+  "extra-tp0626": {
+    "title": "Asennetaan kunnan vuokrataloihin aurinkosähköä ja seurataan oman tuotannon osuutta kulutuksesta"
+  },
+  "extra-tp0627": {
+    "title": "Asennetaan aurinkosähköjärjestelmät soveltuviin kunnan kiinteistöihin"
+  },
+  "extra-tp0628": {
+    "title": "Asennetaan vedenottamoon aurinkosähköjärjestelmä"
+  },
+  "extra-tp0629": {
+    "title": "Asennetaan jäähallin tai koulun katolle aurinkosähköjärjestelmä"
+  },
+  "extra-tp0630": {
+    "title": "Vuokrataan soveltuva kunnan maa-alue aurinkovoimalalle luonto- ja maankäyttövaikutusten arvioinnin jälkeen"
+  },
+  "extra-tp0631": {
+    "title": "Asennetaan aurinkosähköjärjestelmät soveltuviin kunnan kiinteistöihin"
+  },
+  "extra-tp0632": {
+    "title": "Järjestetään yritysten aurinkosähkön yhteishankintakierros"
+  },
+  "extra-tp0633": {
+    "title": "Kartoitetaan uusiutuvan energian tuotantokohteet ja valmistellaan toteuttajien investointineuvottelut"
+  },
+  "extra-tp0634": {
+    "title": "Julkaistaan aurinkovoimahankkeiden lupaprosessin ohje ja nimetään asioinnin yhteyshenkilö"
+  },
+  "extra-tp0635": {
+    "title": "Asennetaan kunnan palvelukeskuksen katolle aurinkosähköjärjestelmä"
+  },
+  "extra-tp0636": {
+    "title": "Laaditaan kunnan energiayhtiölle investointiohjelma fossiilisen tuotannon korvaamiseksi"
+  },
+  "extra-tp0637": {
+    "title": "Rakennetaan puuttuva kävely- ja pyöräilyväylän osuus"
+  },
+  "extra-tp0638": {
+    "title": "Asennetaan runkolukittavat pyörätelineet keskeisten palvelujen yhteyteen"
+  },
+  "extra-tp0639": {
+    "title": "Korjataan kävely- ja pyöräilyreittien puuttuvat yhteydet"
+  },
+  "extra-tp0640": {
+    "title": "Laaditaan kävelyn ja pyöräilyn reittikohtainen korjausohjelma kustannusarvioineen"
+  },
+  "extra-tp0641": {
+    "title": "Laaditaan kävelyn ja pyöräilyn reittikohtainen korjausohjelma kustannusarvioineen"
+  },
+  "extra-tp0642": {
+    "title": "Rakennetaan joukkoliikenteen solmukohtaan esteettömät kulkuyhteydet ja pyörien liityntäpysäköinti"
+  },
+  "extra-tp0643": {
+    "title": "Hankitaan kiinteistönhoitoon tavarapyörä ja korvataan sillä soveltuvat lyhyet ajomatkat"
+  },
+  "extra-tp0644": {
+    "title": "Korjataan kävely- ja pyöräilyreittien puuttuvat yhteydet"
+  },
+  "extra-tp0645": {
+    "title": "Otetaan kunnan henkilöstölle käyttöön työsuhdepyöräetu ja järjestetään kokeilupäivä"
+  },
+  "extra-tp0646": {
+    "title": "Asennetaan kaukolämmön tuotantoon sähkökattila ja ohjataan käyttöä sähkön hinnan sekä päästöjen mukaan"
+  },
+  "extra-tp0647": {
+    "title": "Asennetaan kaukolämmön tuotantoon sähkökattila ja ohjataan käyttöä sähkön hinnan sekä päästöjen mukaan"
+  },
+  "extra-tp0648": {
+    "title": "Liitetään kunnan varasto- tai logistiikkarakennus vähäpäästöiseen kaukolämpöön"
+  },
+  "extra-tp0649": {
+    "title": "Korvataan päiväkodin öljylämmitys hakelämmöllä kohteen kokonaisvaikutusten vertailun perusteella"
+  },
+  "extra-tp0650": {
+    "title": "Asennetaan kaukolämmön tuotantoon sähkökattila ja ohjataan käyttöä sähkön hinnan sekä päästöjen mukaan"
+  },
+  "extra-tp0651": {
+    "title": "Korvataan fossiilista lämpöä tuottava lämpökeskus vähäpäästöisellä tuotannolla"
+  },
+  "extra-tp0652": {
+    "title": "Vertaillaan kaavavaihtoehtojen päästöt, hiilivarastot ja liikkumistarve ennen kaavaratkaisun valintaa"
+  },
+  "extra-tp0653": {
+    "title": "Vertaillaan kaavavaihtoehtojen päästöt, hiilivarastot ja liikkumistarve ennen kaavaratkaisun valintaa"
+  },
+  "extra-tp0654": {
+    "title": "Vertaillaan kaavavaihtoehtojen päästöt, hiilivarastot ja liikkumistarve ennen kaavaratkaisun valintaa"
+  },
+  "extra-tp0655": {
+    "title": "Osoitetaan tuulivoimalle soveltuvat alueet kaavoituksessa luonto-, maisema- ja asutusvaikutusten arvioinnin jälkeen"
+  },
+  "extra-tp0656": {
+    "title": "Rakennetaan joukkoliikenteen solmukohtaan esteettömät kulkuyhteydet ja pyörien liityntäpysäköinti"
+  },
+  "extra-tp0657": {
+    "title": "Vertaillaan kaavavaihtoehtojen päästöt, hiilivarastot ja liikkumistarve ennen kaavaratkaisun valintaa"
+  },
+  "extra-tp0658": {
+    "title": "Otetaan kaavahankkeissa käyttöön yhtenäinen ilmastovaikutusten laskentamenetelmä"
+  },
+  "extra-tp0659": {
+    "title": "Laaditaan aurinkovoima-alueen kaava luonto- ja vesistövaikutusten arvioinnin pohjalta"
+  },
+  "extra-tp0660": {
+    "title": "Rakennetaan julkisia sähköautojen latauspisteitä valittuihin kohteisiin"
+  },
+  "extra-tp0661": {
+    "title": "Rakennetaan sähköautojen latauspisteet kunnan kiinteistöjen pysäköintialueille"
+  },
+  "extra-tp0662": {
+    "title": "Rakennetaan sähköautojen latauspisteet kunnan kiinteistöjen pysäköintialueille"
+  },
+  "extra-tp0663": {
+    "title": "Rakennetaan sähköautojen latauspisteet kunnan kiinteistöjen pysäköintialueille"
+  },
+  "extra-tp0664": {
+    "title": "Rakennetaan julkisia sähköautojen latauspisteitä valittuihin kohteisiin"
+  },
+  "extra-tp0665": {
+    "title": "Rakennetaan sähköautojen latauspisteet kunnan kiinteistöjen pysäköintialueille"
+  },
+  "extra-tp0666": {
+    "title": "Rakennetaan monitoimihalli, jonka runkoratkaisu ja energiankulutus valitaan elinkaarivertailun perusteella"
+  },
+  "extra-tp0667": {
+    "title": "Rakennetaan palvelurakennus, jossa lämmitystä, ilmanvaihtoa ja valaistusta ohjataan käyttöasteen mukaan"
+  },
+  "extra-tp0668": {
+    "title": "Kilpailutetaan koulurakennus elinkaarimallilla, jossa energiankulutukselle ja ylläpidolle asetetaan mitattavat tavoitteet"
+  },
+  "extra-tp0669": {
+    "title": "Asennetaan palvelurakennukseen maalämpö ja aurinkopaneelit"
+  },
+  "extra-tp0670": {
+    "title": "Laaditaan seudullisen raideliikenneyhteyden tarve-, kustannus- ja päästöselvitys"
+  },
+  "extra-tp0671": {
+    "title": "Sovitetaan joukkoliikenteen reitit ja aikataulut palvelujen ja työmatkojen tarpeisiin"
+  },
+  "extra-tp0672": {
+    "title": "Rakennetaan joukkoliikenteen runkoyhteys seudullisen palvelutarve- ja päästövertailun perusteella"
+  },
+  "extra-tp0673": {
+    "title": "Korvataan joukkoliikenteen fossiilista käyttövoimaa sähköllä ja kestävyyskriteerit täyttävillä uusiutuvilla polttoaineilla"
+  },
+  "extra-tp0674": {
+    "title": "Lisätään kuljetuspalvelun tarjouspyyntöön päästö- ja energiankulutuskriteerit"
+  },
+  "extra-tp0675": {
+    "title": "Laaditaan kunnan ajoneuvoille käyttöprofiileihin perustuva sähköistämis- ja uusimissuunnitelma"
+  },
+  "extra-tp0676": {
+    "title": "Kilpailutetaan kunnan hankkima joukkoliikenne sähköbussikalustolla"
+  },
+  "extra-tp0677": {
+    "title": "Laaditaan kouluille ilmasto- ja kestävyyskasvatuksen vuosikello ja toteutetaan siihen kirjatut oppimistehtävät"
+  },
+  "extra-tp0678": {
+    "title": "Laaditaan opettajille ikäryhmittäiset ilmasto- ja kestävyyskasvatuksen oppimistehtävät"
+  },
+  "extra-tp0679": {
+    "title": "Laaditaan kouluille ilmasto- ja kestävyyskasvatuksen vuosikello ja toteutetaan siihen kirjatut oppimistehtävät"
+  },
+  "extra-tp0680": {
+    "title": "Toteutetaan koulujen kasvisruokaviikko ja kerätään palaute reseptien kehittämiseksi"
+  },
+  "extra-tp0681": {
+    "title": "Asennetaan puuttuvat lajitteluastiat ja yhtenäiset opasteet kunnan kiinteistöihin"
+  },
+  "extra-tp0682": {
+    "title": "Kokeillaan yhteisiä vieras-, työ- ja varastotiloja kunnan vuokra-asuntokohteessa"
+  },
+  "extra-tp0683": {
+    "title": "Laaditaan biokaasun raaka-aine-, sijoitus- ja kannattavuusselvitys"
+  },
+  "extra-tp0684": {
+    "title": "Päivitetään hankintaohjeeseen ilmasto- ja kiertotalouskriteerit"
+  },
+  "extra-tp0685": {
+    "title": "Päivitetään hankintaohjeeseen ilmasto- ja kiertotalouskriteerit"
+  },
+  "extra-tp0686": {
+    "title": "Otetaan käyttöön kunnan sisäinen kalustepörssi ja tarkistetaan saatavuus ennen uusia hankintoja"
+  },
+  "extra-tp0687": {
+    "title": "Järjestetään matkailu- ja virkistysalueiden siivoustalkoot ja sijoitetaan lajittelupisteet kävijäreiteille"
+  },
+  "extra-tp0688": {
+    "title": "Hankitaan yhteiskompostorit soveltuviin kohteisiin ja sovitaan hoitovastuut"
+  },
+  "extra-tp0689": {
+    "title": "Rakennetaan logistiikka-alueelle raskaan kaluston latauspisteet yhteistyössä operaattorin kanssa"
+  },
+  "extra-tp0690": {
+    "title": "Asennetaan kouluruokalaan hävikkivaaka ja näytetään päivittäinen lautashävikki ruokailijoille"
+  },
+  "extra-tp0691": {
+    "title": "Vaihdetaan ruokalistan suuripäästöisiä annoksia testattuihin kasvisannoksiin ja seurataan menekkiä"
+  },
+  "extra-tp0692": {
+    "title": "Tarjotaan kouluissa päivittäin maistuva kasvisruokavaihtoehto ja seurataan sen menekkiä"
+  },
+  "extra-tp0693": {
+    "title": "Rakennetaan koulun runko puusta, kun elinkaari- ja toimivuusvertailu puoltaa ratkaisua"
+  },
+  "extra-tp0694": {
+    "title": "Lasketaan ilmastoinvestointien elinkaarikustannukset ja ajoitetaan kannattavat kohteet talousarvioon"
+  },
+  "extra-tp0695": {
+    "title": "Sijoitetaan uusi rakentaminen olemassa olevien verkostojen ja palvelujen yhteyteen"
+  },
+  "extra-tp0696": {
+    "title": "Asetetaan liikuntahallin tai päiväkodin rakennushankkeelle mitattavat energia-, materiaali- ja päästökriteerit",
+    "description": "Kirjataan energian kulutustavoite, materiaalien uudelleenkäytön vaatimukset ja elinkaaripäästöjen raja-arvo hankesuunnitelmaan ja tarjouspyyntöön. Todennetaan vaatimusten täyttyminen suunnittelussa sekä rakennuksen vastaanotossa."
+  },
+  "extra-tp0697": {
+    "title": "Käynnistetään ylijäämäruoan myynti kunnan ruokapalveluissa ja järjestetään nouto sekä maksaminen"
+  },
+  "extra-tp0698": {
+    "title": "Hankitaan alkuperältään varmennettua uusiutuvaa sähköä kunnan käyttöön"
+  },
+  "extra-tp0699": {
+    "title": "Laaditaan uusiutuvan vedyn hankkeille alueellinen sijoittumis- ja infrastruktuuriselvitys"
+  },
+  "extra-tp0700": {
+    "title": "Hankitaan alkuperältään varmennettua uusiutuvaa sähköä kunnan käyttöön"
+  },
+  "extra-tp0701": {
+    "title": "Hankitaan alkuperältään varmennettua uusiutuvaa sähköä kunnan käyttöön"
+  },
+  "extra-tp0702": {
+    "title": "Vertaillaan raskaan liikenteen sähkö- ja uusiutuvien polttoaineiden ratkaisuja alueen kuljetusyritysten kanssa"
+  },
+  "extra-tp0703": {
+    "title": "Vertaillaan kunnan turvemaametsien käsittelyvaihtoehdot päästöjen, vesitalouden ja luontoarvojen perusteella"
+  },
+  "extra-tp0704": {
+    "title": "Hankitaan suojeluun soveltuvaa metsämaata ja valmistellaan kohteiden pysyvä suojelu"
+  },
+  "extra-tp0705": {
+    "title": "Vaihdetaan uusittava kunnan huolto- tai henkilöauto sähköautoon käyttötarpeen perusteella"
+  },
+  "extra-tp0706": {
+    "title": "Lisätään kuljetuspalvelun tarjouspyyntöön päästö- ja energiankulutuskriteerit"
+  },
+  "extra-tp0707": {
+    "title": "Vaihdetaan uusittava kunnan huolto- tai henkilöauto sähköautoon käyttötarpeen perusteella"
+  },
+  "extra-tp0708": {
+    "title": "Osoitetaan tuulivoimalle soveltuvat alueet kaavoituksessa luonto-, maisema- ja asutusvaikutusten arvioinnin jälkeen"
+  },
+  "extra-tp0709": {
+    "title": "Päivitetään ilmastosuunnitelman toimenpiteet, vastuut, aikataulut ja mittarit"
+  },
+  "extra-tp0710": {
+    "title": "Päivitetään ilmastosuunnitelman toimenpiteet, vastuut, aikataulut ja mittarit"
+  },
+  "extra-tp0711": {
+    "title": "Laaditaan kunnan energiansäästötoimille toteutusaikataulu, vastuut ja vuosittainen säästölaskenta"
+  },
+  "extra-tp0712": {
+    "title": "Nimetään ilmastotyöryhmä ja sovitaan toimenpiteiden seuranta sekä päätösten valmisteluvastuut"
+  },
+  "extra-tp0713": {
+    "title": "Laaditaan keskustan katu- ja viheralueille toteutussuunnitelma, jossa osoitetaan kävely-yhteydet ja hulevesiratkaisut"
+  },
+  "extra-tp0714": {
+    "title": "Kartoitetaan uusiutuvan energian tuotantoon soveltuvat alueet ja liittymämahdollisuudet"
+  },
+  "extra-tp0715": {
+    "title": "Päivitetään ilmastosuunnitelman toimenpiteet, vastuut, aikataulut ja mittarit"
+  },
+  "extra-tp0716": {
+    "title": "Päivitetään ilmastosuunnitelman toimenpiteet, vastuut, aikataulut ja mittarit"
+  },
+  "extra-tp0717": {
+    "title": "Kirjataan kuntastrategiaan mitattavat ilmastotavoitteet, vastuut ja vuosittainen seuranta"
+  },
+  "extra-tp0718": {
+    "title": "Päivitetään ilmastosuunnitelman toimenpiteet, vastuut, aikataulut ja mittarit"
+  },
+  "extra-tp0719": {
+    "title": "Laaditaan kiinteistökannan käyttö-, korjaus- ja luopumissuunnitelma"
+  },
+  "extra-tp0720": {
+    "title": "Päivitetään kestävän liikkumisen toimenpideohjelma kohteineen, kustannuksineen ja toteutusjärjestyksineen"
+  },
+  "extra-tp0721": {
+    "title": "Otetaan ilmastobudjetti osaksi kunnan talousarviota ja tilinpäätöstä"
+  },
+  "extra-tp0722": {
+    "title": "Laaditaan kunnan energiantuotannon ja kiinteistöjen energiatehokkuuden investointiohjelma"
+  },
+  "extra-tp0724": {
+    "title": "Valitaan elinkeino-ohjelmaan nimetyt vähähiiliset yritysalue- ja infrastruktuurihankkeet"
+  },
+  "extra-tp0725": {
+    "title": "Kirjataan ilmastotoimenpiteiden käyttömenot ja investoinnit talousarvioon ja seurataan toteumaa"
+  },
+  "extra-tp0726": {
+    "title": "Päivitetään ilmastosuunnitelman toimenpiteet, vastuut, aikataulut ja mittarit"
+  },
+  "extra-tp0727": {
+    "title": "Kirjataan ilmastotoimenpiteiden käyttömenot ja investoinnit talousarvioon ja seurataan toteumaa"
+  },
+  "extra-tp0728": {
+    "title": "Laaditaan kävely- ja pyöräilyverkon toteutussuunnitelma ja hyväksytään ensimmäisten kohteiden rahoitus"
+  },
+  "extra-tp0729": {
+    "title": "Päivitetään ilmastosuunnitelman toimenpiteet, vastuut, aikataulut ja mittarit"
+  },
+  "extra-tp0730": {
+    "title": "Lasketaan ilmastoinvestointien elinkaarikustannukset ja ajoitetaan kannattavat kohteet talousarvioon"
+  },
+  "extra-tp0731": {
+    "title": "Vertaillaan puu- ja muiden runkoratkaisujen elinkaaripäästöt rakennushankkeen suunnittelussa"
+  },
+  "extra-tp0732": {
+    "title": "Toteutetaan kunnan kiinteistössä energiansäästökokeilu ja mitataan kulutuksen muutos"
+  },
+  "extra-tp0733": {
+    "title": "Toteutetaan kunnan kiinteistössä energiansäästökokeilu ja mitataan kulutuksen muutos"
+  },
+  "extra-tp0734": {
+    "title": "Katselmoidaan uimahallin ja jäähallin energiankäyttö sekä lasketaan lämmön talteenoton kannattavuus"
+  },
+  "extra-tp0735": {
+    "title": "Teetetään kunnan kiinteistöjen energiakatselmukset ja aikataulutetaan korjaukset"
+  },
+  "extra-tp0736": {
+    "title": "Otetaan ilmastobudjetti osaksi kunnan talousarviota ja tilinpäätöstä"
+  },
+  "extra-tp0737": {
+    "title": "Päivitetään ilmastosuunnitelman toimenpiteet, vastuut, aikataulut ja mittarit"
+  },
+  "extra-tp0738": {
+    "title": "Otetaan käyttöön kunnan sisäinen kalustepörssi ja tarkistetaan saatavuus ennen uusia hankintoja"
+  },
+  "extra-tp0739": {
+    "title": "Kartoitetaan kunnan uusiutuvan energian tuotantopaikat ja arvioidaan niiden toteutettavuus"
+  },
+  "extra-tp0740": {
+    "title": "Järjestetään osallistuvan budjetoinnin haku yhteiskuljetuskokeilulle ja toteutetaan valittu kokeilu"
+  },
+  "extra-tp0741": {
+    "title": "Toteutetaan kunnan kiinteistössä energiansäästökokeilu ja mitataan kulutuksen muutos"
+  },
+  "extra-tp0742": {
+    "title": "Kilpailutetaan raskaan liikenteen latausalueen toteutus ja operaattori"
+  },
+  "extra-tp0743": {
+    "title": "Optimoidaan kunnanviraston ja kirjaston lämmityksen, ilmanvaihdon ja valaistuksen käyttöajat"
+  },
+  "extra-tp0744": {
+    "title": "Vertaillaan kunnan energiantuotannon tulevaisuusvaihtoehtojen kustannukset, päästöt ja toimitusvarmuus"
+  },
+  "extra-tp0745": {
+    "title": "Lasketaan yritysalueen energiankulutus, tuotantomahdollisuudet ja hukkalämmön hyödyntäminen"
+  },
+  "extra-tp0746": {
+    "title": "Toteutetaan maatiloilla energia- tai ravinnetehokkuuskokeilu yhteistyössä neuvontaorganisaation kanssa"
+  },
+  "extra-tp0748": {
+    "title": "Laaditaan kävelyn ja pyöräilyn reittikohtainen korjausohjelma kustannusarvioineen"
+  },
+  "extra-tp0749": {
+    "title": "Järjestetään viljelijöiden työpaja, jossa vertaillaan ja valitaan tilakohtaisia energia- tai ravinneratkaisuja"
+  },
+  "extra-tp0750": {
+    "title": "Järjestetään pyöräilyviikko, yhteislenkit ja pyöränhuoltopiste"
+  },
+  "extra-tp0751": {
+    "title": "Otetaan käyttöön ilmastotoimien yhteinen seurantataulukko tai verkkopalvelu"
+  },
+  "extra-tp0752": {
+    "title": "Muutetaan valittu nurmialue niityksi ja lisätään alueelle kotoperäisiä kasveja"
+  },
+  "extra-tp0753": {
+    "title": "Perustetaan kirjastoon ilmastoaiheinen aineistopiste ja järjestetään korjaus- tai lainaustapahtumia"
+  },
+  "extra-tp0754": {
+    "title": "Vertaillaan kaavavaihtoehtojen päästöt, hiilivarastot ja liikkumistarve ennen kaavaratkaisun valintaa"
+  },
+  "extra-tp0755": {
+    "title": "Paikannetaan viemäriverkoston vuotovedet ja saneerataan vuotavat kaivot ja putkiosuudet"
+  },
+  "extra-tp0756": {
+    "title": "Toteutetaan yrityskysely ilmastoriskeistä ja energia- sekä materiaalitehokkuuden investointitarpeista"
+  },
+  "extra-tp0757": {
+    "title": "Järjestetään tilapäinen kierrätys- ja korjauspalvelujen esittelypiste kunnan tilassa"
+  },
+  "extra-tp0758": {
+    "title": "Laaditaan teollisuusalueen ja asutuksen väliselle viheralueelle hoito- ja virkistyskäyttösuunnitelma"
+  },
+  "extra-tp0759": {
+    "title": "Kootaan yritysten ilmastoverkosto, jossa kukin osallistuja valitsee mitattavan toimenpiteen ja raportoi tuloksen"
+  },
+  "extra-tp0760": {
+    "title": "Toteutetaan kuntien yhteinen energiatehokkuus- tai kiertotaloushankinta ja sovitaan työnjako"
+  },
+  "extra-tp0761": {
+    "title": "Valmistellaan liittyminen julkisen alan energiatehokkuussopimukseen ja nimetään toimeenpanon vastuut"
+  },
+  "extra-tp0763": {
+    "title": "Valmistellaan liittyminen kuntien resurssiviisausverkostoon ja nimetään yhteisen kehittämistyön vastuuhenkilö"
+  },
+  "extra-tp0764": {
+    "title": "Laaditaan kiertotaloussitoumus, jossa nimetään toimet, vastuut ja seurattavat materiaalivirrat"
+  },
+  "extra-tp0765": {
+    "title": "Asennetaan puuttuvat lajitteluastiat ja yhtenäiset opasteet kunnan kiinteistöihin"
+  },
+  "extra-tp0766": {
+    "title": "Toteutetaan koulujen kasvisruokaviikko ja kerätään palaute reseptien kehittämiseksi"
+  },
+  "extra-tp0768": {
+    "title": "Rakennetaan julkisia sähköautojen latauspisteitä valittuihin kohteisiin"
+  },
+  "extra-tp0769": {
+    "title": "Säädetään katu- ja aluevalaistuksen aika- ja hämäräohjaus"
+  },
+  "extra-tp0770": {
+    "title": "Päivitetään hankintaohjeeseen ilmasto- ja kiertotalouskriteerit"
+  },
+  "extra-tp0771": {
+    "title": "Asennetaan kunnan toimistotiloihin läsnäoloon ja päivänvaloon reagoiva valaistusohjaus"
+  },
+  "extra-tp0773": {
+    "title": "Myydään tai jaetaan kunnan henkilöstöravintolan ylijäämäruoka sovituin noutoajoin"
+  },
+  "extra-tp0774": {
+    "title": "Rakennetaan joukkoliikenteen solmukohtaan esteettömät kulkuyhteydet ja pyörien liityntäpysäköinti"
+  },
+  "extra-tp0775": {
+    "title": "Sovitetaan joukkoliikenteen reitit ja aikataulut palvelujen ja työmatkojen tarpeisiin"
+  },
+  "extra-tp0776": {
+    "title": "Vertaillaan kaavavaihtoehtojen päästöt, hiilivarastot ja liikkumistarve ennen kaavaratkaisun valintaa"
+  },
+  "extra-tp0777": {
+    "title": "Teetetään kunnan kiinteistöjen energiakatselmukset ja aikataulutetaan korjaukset"
+  },
+  "extra-tp0778": {
+    "title": "Rakennetaan julkisia sähköautojen latauspisteitä valittuihin kohteisiin"
+  },
+  "extra-tp0779": {
+    "title": "Vuokrataan soveltuva kunnan maa-alue aurinkovoimalalle luonto- ja maankäyttövaikutusten arvioinnin jälkeen"
+  },
+  "extra-tp0780": {
+    "title": "Vuokrataan soveltuva kunnan maa-alue aurinkovoimalalle luonto- ja maankäyttövaikutusten arvioinnin jälkeen"
+  },
+  "extra-tp0781": {
+    "title": "Asennetaan runkolukittavat, katetut pyörätelineet kouluille ja joukkoliikenteen pysäkeille"
+  },
+  "extra-tp0782": {
+    "title": "Järjestetään rakennusten omistajille energiaremonttien suunnitteluilta"
+  },
+  "extra-tp0783": {
+    "title": "Osoitetaan tuulivoimalle soveltuvat alueet kaavoituksessa luonto-, maisema- ja asutusvaikutusten arvioinnin jälkeen"
+  },
+  "extra-tp0784": {
+    "title": "Ennallistetaan valittu suo maanomistajan kanssa laaditun suunnitelman mukaan"
+  },
+  "extra-tp0785": {
+    "title": "Järjestetään maatiloille ja asukkaille aurinkosähkön neuvontatilaisuus ja yhteishankintakierros"
+  },
+  "extra-tp0786": {
+    "title": "Otetaan käyttöön ilmastotoimien yhteinen seurantataulukko tai verkkopalvelu"
+  },
+  "extra-tp0787": {
+    "title": "Lisätään päätösesityksiin ilmastovaikutusten arviointi ja tarjouspyyntöihin mitattavat ympäristökriteerit"
+  },
+  "extra-tp0788": {
+    "title": "Toteutetaan kunnan kiinteistöissä energia- ja materiaalikatselmukset ja korjataan havaitut häviöt"
+  },
+  "extra-tp0789": {
+    "title": "Lisätään rakennus- ja korjaushankkeiden hankesuunnitelmiin energia- ja materiaalivaatimukset"
+  },
+  "extra-tp0790": {
+    "title": "Kootaan vajaakäyttöiset toiminnot yhteisiin tiloihin ja luovutaan tarpeettomista tiloista"
+  },
+  "extra-tp0791": {
+    "title": "Kartoitetaan uusiutuvan energian tuotantokohteet ja valmistellaan toteuttajien investointineuvottelut"
+  },
+  "extra-tp0792": {
+    "title": "Toteutetaan liikkumissuunnitelmasta valittu pyöräreitin, pysäkin tai risteyksen parannus"
+  },
+  "extra-tp0793": {
+    "title": "Otetaan käyttöön henkilöstön työmatkaliikkumisen suunnitelma ja pyöräpysäköinnin parannukset"
+  },
+  "extra-tp0794": {
+    "title": "Hankitaan kunnan käyttöön yhteiskäyttöauto ja avataan varausjärjestelmä sovituille käyttäjäryhmille"
+  },
+  "extra-tp0795": {
+    "title": "Yhdistetään soveltuvat koulu- ja palvelukuljetukset yhteiseen reitti- ja aikataulusuunnitteluun"
+  },
+  "extra-tp0796": {
+    "title": "Sovitetaan lähipalvelujen aukioloajat asiointiliikenteen aikatauluihin"
+  },
+  "extra-tp0797": {
+    "title": "Kunnostetaan luontomatkailureitti ja julkaistaan saapumisohjeet ilman omaa autoa"
+  },
+  "extra-tp0798": {
+    "title": "Mitataan kouluruokailuun osallistuminen ja kokeillaan oppilaiden valitsemia ruokalista- tai ruokailutilamuutoksia"
+  },
+  "extra-tp0799": {
+    "title": "Jaetaan elintarvikehankinta tarkoituksenmukaisiin osiin ja järjestetään tuottajien markkinavuoropuhelu"
+  },
+  "extra-tp0800": {
+    "title": "Järjestetään ruoantuottajien ja ostajien työpaja resurssitehokkaan tuotannon kokeilun sopimiseksi"
+  },
+  "extra-tp0801": {
+    "title": "Lisätään kotimaista järvikalaa ruokalistalle ja kilpailutetaan jalostettujen kalatuotteiden toimitus"
+  },
+  "extra-tp0802": {
+    "title": "Verrataan kaavavaihtoehtojen liikenne-, energia- ja maankäyttöpäästöt"
+  },
+  "extra-tp0803": {
+    "title": "Verrataan kunnan metsien käsittelyvaihtoehdot ja päivitetään metsäsuunnitelma"
+  },
+  "extra-tp0804": {
+    "title": "Merkitään arvokkaat luontokohteet kunnan paikkatietoon ja rajataan ne haitallisten töiden ulkopuolelle"
+  },
+  "extra-tp0805": {
+    "title": "Poistetaan vieraslajit valitulta alueelta ja sovitaan jälkiseuranta"
+  },
+  "extra-tp0806": {
+    "title": "Mitataan vesistön kuormitus ja toteutetaan valittu kuormitusta vähentävä kunnostus"
+  },
+  "extra-tp0807": {
+    "title": "Päivitetään pohjaveden suojelusuunnitelma ja aikataulutetaan riskikohteiden korjaukset"
+  },
+  "extra-tp0808": {
+    "title": "Laaditaan kunnan ja kumppanien yhteinen ilmastoviestinnän vuosikello ja toteutetaan sovitut tapahtumat"
+  },
+  "extra-tp0809": {
+    "title": "Laaditaan kouluille ilmasto- ja kestävyyskasvatuksen vuosikello ja toteutetaan siihen kirjatut oppimistehtävät"
+  },
+  "extra-tp0810": {
+    "title": "Järjestetään asukkaille käytännön tilaisuus energiansäästöstä, lajittelusta tai lähiympäristön hoidosta"
+  },
+  "extra-tp0811": {
+    "title": "Järjestetään asukkaille käytännön energiansäästö- ja korjaustyöpaja"
+  },
+  "extra-tp0812": {
+    "title": "Lasketaan aurinkosähkön soveltuvuus ja kannattavuus jokaisen rakennusinvestoinnin hankesuunnittelussa"
+  },
+  "extra-tp0813": {
+    "title": "Asennetaan kohteeseen soveltuva lämpöpumppu"
+  },
+  "extra-tp0814": {
+    "title": "Hankitaan alkuperältään varmennettua uusiutuvaa sähköä kunnan käyttöön"
+  },
+  "extra-tp0815": {
+    "title": "Asetetaan kunnan peruskorjaukselle todennettavat ympäristöluokituksen kriteerit ja seurataan niiden täyttymistä"
+  },
+  "extra-tp0816": {
+    "title": "Vaaditaan rakennussuunnittelun tarjouspyynnössä energiatehokkuusosaaminen ja toteutusvaihtoehtojen energiavertailu"
+  },
+  "extra-tp0817": {
+    "title": "Laaditaan kiinteistöjen energiansäästö- ja energiapulaan varautumisen toimintaohje"
+  },
+  "extra-tp0818": {
+    "title": "Asennetaan kiinteistöön talotekniikan automaatio ja etävalvonta"
+  },
+  "extra-tp0819": {
+    "title": "Asennetaan kriittisiin kiinteistöihin ja vesihuollon kohteisiin mitoitettu varavoima ja testataan sen käyttö"
+  },
+  "extra-tp0820": {
+    "title": "Korvataan kaukolämmön turve valitulla vähäpäästöisemmällä tuotantoratkaisulla"
+  },
+  "extra-tp0821": {
+    "title": "Julkaistaan energiansäästöohjeet ja järjestetään asukkaille lämmitystapaneuvontaa"
+  },
+  "extra-tp0822": {
+    "title": "Näytetään kunnan aurinkovoimaloiden tuotanto ja omakäyttöosuus julkisessa seurantanäkymässä"
+  },
+  "extra-tp0823": {
+    "title": "Vaihdetaan ulkoalueiden ja liikuntapaikkojen valaisimet LED-tekniikkaan"
+  },
+  "extra-tp0824": {
+    "title": "Lisätään rakennushankkeen suunnitelmiin helle-, tulva- ja myrskyriskien hallintaratkaisut"
+  },
+  "extra-tp0825": {
+    "title": "Varataan talousarvioon määräraha kunnan kiinteistöjen energiakatselmuksille ja nimetään toteutuskohteet"
+  },
+  "extra-tp0826": {
+    "title": "Järjestetään asukkaille omatoimisen varautumisen koulutus ja jaetaan toimintaohje häiriötilanteisiin"
+  },
+  "extra-tp0827": {
+    "title": "Järjestetään henkilöstölle tehtäväkohtainen ilmastokoulutus ja sovitaan työyksiköiden käytännön muutokset"
+  },
+  "extra-tp0828": {
+    "title": "Sovitetaan joukkoliikenteen aikataulut suurten työpaikkojen työvuoroihin ja kokeillaan uusia vuoroja"
+  },
+  "extra-tp0829": {
+    "title": "Käynnistetään esteetön kutsuohjattu asiointiliikenne"
+  },
+  "extra-tp0830": {
+    "title": "Rakennetaan puuttuva kävely- ja pyöräilyväylän osuus"
+  },
+  "extra-tp0831": {
+    "title": "Asetetaan talvihoidon kilpailutuksessa kalustolle päästö- ja energiatehokkuuskriteerit"
+  },
+  "extra-tp0832": {
+    "title": "Otetaan käyttöön henkilöstön työsuhdepyöräetu"
+  },
+  "extra-tp0833": {
+    "title": "Kartoitetaan pyöräpysäköinnin puutteet ja laaditaan telineiden asennusohjelma"
+  },
+  "extra-tp0834": {
+    "title": "Otetaan käyttöön yhteiskäyttöpyörät tai laajennetaan niiden noutopisteitä palvelujen yhteyteen"
+  },
+  "extra-tp0835": {
+    "title": "Rakennetaan julkisia sähköautojen latauspisteitä valittuihin kohteisiin"
+  },
+  "extra-tp0836": {
+    "title": "Sovitaan henkilöstön etätyökäytännöt ja järjestetään etäkokousten välineet"
+  },
+  "extra-tp0837": {
+    "title": "Yhdistetään kunnan toimistotiloja ja avataan vapaita kokous- sekä kirjastotiloja iltakäyttöön"
+  },
+  "extra-tp0838": {
+    "title": "Kokeillaan joukkoliikenteen uusia vuoroja tai lipputuotteita matkustajakyselyn perusteella"
+  },
+  "extra-tp0839": {
+    "title": "Lasketaan liikennemäärät samoissa mittauspisteissä vuosittain ja päivitetään kulkutapaseuranta"
+  },
+  "extra-tp0840": {
+    "title": "Korjataan kävely- ja pyöräreittien katkokset sekä vaaralliset risteyskohdat"
+  },
+  "extra-tp0841": {
+    "title": "Lisätään rakennushankkeen suunnitelmiin helle-, tulva- ja myrskyriskien hallintaratkaisut"
+  },
+  "extra-tp0842": {
+    "title": "Käytetään purettujen katujen reunakivet, rakennekerrokset ja käyttökelpoiset pylväät uusissa kohteissa"
+  },
+  "extra-tp0843": {
+    "title": "Käytetään vaatimukset täyttävää betonimursketta soveltuvissa maarakennuskohteissa"
+  },
+  "extra-tp0844": {
+    "title": "Vertaillaan kaavavaihtoehtojen päästöt, hiilivarastot ja liikkumistarve ennen kaavaratkaisun valintaa"
+  },
+  "extra-tp0845": {
+    "title": "Päivitetään jätehuoltomääräysten lajitteluohjeet ja valvonnan käytännöt"
+  },
+  "extra-tp0846": {
+    "title": "Järjestetään lajitteluneuvonta asukkaille ja kiinteistöjen henkilöstölle"
+  },
+  "extra-tp0847": {
+    "title": "Koulutetaan hankintavastaavat elinkaarikustannusten laskentaan ja ympäristökriteerien todentamiseen"
+  },
+  "extra-tp0848": {
+    "title": "Vuokrataan siirrettävät tilat määräaikaiseen palvelutarpeeseen uudisrakentamisen sijaan"
+  },
+  "extra-tp0849": {
+    "title": "Päivitetään hankintaohjeeseen tuoteryhmittäiset elinkaari-, ilmasto- ja kiertotalouskriteerit"
+  },
+  "extra-tp0850": {
+    "title": "Laaditaan purku- ja infrakohteille materiaalikartoitus ja osoitetaan käyttökelpoisille materiaaleille käyttökohteet"
+  },
+  "extra-tp0851": {
+    "title": "Julkaistaan kunnan lainattavien tavaroiden luettelo, varaustapa ja nouto-ohjeet"
+  },
+  "extra-tp0852": {
+    "title": "Lisätään puuttuvat jätelajien keräyspisteet yhteistyössä jätehuollon kanssa"
+  },
+  "extra-tp0853": {
+    "title": "Kokeillaan valitun ylijäämämateriaalin erilliskeräystä ja käyttöä kunnan toisessa toimipisteessä"
+  },
+  "extra-tp0854": {
+    "title": "Punnitaan valmistus-, tarjoilu- ja lautashävikki päivittäin ja korjataan tilausmääriä tulosten perusteella"
+  },
+  "extra-tp0855": {
+    "title": "Kerätään ruokapalvelujen asiakaspalaute säännöllisesti ja testataan palautteeseen perustuvat reseptimuutokset"
+  },
+  "extra-tp0856": {
+    "title": "Kootaan kouluruokatyöryhmä, joka valitsee kahdesti vuodessa kokeiltavat ruokalista- ja ruokailujärjestelymuutokset"
+  },
+  "extra-tp0857": {
+    "title": "Käynnistetään ylijäämäruoan myynti kunnan ruokapalveluissa ja järjestetään nouto sekä maksaminen"
+  },
+  "extra-tp0858": {
+    "title": "Tarjotaan kouluissa päivittäin maistuva kasvisruokavaihtoehto ja seurataan sen menekkiä"
+  },
+  "extra-tp0859": {
+    "title": "Toteutetaan sesonkiruokapäivät ja kilpailutetaan soveltuvat raaka-aineet pienempiin toimituseriin"
+  },
+  "extra-tp0860": {
+    "title": "Asetetaan lihavalmisteiden kilpailutukseen todennettavat tuotannon ympäristö- ja jäljitettävyyskriteerit"
+  },
+  "extra-tp0861": {
+    "title": "Kokeillaan tarjottimetonta kouluruokailua ja mitataan astianpesun veden- sekä energiankulutuksen muutos"
+  },
+  "extra-tp0862": {
+    "title": "Julkaistaan ylijäämäruoan myyntiajat ja tilausohjeet kunnan viestintäkanavissa"
+  },
+  "extra-tp0863": {
+    "title": "Mitataan kouluruokailuun osallistuminen ja kokeillaan oppilaiden valitsemia ruokalista- tai ruokailutilamuutoksia"
+  },
+  "extra-tp0864": {
+    "title": "Punnitaan valmistus-, tarjoilu- ja lautashävikki päivittäin ja korjataan tilausmääriä tulosten perusteella"
+  },
+  "extra-tp0866": {
+    "title": "Toteutetaan taajamametsän hoito luontoarvot ja turvallisuus huomioivan kohdesuunnitelman mukaan"
+  },
+  "extra-tp0868": {
+    "title": "Tarkastetaan kunnan metsien tuholaistilanne vuosittain ja kirjataan havainnot paikkatietoon"
+  },
+  "extra-tp0869": {
+    "title": "Tarkastetaan palvelurakennusten ja kulkureittien riskipuut ja poistetaan välitöntä vaaraa aiheuttavat puut"
+  },
+  "extra-tp0870": {
+    "title": "Säästetään taajamametsien hoidossa riistatiheikköjä ja lisätään lehtipuiden osuutta soveltuvilla kasvupaikoilla"
+  },
+  "extra-tp0871": {
+    "title": "Lisätään metsän uudistamisessa kohteeseen sopivien puulajien monipuolisuutta"
+  },
+  "extra-tp0872": {
+    "title": "Tarkastetaan kunnan metsien tuholaistilanne vuosittain ja kirjataan havainnot paikkatietoon"
+  },
+  "extra-tp0873": {
+    "title": "Laaditaan kuntametsien myrsky- ja lumituhojen tarkastus-, raivaus- ja viestintäohje"
+  },
+  "extra-tp0874": {
+    "title": "Inventoidaan taimikoiden ja nuorten metsien hoitotarpeet ja toteutetaan kasvupaikkaan sopivat hoitotyöt"
+  },
+  "extra-tp0876": {
+    "title": "Jätetään metsänhoidossa lahopuuta ja säästöpuita eri kehitysvaiheisiin"
+  },
+  "extra-tp0877": {
+    "title": "Kartoitetaan metsitykseen soveltuvat joutoalueet ja rajataan arvokkaat avoimet elinympäristöt ulkopuolelle"
+  },
+  "extra-tp0879": {
+    "title": "Avataan vesihuollon asiakkaille kulutusseuranta ja hälytykset poikkeavasta vedenkäytöstä"
+  },
+  "extra-tp0880": {
+    "title": "Järjestetään kouluryhmille opastettuja vierailuja jätevedenpuhdistamolle"
+  },
+  "extra-tp0881": {
+    "title": "Jaetaan kotitalouksille ohje veden säästämisestä, vuotojen havaitsemisesta ja viemäriin kuulumattomista aineista"
+  },
+  "extra-tp0882": {
+    "title": "Vaihdetaan vesihuollon energiasyöpöt laitteet ja optimoidaan pumppaus"
+  },
+  "extra-tp0883": {
+    "title": "Asennetaan jätevedenpuhdistamolle aurinkosähköjärjestelmä ja optimoidaan laitoksen energiankäyttö"
+  },
+  "extra-tp0884": {
+    "title": "Aikataulutetaan vesihuoltoverkoston ennakoiva kunnossapito ja osoitetaan työlle henkilöstöresurssit"
+  },
+  "extra-tp0885": {
+    "title": "Saneerataan vesitorni tai varavesisäiliö kuntoarvion perusteella"
+  },
+  "extra-tp0886": {
+    "title": "Laaditaan vesihuollon tulva- ja häiriötilanteiden toimintakortit ja harjoitellaan niiden käyttö"
+  },
+  "extra-tp0887": {
+    "title": "Päivitetään pohjaveden suojelusuunnitelma ja aikataulutetaan riskikohteiden korjaukset"
+  },
+  "extra-tp0888": {
+    "title": "Laaditaan taajaman hulevesiselvitys ja aikataulutetaan korjauskohteet"
+  },
+  "extra-tp0889": {
+    "title": "Kirjataan kaavaan hulevesien viivytyksen, imeytyksen ja tulvareittien vaatimukset"
+  },
+  "extra-tp0890": {
+    "title": "Rakennetaan taajamaan sadepuutarhoja ja hulevesipainanteita valuma-aluekohtaisen suunnitelman perusteella"
+  },
+  "extra-tp0891": {
+    "title": "Asennetaan kriittisiin kiinteistöihin ja vesihuollon kohteisiin mitoitettu varavoima ja testataan sen käyttö"
+  },
+  "extra-tp0892": {
+    "title": "Järjestetään kouluissa teemapäivä, jossa harjoitellaan lajittelua, energiansäästöä ja tavaroiden korjaamista"
+  },
+  "extra-tp0893": {
+    "title": "Julkaistaan kunnan ilmastotyön vuosikooste ja nimetään viestinnän vastuuhenkilö"
+  },
+  "extra-tp0894": {
+    "title": "Kerätään palaute ilmastosuunnitelman toimenpideluonnoksista ja julkaistaan yhteenveto tehdyistä muutoksista"
+  },
+  "extra-tp0895": {
+    "title": "Kilpailutetaan kuntien yhteinen ilmastokoordinaatio ja toimenpiteiden seurantanäkymä"
+  },
+  "extra-tp0896": {
+    "title": "Järjestetään yrityksille työpaja, jossa laaditaan oma energia- tai materiaalitehokkuustoimi"
+  },
+  "extra-tp0897": {
+    "title": "Toteutetaan kiinteistöjen energiakatselmusten nopeat säätö- ja huoltotoimet"
+  },
+  "extra-tp0898": {
+    "title": "Kootaan vajaakäyttöiset toiminnot yhteisiin tiloihin ja luovutaan tarpeettomista tiloista"
+  },
+  "extra-tp0899": {
+    "title": "Korvataan kunnan kiinteistöjen öljylämmitys ja järjestetään asukkaille lämmitystapaneuvonta"
+  },
+  "extra-tp0900": {
+    "title": "Kilpailutetaan kunnan rakennusten uusiutuvan energian ratkaisut ja järjestetään asukkaille energianeuvontapäivä"
+  },
+  "extra-tp0901": {
+    "title": "Korjataan kävely- ja pyöräilyreittien puuttuvat yhteydet"
+  },
+  "extra-tp0902": {
+    "title": "Avataan kunnan tiloihin yhteiskäyttöinen etätyöpiste ja otetaan käyttöön varausjärjestelmä"
+  },
+  "extra-tp0903": {
+    "title": "Täytetään ilmastovaikutusten tarkistuslista jokaisen kaavahankkeen vaihtoehtojen vertailussa"
+  },
+  "extra-tp0904": {
+    "title": "Järjestetään koulujen hävikkiviikko ja mitataan lautashävikin muutos"
+  },
+  "extra-tp0905": {
+    "title": "Tunnistetaan kiinteistöjen sähkön kulutushuiput ja otetaan käyttöön tuntikohtainen kuormanhallinta"
+  },
+  "extra-tp0906": {
+    "title": "Kootaan kunnan öljylämmityskohteet ja laaditaan lämmitystapamuutosten investointiohjelma"
+  },
+  "extra-tp0907": {
+    "title": "Säädetään katuvalaistuksen aikaohjaus ja himmennys liikenteen sekä turvallisuuden tarpeisiin"
+  },
+  "extra-tp0908": {
+    "title": "Asennetaan runkolukittavat, katetut pyörätelineet kouluille ja joukkoliikenteen pysäkeille"
+  },
+  "extra-tp0909": {
+    "title": "Yhdistellään kunnan tavarakuljetusten tilaukset ja optimoidaan jakelureitit"
+  },
+  "extra-tp0910": {
+    "title": "Punnitaan ruokahävikki ja säädetään valmistusmäärät sekä annostelu toteutuneen menekin mukaan"
+  },
+  "extra-tp0911": {
+    "title": "Laaditaan maarakennushankkeelle massataselaskelma ja käytetään soveltuvat kaivumaat uudelleen"
+  },
+  "extra-tp0912": {
+    "title": "Asetetaan hankintaan korjattavuuden ja uudelleenkäytön vaatimukset"
+  },
+  "extra-tp0913": {
+    "title": "Jätetään metsänhoidossa lahopuuta ja säästöpuita eri kehitysvaiheisiin"
+  },
+  "extra-tp0914": {
+    "title": "Kartoitetaan kunnan turvemaiden ennallistamiskelpoisuus ja asetetaan kohteet toteutusjärjestykseen"
+  },
+  "extra-tp0915": {
+    "title": "Mallinnetaan taajaman rankkasadevesien virtausreitit ja merkitään tulvaherkät kohteet paikkatietoon"
+  },
+  "extra-tp0916": {
+    "title": "Perustetaan niitty soveltuvalle nurmialueelle ja sovitaan niitto sekä niittojätteen keruu"
+  },
+  "extra-tp0917": {
+    "title": "Laaditaan päiväkotien ja palvelurakennusten helleohje sekä toteutetaan varjostus- ja viilennysratkaisut"
+  },
+  "extra-tp0918": {
+    "title": "Testataan kriittisten kiinteistöjen varavoima kuormitettuna ja korjataan testissä havaitut puutteet"
+  },
+  "extra-tp0919": {
+    "title": "Aikataulutetaan ilmastotoimien valmistelu, budjetointi ja seuranta kunnan talousarviovuosikelloon"
+  },
+  "extra-tp0920": {
+    "title": "Järjestetään asukkaiden lähiluontotalkoot ja sovitaan kunnostettavan kohteen jatkohoidosta"
+  },
+  "extra-tp0921": {
+    "title": "Asennetaan koulujen pihoille varjostusrakenteita ja istutetaan varjostavia puita"
+  },
+  "extra-tp0922": {
+    "title": "Asennetaan päiväkoteihin sisälämpötilan seuranta ja sovitaan ylilämpenemisen toimenpiderajat"
+  },
+  "extra-tp0923": {
+    "title": "Laaditaan kuntametsien myrsky- ja lumituhojen tarkastus-, raivaus- ja viestintäohje"
+  },
+  "extra-tp0924": {
+    "title": "Lisätään kunnan urakkasopimuksiin säävarautumisen tehtävät, vastuut ja hälytysrajat"
+  },
+  "extra-tp0925": {
+    "title": "Laaditaan kriittisten palvelujen vesikatko-ohjeet ja harjoitellaan varaveden jakelu"
+  },
+  "extra-tp0926": {
+    "title": "Kytketään keliseuranta kunnossapidon työmääräyksiin ja ajoitetaan liukkaudentorjunta ennakoivasti"
+  },
+  "extra-tp0927": {
+    "title": "Siirretään tulvariskissä olevat sähkö- ja tietoliikennelaitteet turvalliselle korkeudelle tai suojataan ne"
+  },
+  "extra-tp0928": {
+    "title": "Palkataan ja koulutetaan nuoria rajattuihin vieraslajien torjuntatöihin"
+  },
+  "extra-tp0929": {
+    "title": "Rakennetaan taajamaan sadepuutarhoja ja hulevesipainanteita valuma-aluekohtaisen suunnitelman perusteella"
+  },
+  "extra-tp0930": {
+    "title": "Inventoidaan purojen tierummut ja korjataan valitut kalojen kulkua estävät rakenteet"
+  },
+  "extra-tp0931": {
+    "title": "Laaditaan kunnan kosteikoille kohdekohtainen hoito-ohjelma ja toteutetaan ensimmäiset hoitotyöt"
+  },
+  "extra-tp0932": {
+    "title": "Niitetään valittujen pientareiden kasvillisuus ja kerätään niittojäte pois ravinnekuormituksen vähentämiseksi"
+  },
+  "extra-tp0933": {
+    "title": "Kartoitetaan pienvesien kunnostustarpeet ja valitaan toteutuskohteet ekologisen hyödyn sekä toteutettavuuden perusteella"
+  },
+  "extra-tp0934": {
+    "title": "Uusitaan vesihuollon pumput ja säädetään pumppaus tarpeenmukaiseksi"
+  },
+  "extra-tp0935": {
+    "title": "Toteutetaan viljelijöiden kanssa turvepellon vedenpinnan säätökokeilu ja seurataan satoa sekä vesitaloutta"
+  },
+  "extra-tp0936": {
+    "title": "Inventoidaan kunnan soiden ojat ja mitataan vedenpinnan taso ennallistamisen suunnittelua varten"
+  },
+  "extra-tp0937": {
+    "title": "Vertaillaan heikkotuottoisen turvemaametsän ennallistamista, jatkuvaa kasvatusta ja käsittelemättä jättämistä"
+  },
+  "extra-tp0938": {
+    "title": "Perustetaan suoennallistamisen seuranta vedenpinnan, kasvillisuuden ja vesistövaikutusten mittauksineen"
+  },
+  "extra-tp0939": {
+    "title": "Vertaillaan turvemaakohteen vesienpidätysratkaisut ja toteutetaan kohteeseen soveltuva ratkaisu"
+  },
+  "extra-tp0940": {
+    "title": "Laaditaan kunnan hiilivarastokartta ja käytetään sitä maankäyttövaihtoehtojen vertailussa"
+  },
+  "extra-tp0941": {
+    "title": "Lasketaan korjaamisen, uudisrakentamisen ja tilojen yhteiskäytön elinkaaripäästöt hankepäätöksen pohjaksi"
+  },
+  "extra-tp0942": {
+    "title": "Istutetaan katupuita kuumuudelle altistuville jalankulkureiteille ja turvataan puiden kasvutila"
+  },
+  "extra-tp0943": {
+    "title": "Laaditaan purku- ja infrakohteille materiaalikartoitus ja osoitetaan käyttökelpoisille materiaaleille käyttökohteet"
+  },
+  "extra-tp0944": {
+    "title": "Merkitään metsäiset ekologiset yhteydet kaavakarttaan ja säilytetään niiden toimivuus rakentamisessa"
+  },
+  "extra-tp0945": {
+    "title": "Vertaillaan kunnan metsien käsittelyvaihtoehtojen hiili-, luonto- ja talousvaikutukset ennen metsäsuunnitelman hyväksymistä"
+  },
+  "extra-tp0946": {
+    "title": "Pidennetään metsän kiertoaikaa soveltuvilla kuvioilla"
+  },
+  "extra-tp0947": {
+    "title": "Inventoidaan kunnan vanhojen metsien luontoarvot ja valmistellaan arvokkaiden kohteiden suojelu"
+  },
+  "extra-tp0948": {
+    "title": "Merkitään säilytettävät puut rakennussuunnitelmaan ja suojataan rungot sekä juuristo työmaan aikana"
+  },
+  "extra-tp0949": {
+    "title": "Mitataan kiinteistöjen vedenkulutus ja korjataan vuodot sekä tarpeettomat virtaamat"
+  },
+  "extra-tp0950": {
+    "title": "Yhdistetään kunnan toimistotiloja ja avataan vapaita kokous- sekä kirjastotiloja iltakäyttöön"
+  },
+  "extra-tp0951": {
+    "title": "Inventoidaan korjauskelpoiset kalusteet ja tilataan niiden kunnostus ennen uusien hankintaa"
+  },
+  "extra-tp0952": {
+    "title": "Perustetaan päiväkotien ja koulujen yhteinen väline- ja tavaralainaamo"
+  },
+  "extra-tp0953": {
+    "title": "Lisätään kuljetuspalvelun tarjouspyyntöön päästö- ja energiankulutuskriteerit"
+  },
+  "extra-tp0954": {
+    "title": "Asennetaan kunnan työpaikoille lukittava, säältä suojattu pyöräsäilytys"
+  },
+  "extra-tp0955": {
+    "title": "Järjestetään maatiloille energia- ja ympäristöasioiden neuvontatilaisuus"
+  },
+  "extra-tp0956": {
+    "title": "Kirjataan ruokapalveluhankintaan ravitsemus-, hävikki- ja ilmastokriteerit"
+  }
+}

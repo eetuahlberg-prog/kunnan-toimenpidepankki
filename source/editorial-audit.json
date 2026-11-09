@@ -1,0 +1,8 @@
+{
+  "version": "0.5",
+  "date": "2026-11-06",
+  "reviewed": 947,
+  "modelsRetained": 30,
+  "policy": "Kuntien aineistokirjauksista muokatut yleiset toimenpide-ehdotukset. Paikka-, yritys- ja hankekohtaiset nimet sekä aiemmat toteumat poistettu näkyvästä pankista. Epämääräiset tukemisen, kannustamisen ja edistämisen kirjaukset muutettu nimetyiksi töiksi. Alkuperäiset lähdetiedot säilyvät data.json- ja supplemental.json-tiedostoissa. Muokkaukset eivät ole suoria lainauksia. Täysin samannimiset otsikot ryhmitellään listassa. Kaikki taustakirjaukset ja tunnisteet säilyvät aiempien varmuuskopioiden yhteensopivuutta varten.",
+  "visibleDistinctTitles": 499
+}
